@@ -2,97 +2,560 @@
 <FolderProperties FolderName=".">
  <Folders/>
  <Files>
-  <FileProperties md5="fd0b78eeba106fad6816b8d1d5b760ee" Size="6884864" FileName="CrashRpt.dll"/>
-  <FileProperties md5="915711757d388d2315cd0ca8a2e1f63f" Size="3371008" FileName="PurifierB.dll"/>
-  <FileProperties md5="42945c180c359f9291cb3565d82dafe6" Size="13165057" FileName="RF.exe"/>
-  <FileProperties md5="bd3f03daee231bcf07c601448559c5bf" Size="6944752" FileName="RF_Online.bin"/>
+  <FileProperties FileName="CrashRpt.dll" md5="fd0b78eeba106fad6816b8d1d5b760ee" Size="6884864"/>
+  <FileProperties FileName="PurifierB.dll" md5="915711757d388d2315cd0ca8a2e1f63f" Size="3371008"/>
+  <FileProperties FileName="RF.exe" md5="42945c180c359f9291cb3565d82dafe6" Size="13165057"/>
+  <FileProperties FileName="RF_Online.bin" md5="bd3f03daee231bcf07c601448559c5bf" Size="6944752"/>
  </Files>
  <FolderProperties FolderName="DataTable">
   <Folders/>
   <Files>
-   <FileProperties md5="f1d3ff8443297732862df21dc4e57262" Size="4" FileName="BlockData.dat"/>
-   <FileProperties md5="c03662ae729c969190f57a3190a31fd4" Size="1679445" FileName="Character.edf"/>
-   <FileProperties md5="d6076be54adbe57bcc5cd56640c8afa1" Size="8667" FileName="clientdb.dat"/>
-   <FileProperties md5="92150b26c484ff1958ffff6366432b66" Size="108101" FileName="DefendGradeUpEff.edf"/>
-   <FileProperties md5="2bb8578a5a5b69bc2552ab848995210f" Size="39061" FileName="DefendRankUpEff.edf"/>
-   <FileProperties md5="8350939231099d2f21277cb3f96d81cd" Size="41609" FileName="EventShip.edf"/>
-   <FileProperties md5="5b262c6438064fe52269f3b8f9ccf5d9" Size="361" FileName="EventSound.edf"/>
-   <FileProperties md5="81dfdbcae659be53c9ccc7c86b61bef1" Size="358" FileName="GameSetting.ini"/>
-   <FileProperties md5="71895e74a84fcf899fae4f8906f8cb31" Size="34645049" FileName="item.edf"/>
-   <FileProperties md5="3f67527dbf5248449755ccc6a661043e" Size="297" FileName="ItemCash.edf"/>
-   <FileProperties md5="66006b628a3b88e6f5dc9d966e52dc7b" Size="16578433" FileName="ItemCombine.edf"/>
-   <FileProperties md5="9b8ad38ddfa13800718dafb02b316d89" Size="384385" FileName="ItemPremium.edf"/>
-   <FileProperties md5="b5ad0c62c28c50d0d9de5dc29c7c8173" Size="460377" FileName="ItemSetEffect.edf"/>
-   <FileProperties md5="a063ef7847c8908f5e0695c25de8614e" Size="32817" FileName="ItemTimer.edf"/>
-   <FileProperties md5="4be723764bc23dc4fdcbca91cb02f34e" Size="282224" FileName="Map.edf"/>
-   <FileProperties md5="f7e656094f0250794a1bd05926c81e71" Size="8181" FileName="MsgEvent.edf"/>
-   <FileProperties md5="d6d5fb083a3cc186fcaec7a45fa012b8" Size="657" FileName="PlayerCharacter.edf"/>
-   <FileProperties md5="b06d66b0b5f17a6b686b31cc4f32be9b" Size="3845181" FileName="Quest.edf"/>
-   <FileProperties md5="c90ea2fd98e4b7e6818efe31cab632eb" Size="7622205" FileName="Resource.edf"/>
-   <FileProperties md5="a63577e73692ecf4eb42182c969aa1cf" Size="2518225" FileName="SkillForce.edf"/>
-   <FileProperties md5="ff692df706e3534f0df6e68da165ba7d" Size="469473" FileName="SpecialStore.edf"/>
-   <FileProperties md5="a832e0bd635df6041ebd1ed86349769b" Size="1021689" FileName="Store.edf"/>
-   <FileProperties md5="a3f16e21157c7e26ca61ae4ff48e3045" Size="737" FileName="TrunkExted.edf"/>
-   <FileProperties md5="d98d52bb2ace98658ab799e92e216f2c" Size="108101" FileName="WeaponGradeUpEff.edf"/>
-   <FileProperties md5="12147bdaa1c5f92285d58ea398495dbe" Size="39061" FileName="WeaponRankUpEff.edf"/>
+   <FileProperties FileName="BlockData.dat" md5="f1d3ff8443297732862df21dc4e57262" Size="4"/>
+   <FileProperties FileName="Character.edf" md5="c03662ae729c969190f57a3190a31fd4" Size="1679445"/>
+   <FileProperties FileName="clientdb.dat" md5="d6076be54adbe57bcc5cd56640c8afa1" Size="8667"/>
+   <FileProperties FileName="DefendGradeUpEff.edf" md5="92150b26c484ff1958ffff6366432b66" Size="108101"/>
+   <FileProperties FileName="DefendRankUpEff.edf" md5="2bb8578a5a5b69bc2552ab848995210f" Size="39061"/>
+   <FileProperties FileName="EventShip.edf" md5="8350939231099d2f21277cb3f96d81cd" Size="41609"/>
+   <FileProperties FileName="EventSound.edf" md5="5b262c6438064fe52269f3b8f9ccf5d9" Size="361"/>
+   <FileProperties FileName="GameSetting.ini" md5="81dfdbcae659be53c9ccc7c86b61bef1" Size="358"/>
+   <FileProperties FileName="item.edf" md5="71895e74a84fcf899fae4f8906f8cb31" Size="34645049"/>
+   <FileProperties FileName="ItemCash.edf" md5="3f67527dbf5248449755ccc6a661043e" Size="297"/>
+   <FileProperties FileName="ItemCombine.edf" md5="66006b628a3b88e6f5dc9d966e52dc7b" Size="16578433"/>
+   <FileProperties FileName="ItemPremium.edf" md5="9b8ad38ddfa13800718dafb02b316d89" Size="384385"/>
+   <FileProperties FileName="ItemSetEffect.edf" md5="b5ad0c62c28c50d0d9de5dc29c7c8173" Size="460377"/>
+   <FileProperties FileName="ItemTimer.edf" md5="a063ef7847c8908f5e0695c25de8614e" Size="32817"/>
+   <FileProperties FileName="Map.edf" md5="4be723764bc23dc4fdcbca91cb02f34e" Size="282224"/>
+   <FileProperties FileName="MsgEvent.edf" md5="f7e656094f0250794a1bd05926c81e71" Size="8181"/>
+   <FileProperties FileName="PlayerCharacter.edf" md5="d6d5fb083a3cc186fcaec7a45fa012b8" Size="657"/>
+   <FileProperties FileName="Quest.edf" md5="b06d66b0b5f17a6b686b31cc4f32be9b" Size="3845181"/>
+   <FileProperties FileName="Resource.edf" md5="c90ea2fd98e4b7e6818efe31cab632eb" Size="7622205"/>
+   <FileProperties FileName="SkillForce.edf" md5="a63577e73692ecf4eb42182c969aa1cf" Size="2518225"/>
+   <FileProperties FileName="SpecialStore.edf" md5="ff692df706e3534f0df6e68da165ba7d" Size="469473"/>
+   <FileProperties FileName="Store.edf" md5="a832e0bd635df6041ebd1ed86349769b" Size="1021689"/>
+   <FileProperties FileName="TrunkExted.edf" md5="a3f16e21157c7e26ca61ae4ff48e3045" Size="737"/>
+   <FileProperties FileName="WeaponGradeUpEff.edf" md5="d98d52bb2ace98658ab799e92e216f2c" Size="108101"/>
+   <FileProperties FileName="WeaponRankUpEff.edf" md5="12147bdaa1c5f92285d58ea398495dbe" Size="39061"/>
   </Files>
   <FolderProperties FolderName="en-gb">
    <Folders/>
    <Files>
-    <FileProperties md5="d97684643c3c5ae175ca296b126d1409" Size="20104" FileName="advr.dat"/>
-    <FileProperties md5="68d8d15aa1dd780c9f0b49f036be8d33" Size="11349" FileName="Aka.dic"/>
-    <FileProperties md5="5237c4c80a41d4deffb4e939e2520fba" Size="33598" FileName="AR.scp"/>
-    <FileProperties md5="f0ffc0fef67042a9bc3842728292139d" Size="33625" FileName="AS.scp"/>
-    <FileProperties md5="d22efba181e53f8d4f9df2666e7ad49d" Size="32165" FileName="AW.scp"/>
-    <FileProperties md5="423ff4a2d6ef3199ee20234365f79f5c" Size="33216" FileName="BF.scp"/>
-    <FileProperties md5="4282a0889bd28b3a9649a82c3a9eeac1" Size="33566" FileName="BR.scp"/>
-    <FileProperties md5="67be292d5195834951a7fb0f10b26b6f" Size="33589" FileName="BS.scp"/>
-    <FileProperties md5="aad0e0c5081831548c7f0db23fff5260" Size="32146" FileName="BW.scp"/>
-    <FileProperties md5="f911310311f2f714c58a3d2077f9238c" Size="805" FileName="cashshopcategory.dat"/>
-    <FileProperties md5="8e1242ed92ef67103f37716bf47ea0d3" Size="183" FileName="CcrLogo.dat"/>
-    <FileProperties md5="272f074f9a7d532d30e0d1cb5be17d19" Size="133" FileName="Ceka.env"/>
-    <FileProperties md5="1a4dfbfca082914a429039c8348d7dc9" Size="33279" FileName="cf.scp"/>
-    <FileProperties md5="1aa14eb2020e21137643b19c9b24ef92" Size="2941" FileName="ChatCommand.ini"/>
-    <FileProperties md5="cafc13575d796753d7c93694906957d0" Size="33571" FileName="cr.scp"/>
-    <FileProperties md5="192e4afaac9c9ecd6666acb65be1c177" Size="38384" FileName="cryp.dat"/>
-    <FileProperties md5="29a6ca06b72a1c6de7459234c0b7e580" Size="32194" FileName="CS.scp"/>
-    <FileProperties md5="4de35c3e04e446d1737efab7752666fc" Size="2265" FileName="Cska.txt"/>
-    <FileProperties md5="5a7138fbb0b10046dd5611210dac3f37" Size="32184" FileName="CW.scp"/>
-    <FileProperties md5="d1d7cceb9cd295834ab3211d12564438" Size="25" FileName="font.ini"/>
-    <FileProperties md5="fc41fb81d45fd2fb22e4425f75820fda" Size="41" FileName="Ika.dic"/>
-    <FileProperties md5="978bf349d8a38f34da0bb7df2c861457" Size="1968" FileName="KeyMap.dat"/>
-    <FileProperties md5="840e0897b4b8cb724dc531740e48ea59" Size="1885" FileName="KeyMap_NKM.dat"/>
-    <FileProperties md5="ad9600617151b3f12268da6d6843a97c" Size="251443" FileName="MAPDATA.DAT"/>
-    <FileProperties md5="09f1d7b8a4daede9af793977ad0fc43f" Size="367009" FileName="NDCharacter.edf"/>
-    <FileProperties md5="e29cbb1f949a891e716fc33544701f50" Size="12486" FileName="NDEventShip.edf"/>
-    <FileProperties md5="72f86382c7f0daa1417c8ad0bdcb3196" Size="21286006" FileName="nditem.edf"/>
-    <FileProperties md5="c28c165c2e6bf486e92094ead5947b59" Size="297" FileName="NDItemCash.edf"/>
-    <FileProperties md5="8030bb69319ce8892dcaacf86d01abc4" Size="253700" FileName="NDLanguage.edf"/>
-    <FileProperties md5="185ab47404e5e14bf72946d4b6a52fd2" Size="43370" FileName="NDMap.edf"/>
-    <FileProperties md5="bd40ba7d22e91a7d2472f096547fde65" Size="7977" FileName="NDMsgEvent.edf"/>
-    <FileProperties md5="6fc861e0988093195416fb01a994f604" Size="73030" FileName="NDMsgMonster.edf"/>
-    <FileProperties md5="fbcaff8d2a86cc411eae26a2161a8b13" Size="2525505" FileName="NDQuest.edf"/>
-    <FileProperties md5="8f7f82dedd9b30fc37eeadebdf2cd15f" Size="1219977" FileName="NDSkillForce.edf"/>
-    <FileProperties md5="f66239cb6b199085460b09f6f6b2f9e6" Size="104247" FileName="NDStore.edf"/>
-    <FileProperties md5="2a5a63e8c6c60af3d4dfd52fbdd203c5" Size="996137" FileName="NDUIHelp.edf"/>
-    <FileProperties md5="5735afaa2d4d52f132f6226201026382" Size="1792" FileName="RF_WebURL.dat"/>
-    <FileProperties md5="d8164d1bc326de54a8934de05b762380" Size="4742" FileName="Tutorial.scp"/>
-    <FileProperties md5="ffca29aef39364d907dcdde901566741" Size="8571" FileName="UIHelp.edf"/>
-    <FileProperties md5="76e2f086e2c3fa2bed47065bce90dc91" Size="8193" FileName="WorldMapData.dat"/>
+    <FileProperties FileName="advr.dat" md5="d97684643c3c5ae175ca296b126d1409" Size="20104"/>
+    <FileProperties FileName="Aka.dic" md5="68d8d15aa1dd780c9f0b49f036be8d33" Size="11349"/>
+    <FileProperties FileName="AR.scp" md5="5237c4c80a41d4deffb4e939e2520fba" Size="33598"/>
+    <FileProperties FileName="AS.scp" md5="f0ffc0fef67042a9bc3842728292139d" Size="33625"/>
+    <FileProperties FileName="AW.scp" md5="d22efba181e53f8d4f9df2666e7ad49d" Size="32165"/>
+    <FileProperties FileName="BF.scp" md5="423ff4a2d6ef3199ee20234365f79f5c" Size="33216"/>
+    <FileProperties FileName="BR.scp" md5="4282a0889bd28b3a9649a82c3a9eeac1" Size="33566"/>
+    <FileProperties FileName="BS.scp" md5="67be292d5195834951a7fb0f10b26b6f" Size="33589"/>
+    <FileProperties FileName="BW.scp" md5="aad0e0c5081831548c7f0db23fff5260" Size="32146"/>
+    <FileProperties FileName="cashshopcategory.dat" md5="f911310311f2f714c58a3d2077f9238c" Size="805"/>
+    <FileProperties FileName="CcrLogo.dat" md5="8e1242ed92ef67103f37716bf47ea0d3" Size="183"/>
+    <FileProperties FileName="Ceka.env" md5="272f074f9a7d532d30e0d1cb5be17d19" Size="133"/>
+    <FileProperties FileName="cf.scp" md5="1a4dfbfca082914a429039c8348d7dc9" Size="33279"/>
+    <FileProperties FileName="ChatCommand.ini" md5="1aa14eb2020e21137643b19c9b24ef92" Size="2941"/>
+    <FileProperties FileName="cr.scp" md5="cafc13575d796753d7c93694906957d0" Size="33571"/>
+    <FileProperties FileName="cryp.dat" md5="192e4afaac9c9ecd6666acb65be1c177" Size="38384"/>
+    <FileProperties FileName="CS.scp" md5="29a6ca06b72a1c6de7459234c0b7e580" Size="32194"/>
+    <FileProperties FileName="Cska.txt" md5="4de35c3e04e446d1737efab7752666fc" Size="2265"/>
+    <FileProperties FileName="CW.scp" md5="5a7138fbb0b10046dd5611210dac3f37" Size="32184"/>
+    <FileProperties FileName="font.ini" md5="d1d7cceb9cd295834ab3211d12564438" Size="25"/>
+    <FileProperties FileName="Ika.dic" md5="fc41fb81d45fd2fb22e4425f75820fda" Size="41"/>
+    <FileProperties FileName="KeyMap.dat" md5="978bf349d8a38f34da0bb7df2c861457" Size="1968"/>
+    <FileProperties FileName="KeyMap_NKM.dat" md5="840e0897b4b8cb724dc531740e48ea59" Size="1885"/>
+    <FileProperties FileName="MAPDATA.DAT" md5="ad9600617151b3f12268da6d6843a97c" Size="251443"/>
+    <FileProperties FileName="NDCharacter.edf" md5="09f1d7b8a4daede9af793977ad0fc43f" Size="367009"/>
+    <FileProperties FileName="NDEventShip.edf" md5="e29cbb1f949a891e716fc33544701f50" Size="12486"/>
+    <FileProperties FileName="nditem.edf" md5="72f86382c7f0daa1417c8ad0bdcb3196" Size="21286006"/>
+    <FileProperties FileName="NDItemCash.edf" md5="c28c165c2e6bf486e92094ead5947b59" Size="297"/>
+    <FileProperties FileName="NDLanguage.edf" md5="8030bb69319ce8892dcaacf86d01abc4" Size="253700"/>
+    <FileProperties FileName="NDMap.edf" md5="185ab47404e5e14bf72946d4b6a52fd2" Size="43370"/>
+    <FileProperties FileName="NDMsgEvent.edf" md5="bd40ba7d22e91a7d2472f096547fde65" Size="7977"/>
+    <FileProperties FileName="NDMsgMonster.edf" md5="6fc861e0988093195416fb01a994f604" Size="73030"/>
+    <FileProperties FileName="NDQuest.edf" md5="fbcaff8d2a86cc411eae26a2161a8b13" Size="2525505"/>
+    <FileProperties FileName="NDSkillForce.edf" md5="8f7f82dedd9b30fc37eeadebdf2cd15f" Size="1219977"/>
+    <FileProperties FileName="NDStore.edf" md5="f66239cb6b199085460b09f6f6b2f9e6" Size="104247"/>
+    <FileProperties FileName="NDUIHelp.edf" md5="2a5a63e8c6c60af3d4dfd52fbdd203c5" Size="996137"/>
+    <FileProperties FileName="RF_WebURL.dat" md5="5735afaa2d4d52f132f6226201026382" Size="1792"/>
+    <FileProperties FileName="Tutorial.scp" md5="d8164d1bc326de54a8934de05b762380" Size="4742"/>
+    <FileProperties FileName="UIHelp.edf" md5="ffca29aef39364d907dcdde901566741" Size="8571"/>
+    <FileProperties FileName="WorldMapData.dat" md5="76e2f086e2c3fa2bed47065bce90dc91" Size="8193"/>
    </Files>
   </FolderProperties>
   <FolderProperties FolderName="ko-kr">
    <Folders/>
    <Files>
-    <FileProperties md5="68d8d15aa1dd780c9f0b49f036be8d33" Size="11349" FileName="Aka.dic"/>
-    <FileProperties md5="fc41fb81d45fd2fb22e4425f75820fda" Size="41" FileName="Ika.dic"/>
+    <FileProperties FileName="Aka.dic" md5="68d8d15aa1dd780c9f0b49f036be8d33" Size="11349"/>
+    <FileProperties FileName="Ika.dic" md5="fc41fb81d45fd2fb22e4425f75820fda" Size="41"/>
    </Files>
+  </FolderProperties>
+ </FolderProperties>
+ <FolderProperties FolderName="Effect">
+  <Folders/>
+  <Files>
+   <FileProperties FileName="EffectEntityList.spt" md5="d64b57e67e7af517b6c32160f07a3fef" Size="426723"/>
+   <FileProperties FileName="MagicSptList.spt" md5="4c51ca7164669987009ce3174a5a24a2" Size="1045001"/>
+  </Files>
+  <FolderProperties FolderName="item_7">
+   <Folders/>
+   <Files/>
+   <FolderProperties FolderName="bel_unit">
+    <Folders/>
+    <Files/>
+    <FolderProperties FolderName="unit_attack">
+     <Folders/>
+     <Files>
+      <FileProperties FileName="unit_attack_lv01_mag.spt" md5="c269d8f42b7e0d6a2416116bd777b08f" Size="1142"/>
+      <FileProperties FileName="unit_attack_lv02_mag.spt" md5="9d245f3a4ca70d05e7ffdcc0e6a1a209" Size="1134"/>
+      <FileProperties FileName="unit_attack_lv03_mag.spt" md5="819ce5ff2b0c8175d733e1b363d319dc" Size="1125"/>
+      <FileProperties FileName="unit_attack_lv04_mag.spt" md5="598e996212b4a00d7d8b19ac685054f8" Size="1129"/>
+     </Files>
+     <FolderProperties FolderName="src">
+      <Folders/>
+      <Files>
+       <FileProperties FileName="buff_wave.spt" md5="076e9e452f424c8c11edd030799b47e1" Size="495"/>
+       <FileProperties FileName="nu_wave01.spt" md5="103918a5a7bc5a4b4e07a7f7a1e3d021" Size="504"/>
+       <FileProperties FileName="nu_wave02.spt" md5="1966f67d346b5b09773c0c01064e0291" Size="507"/>
+       <FileProperties FileName="nu_wave03.spt" md5="cf9c3bdaf87f75110bc5b185867555d4" Size="504"/>
+       <FileProperties FileName="nu_wave04.spt" md5="5083a069eb773633699ad7a70b303130" Size="506"/>
+       <FileProperties FileName="ring.spt" md5="e793d2ae4e49e9c80c0090b5eef7b020" Size="455"/>
+       <FileProperties FileName="ring2.spt" md5="7b92473a8fbf21267c368292648cc725" Size="452"/>
+       <FileProperties FileName="scroll_plan.spt" md5="58d1ad31bc514c8e113c5af2cf7108e2" Size="568"/>
+       <FileProperties FileName="wc_cent_plan_02.spt" md5="32c812cad3afc46382d7cbfd6f873fa2" Size="476"/>
+      </Files>
+      <FolderProperties FolderName="bellato_marker">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="arc_mark.r3e" md5="9e1ea6dffa29897884d0b79c27e66fb2" Size="420"/>
+        <FileProperties FileName="arc_mark.r3m" md5="f45560b22e8c245a231434f874cfaa87" Size="198"/>
+        <FileProperties FileName="arc_mark.r3t" md5="8464930fc23975b2600d160914617ea3" Size="43972"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="buff_wave">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="nu_wave01.r3e" md5="7a7ae3d92698a4903c7d472dba553791" Size="220"/>
+        <FileProperties FileName="nu_wave01.r3m" md5="4d46b9c882d4f37ea699aad39bc80e3f" Size="198"/>
+        <FileProperties FileName="nu_wave01.r3t" md5="dedab17a5184afa67eab69ff6c9a9c38" Size="65804"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="nu_wave01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="nu_wave01.r3e" md5="7a7ae3d92698a4903c7d472dba553791" Size="220"/>
+        <FileProperties FileName="nu_wave01.r3m" md5="4d46b9c882d4f37ea699aad39bc80e3f" Size="198"/>
+        <FileProperties FileName="nu_wave01.r3t" md5="a0096eebcc95799c81e8e93acc258f33" Size="43972"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="nu_wave02">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="nu_wave02.r3e" md5="7a7ae3d92698a4903c7d472dba553791" Size="220"/>
+        <FileProperties FileName="nu_wave02.r3m" md5="4d46b9c882d4f37ea699aad39bc80e3f" Size="198"/>
+        <FileProperties FileName="nu_wave02.r3t" md5="078efe91fb35ed74637297639b51dbcc" Size="1048844"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="nu_wave03">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="nu_wave03.r3e" md5="7a7ae3d92698a4903c7d472dba553791" Size="220"/>
+        <FileProperties FileName="nu_wave03.r3m" md5="4d46b9c882d4f37ea699aad39bc80e3f" Size="198"/>
+        <FileProperties FileName="nu_wave03.r3t" md5="43362c32d4454f73a9a16ecf3d0628c2" Size="65804"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="ring">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="ring.r3e" md5="e58b7fe6db0ddd745c09396ef39cf811" Size="10580"/>
+        <FileProperties FileName="ring.r3m" md5="c1c5768ba9a09c5b36ecec095757c5b6" Size="198"/>
+        <FileProperties FileName="ring.r3t" md5="f2da066d97465cdf990e198dd8aeaa36" Size="1652"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="ring2">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="ring.r3e" md5="e58b7fe6db0ddd745c09396ef39cf811" Size="10580"/>
+        <FileProperties FileName="ring.r3m" md5="c1c5768ba9a09c5b36ecec095757c5b6" Size="198"/>
+        <FileProperties FileName="ring.r3t" md5="25a78d46cd70aa0cd4bb1449f19554a1" Size="22164"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="scroll_plan">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="nu_wave01.r3e" md5="7a7ae3d92698a4903c7d472dba553791" Size="220"/>
+        <FileProperties FileName="nu_wave01.r3m" md5="4d46b9c882d4f37ea699aad39bc80e3f" Size="198"/>
+        <FileProperties FileName="nu_wave01.r3t" md5="6f01e48a40a45a840935a7364ba38860" Size="262412"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="wc_cent_plan_02">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="wc_cent_plan_02.r3e" md5="be4eacf65d3c26588b5453f7aadad9ee" Size="220"/>
+        <FileProperties FileName="wc_cent_plan_02.r3m" md5="43deb7990733937fbf1ec98b159272dc" Size="198"/>
+        <FileProperties FileName="wc_cent_plan_02.r3t" md5="189eda35a704983ae490749bf52efb67" Size="65804"/>
+       </Files>
+      </FolderProperties>
+     </FolderProperties>
+    </FolderProperties>
+    <FolderProperties FolderName="unit_defense">
+     <Folders/>
+     <Files>
+      <FileProperties FileName="unit_defense_lv01_mag.spt" md5="4871ef28fba977e9eb4364d9b7f143ac" Size="834"/>
+      <FileProperties FileName="unit_defense_lv02_mag.spt" md5="8528e43f9a762ff704736d7ed54533d1" Size="830"/>
+      <FileProperties FileName="unit_defense_lv03_mag.spt" md5="05daef88e3d8640d6131d79d3d88e8c7" Size="822"/>
+      <FileProperties FileName="unit_defense_lv04_mag.spt" md5="55e24e32ec13563482e7097b5d86382f" Size="814"/>
+     </Files>
+     <FolderProperties FolderName="src">
+      <Folders/>
+      <Files>
+       <FileProperties FileName="glow.spt" md5="3a04b92b4b01a4615a0534e0076646c6" Size="503"/>
+       <FileProperties FileName="unit_shield_01.spt" md5="3a7d07110dab7bb72b21c06f5c4d1bd2" Size="683"/>
+       <FileProperties FileName="unit_shield_02.spt" md5="706b03873ae1c8e856891797dc3ecb8f" Size="691"/>
+       <FileProperties FileName="unit_shield_03.spt" md5="c68e45fda7dbf7ab5cc889a8048c0a01" Size="689"/>
+       <FileProperties FileName="unit_shield_04.spt" md5="3f219f4e6cc519f6c68d619625c7ba50" Size="690"/>
+       <FileProperties FileName="wave_part.spt" md5="5efdea18f9a39d6dd90f52634ef10064" Size="549"/>
+       <FileProperties FileName="wave_sphere.spt" md5="fedb50c5187acd65bc11e50e6359a733" Size="440"/>
+      </Files>
+      <FolderProperties FolderName="glow">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="up.r3e" md5="a68388f6b01b7529f2114f7522460c4e" Size="208"/>
+        <FileProperties FileName="up.r3m" md5="bc2cc730cf3fc3e7b4e35bf1e0c5f027" Size="198"/>
+        <FileProperties FileName="up.r3t" md5="35b69050fd862975e902d53f2af5abeb" Size="11204"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield.r3e" md5="d6cc110126ce4a6b9c818fa2d01b5d23" Size="8128"/>
+        <FileProperties FileName="unit_shield.r3m" md5="66a857b2c3969d4c1da84a6fbc194d2f" Size="198"/>
+        <FileProperties FileName="unit_shield.r3t" md5="bbacb6bf595c77f5e29fbd6b6ffc9903" Size="1398396"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_02">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield_02.r3e" md5="ff8879534f52d3b8d00bc2d96f58dff6" Size="8128"/>
+        <FileProperties FileName="unit_shield_02.r3m" md5="66a857b2c3969d4c1da84a6fbc194d2f" Size="198"/>
+        <FileProperties FileName="unit_shield_02.r3t" md5="81a073b329f8d5aac3509f94d6505fb3" Size="1398396"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_03">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield_03.r3e" md5="5eadad6014554eaaf8503154067d06c8" Size="8128"/>
+        <FileProperties FileName="unit_shield_03.r3m" md5="7ffd4bd5e2d6b5d61f487c7df921a854" Size="198"/>
+        <FileProperties FileName="unit_shield_03.r3t" md5="e32b68d0a5a83fda72d60fcae0a84298" Size="33036"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_04">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield_04.r3e" md5="5eadad6014554eaaf8503154067d06c8" Size="8128"/>
+        <FileProperties FileName="unit_shield_04.r3m" md5="46958366f9777ce8c46921c2a996ea6b" Size="198"/>
+        <FileProperties FileName="unit_shield_04.r3t" md5="98da7c9c7260e7a977e7a7de8bf349b9" Size="699332"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="wave_part">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="wave_part.r3e" md5="f2b3eceaa4d18f6f8edb6915563865c5" Size="2384"/>
+        <FileProperties FileName="wave_part.r3m" md5="efb40b102728d5ccba04291866d33304" Size="198"/>
+        <FileProperties FileName="wave_part.r3t" md5="cb366407c69ff95a59d04ff45992ac34" Size="43988"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="wave_sphere">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="wave_sphere.r3e" md5="60723776a821a0e811c8e4471f6dd9b4" Size="6062"/>
+        <FileProperties FileName="wave_sphere.r3m" md5="0f0e91bb1d4e1b1c7bb1607544244852" Size="198"/>
+        <FileProperties FileName="wave_sphere.r3t" md5="3d83d030b76ccbe2ae7ff13dfb327dd6" Size="43988"/>
+       </Files>
+      </FolderProperties>
+     </FolderProperties>
+    </FolderProperties>
+   </FolderProperties>
+   <FolderProperties FolderName="cora">
+    <Folders/>
+    <Files/>
+    <FolderProperties FolderName="hekate">
+     <Folders/>
+     <Files>
+      <FileProperties FileName="hekate_lv01_mag.spt" md5="4d235f91f3867e7dba19684c34508c34" Size="778"/>
+      <FileProperties FileName="hekate_lv02_mag.spt" md5="5bcbb458e3b5e68414f327981ae41d87" Size="774"/>
+      <FileProperties FileName="hekate_lv03_mag.spt" md5="f13d8dda2789e237a5a0b4649c48f364" Size="768"/>
+      <FileProperties FileName="hekate_lv04_mag.spt" md5="b1c5d76580131bd6d2919c51903b3b30" Size="756"/>
+     </Files>
+     <FolderProperties FolderName="src">
+      <Folders/>
+      <Files>
+       <FileProperties FileName="lv10_lighting_01.spt" md5="a1596de56211ae77c4f04e688f58f7f8" Size="473"/>
+       <FileProperties FileName="scroll_plan.spt" md5="7617f1df6d81dcd7bb8ab754994db934" Size="557"/>
+       <FileProperties FileName="scroll_plan_01.spt" md5="c5dc7b3a10b057794ab05e90781fd1dd" Size="561"/>
+       <FileProperties FileName="unit_shield_01.spt" md5="6f68d2ec34995cad0afa28ec82745ec6" Size="674"/>
+       <FileProperties FileName="unit_shield_03.spt" md5="d4158ba23f169324560bfc315c7f53bf" Size="678"/>
+       <FileProperties FileName="unit_shield_04.spt" md5="02a66f7ddecb105347becfacb3f3a1f1" Size="678"/>
+      </Files>
+      <FolderProperties FolderName="lv10_lighting_01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="pow_p.r3e" md5="d1075108d8e402ebeb8aad792e0fb30c" Size="268"/>
+        <FileProperties FileName="pow_p.r3m" md5="a564e605396086ce4cbac9af9c22f0a2" Size="198"/>
+        <FileProperties FileName="pow_p.r3t" md5="4ad3d9853a8cb443615936e1a34f7879" Size="699332"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="scroll_plan">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="nu_wave01.r3e" md5="7a7ae3d92698a4903c7d472dba553791" Size="220"/>
+        <FileProperties FileName="nu_wave01.r3m" md5="4d46b9c882d4f37ea699aad39bc80e3f" Size="198"/>
+        <FileProperties FileName="nu_wave01.r3t" md5="d5a11c0fd4909bff1c9074b97ada6a2a" Size="262412"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="scroll_plan_01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="nu_wave01.r3e" md5="7a7ae3d92698a4903c7d472dba553791" Size="220"/>
+        <FileProperties FileName="nu_wave01.r3m" md5="4d46b9c882d4f37ea699aad39bc80e3f" Size="198"/>
+        <FileProperties FileName="nu_wave01.r3t" md5="dff958f2bb2b6e4e1cf8bc9b3c36bc94" Size="262412"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield.r3e" md5="d6cc110126ce4a6b9c818fa2d01b5d23" Size="8128"/>
+        <FileProperties FileName="unit_shield.r3m" md5="66a857b2c3969d4c1da84a6fbc194d2f" Size="198"/>
+        <FileProperties FileName="unit_shield.r3t" md5="ea5d6cc2e16a3d7599a0145823d54561" Size="1398396"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_03">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield_03.r3e" md5="5eadad6014554eaaf8503154067d06c8" Size="8128"/>
+        <FileProperties FileName="unit_shield_03.r3m" md5="7ffd4bd5e2d6b5d61f487c7df921a854" Size="198"/>
+        <FileProperties FileName="unit_shield_03.r3t" md5="2abec574917b72466865c1201e36ed1d" Size="33036"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_04">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield_04.r3e" md5="5eadad6014554eaaf8503154067d06c8" Size="8128"/>
+        <FileProperties FileName="unit_shield_04.r3m" md5="46958366f9777ce8c46921c2a996ea6b" Size="198"/>
+        <FileProperties FileName="unit_shield_04.r3t" md5="7be73576990e585ea6dfa6d33e75f55b" Size="699332"/>
+       </Files>
+      </FolderProperties>
+     </FolderProperties>
+    </FolderProperties>
+    <FolderProperties FolderName="inanna">
+     <Folders/>
+     <Files>
+      <FileProperties FileName="inanna_lv01_mag.spt" md5="ccc5bb2839ccce589c06e5163dad65bf" Size="778"/>
+      <FileProperties FileName="inanna_lv02_mag.spt" md5="e24fd26d39d1dd45f00fed447ffa5fbc" Size="774"/>
+      <FileProperties FileName="inanna_lv03_mag.spt" md5="fbead1090f73bf582256c58b132b2b7c" Size="768"/>
+      <FileProperties FileName="inanna_lv04_mag.spt" md5="effbac174c01a110302351c69eb683ad" Size="756"/>
+     </Files>
+     <FolderProperties FolderName="src">
+      <Folders/>
+      <Files>
+       <FileProperties FileName="lv10_lighting_01.spt" md5="60e0de63cf56a763900570f904889d29" Size="473"/>
+       <FileProperties FileName="scroll_plan.spt" md5="d2504a414a8de40719c796d54f1c59da" Size="557"/>
+       <FileProperties FileName="scroll_plan_01.spt" md5="053b40bcb1643cd6a01d8a8b1b64dfaa" Size="561"/>
+       <FileProperties FileName="unit_shield_01.spt" md5="baba4b6a05ece667981204b1794a1818" Size="676"/>
+       <FileProperties FileName="unit_shield_03.spt" md5="413656357b05ada7fd8424cd9a9018f3" Size="678"/>
+       <FileProperties FileName="unit_shield_04.spt" md5="add71885e0b2c4ac27eeb68daee584dd" Size="678"/>
+      </Files>
+      <FolderProperties FolderName="lv10_lighting_01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="pow_p.r3e" md5="d1075108d8e402ebeb8aad792e0fb30c" Size="268"/>
+        <FileProperties FileName="pow_p.r3m" md5="a564e605396086ce4cbac9af9c22f0a2" Size="198"/>
+        <FileProperties FileName="pow_p.r3t" md5="f64b6d02c5d3e48afca3ba2957a9471a" Size="699332"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="scroll_plan">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="nu_wave01.r3e" md5="7a7ae3d92698a4903c7d472dba553791" Size="220"/>
+        <FileProperties FileName="nu_wave01.r3m" md5="4d46b9c882d4f37ea699aad39bc80e3f" Size="198"/>
+        <FileProperties FileName="nu_wave01.r3t" md5="d3ba2693f7ff9c893a735a975516140e" Size="262412"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="scroll_plan_01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="nu_wave01.r3e" md5="7a7ae3d92698a4903c7d472dba553791" Size="220"/>
+        <FileProperties FileName="nu_wave01.r3m" md5="4d46b9c882d4f37ea699aad39bc80e3f" Size="198"/>
+        <FileProperties FileName="nu_wave01.r3t" md5="a47458496964dff49c96cf85f8d5ed88" Size="262412"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield.r3e" md5="d6cc110126ce4a6b9c818fa2d01b5d23" Size="8128"/>
+        <FileProperties FileName="unit_shield.r3m" md5="66a857b2c3969d4c1da84a6fbc194d2f" Size="198"/>
+        <FileProperties FileName="unit_shield.r3t" md5="934405d56b2d79aad0dff3f7b5e1f655" Size="1398396"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_03">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield_03.r3e" md5="5eadad6014554eaaf8503154067d06c8" Size="8128"/>
+        <FileProperties FileName="unit_shield_03.r3m" md5="7ffd4bd5e2d6b5d61f487c7df921a854" Size="198"/>
+        <FileProperties FileName="unit_shield_03.r3t" md5="26872a7d6e566438c27e9ab9de61b650" Size="33036"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_04">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield_04.r3e" md5="5eadad6014554eaaf8503154067d06c8" Size="8128"/>
+        <FileProperties FileName="unit_shield_04.r3m" md5="46958366f9777ce8c46921c2a996ea6b" Size="198"/>
+        <FileProperties FileName="unit_shield_04.r3t" md5="f8a93f70b93f34158171c60ee3b6ab12" Size="699332"/>
+       </Files>
+      </FolderProperties>
+     </FolderProperties>
+    </FolderProperties>
+    <FolderProperties FolderName="isis">
+     <Folders/>
+     <Files>
+      <FileProperties FileName="isis_lv01_mag.spt" md5="9ab0ec13cb3502531b6f39bd70165b09" Size="778"/>
+      <FileProperties FileName="isis_lv02_mag.spt" md5="31250ed8f5f896a99c76c2e9370a9472" Size="774"/>
+      <FileProperties FileName="isis_lv03_mag.spt" md5="dded6f64046d8225e37639159fe99ba1" Size="768"/>
+      <FileProperties FileName="isis_lv04_mag.spt" md5="e889c2719e9d90e09d510682bb14a5ca" Size="756"/>
+     </Files>
+     <FolderProperties FolderName="src">
+      <Folders/>
+      <Files>
+       <FileProperties FileName="lv10_lighting_01.spt" md5="fee8feec6d12aa9b7591d92c09c0d9e5" Size="471"/>
+       <FileProperties FileName="scroll_plan.spt" md5="c8eb149c245425aaef6b0eca6b081e61" Size="555"/>
+       <FileProperties FileName="scroll_plan_01.spt" md5="2c65375579a5e6cef1065adbb64c73ea" Size="559"/>
+       <FileProperties FileName="unit_shield_01.spt" md5="b57cd3f9edef7b8dbe2a657c652169d0" Size="674"/>
+       <FileProperties FileName="unit_shield_03.spt" md5="962bc9b41a41deb07cf0929e196306f7" Size="676"/>
+       <FileProperties FileName="unit_shield_04.spt" md5="394e9b4e71a883acb21d550da91754dd" Size="676"/>
+      </Files>
+      <FolderProperties FolderName="lv10_lighting_01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="pow_p.r3e" md5="d1075108d8e402ebeb8aad792e0fb30c" Size="268"/>
+        <FileProperties FileName="pow_p.r3m" md5="a564e605396086ce4cbac9af9c22f0a2" Size="198"/>
+        <FileProperties FileName="pow_p.r3t" md5="37f00e8d98cf37cb12c602751a938dc8" Size="699332"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="scroll_plan">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="nu_wave01.r3e" md5="7a7ae3d92698a4903c7d472dba553791" Size="220"/>
+        <FileProperties FileName="nu_wave01.r3m" md5="4d46b9c882d4f37ea699aad39bc80e3f" Size="198"/>
+        <FileProperties FileName="nu_wave01.r3t" md5="fe0f8b2d9cc1a1f27ee4ed51c8ca61af" Size="262412"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="scroll_plan_01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="nu_wave01.r3e" md5="7a7ae3d92698a4903c7d472dba553791" Size="220"/>
+        <FileProperties FileName="nu_wave01.r3m" md5="4d46b9c882d4f37ea699aad39bc80e3f" Size="198"/>
+        <FileProperties FileName="nu_wave01.r3t" md5="81be97e2d1688273d441f225c8acacac" Size="262412"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield.r3e" md5="d6cc110126ce4a6b9c818fa2d01b5d23" Size="8128"/>
+        <FileProperties FileName="unit_shield.r3m" md5="66a857b2c3969d4c1da84a6fbc194d2f" Size="198"/>
+        <FileProperties FileName="unit_shield.r3t" md5="d8b339959260e81e2e2a9fe217bf6bf0" Size="1398396"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_03">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield_03.r3e" md5="5eadad6014554eaaf8503154067d06c8" Size="8128"/>
+        <FileProperties FileName="unit_shield_03.r3m" md5="7ffd4bd5e2d6b5d61f487c7df921a854" Size="198"/>
+        <FileProperties FileName="unit_shield_03.r3t" md5="39bb4d8336cd301c8a644070eb7bdd69" Size="33036"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_04">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield_04.r3e" md5="5eadad6014554eaaf8503154067d06c8" Size="8128"/>
+        <FileProperties FileName="unit_shield_04.r3m" md5="46958366f9777ce8c46921c2a996ea6b" Size="198"/>
+        <FileProperties FileName="unit_shield_04.r3t" md5="47d01810be23383175b95b74787b0e57" Size="699332"/>
+       </Files>
+      </FolderProperties>
+     </FolderProperties>
+    </FolderProperties>
+    <FolderProperties FolderName="paimon">
+     <Folders/>
+     <Files>
+      <FileProperties FileName="paimon_lv01_mag.spt" md5="ebff07953b389283d5323d2ea3f387af" Size="778"/>
+      <FileProperties FileName="paimon_lv02_mag.spt" md5="27120eddc838b355e8cbcbf3fda1eb99" Size="774"/>
+      <FileProperties FileName="paimon_lv03_mag.spt" md5="3ffbbafd25fef1f675f5b5f832bfe314" Size="768"/>
+      <FileProperties FileName="paimon_lv04_mag.spt" md5="8f39a29ce1f571e70a451a5889686979" Size="756"/>
+     </Files>
+     <FolderProperties FolderName="src">
+      <Folders/>
+      <Files>
+       <FileProperties FileName="lv10_lighting_01.spt" md5="707baee3fd0e38b1e3bccfbbab571ff7" Size="473"/>
+       <FileProperties FileName="scroll_plan.spt" md5="734583e238c92e06cb88afa0ffe07f9e" Size="557"/>
+       <FileProperties FileName="scroll_plan_01.spt" md5="f80a41e65029ce624554d716e42db537" Size="561"/>
+       <FileProperties FileName="unit_shield_01.spt" md5="b5a3323106198f2bcdd75f59da8f4ceb" Size="674"/>
+       <FileProperties FileName="unit_shield_03.spt" md5="6cd4a93bf46186e23018426ba644af52" Size="678"/>
+       <FileProperties FileName="unit_shield_04.spt" md5="b12427d9241bb5f3ed57dd8c8bf69d59" Size="678"/>
+      </Files>
+      <FolderProperties FolderName="lv10_lighting_01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="pow_p.r3e" md5="d1075108d8e402ebeb8aad792e0fb30c" Size="268"/>
+        <FileProperties FileName="pow_p.r3m" md5="a564e605396086ce4cbac9af9c22f0a2" Size="198"/>
+        <FileProperties FileName="pow_p.r3t" md5="3bc90a8212690451762f3ac08cb1ed17" Size="699332"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="scroll_plan">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="nu_wave01.r3e" md5="7a7ae3d92698a4903c7d472dba553791" Size="220"/>
+        <FileProperties FileName="nu_wave01.r3m" md5="4d46b9c882d4f37ea699aad39bc80e3f" Size="198"/>
+        <FileProperties FileName="nu_wave01.r3t" md5="892e95c798c4f5f52afce1b5fd224e0d" Size="262412"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="scroll_plan_01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="nu_wave01.r3e" md5="7a7ae3d92698a4903c7d472dba553791" Size="220"/>
+        <FileProperties FileName="nu_wave01.r3m" md5="4d46b9c882d4f37ea699aad39bc80e3f" Size="198"/>
+        <FileProperties FileName="nu_wave01.r3t" md5="a0bb73b18f51397033b7f65324541657" Size="262412"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_01">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield.r3e" md5="d6cc110126ce4a6b9c818fa2d01b5d23" Size="8128"/>
+        <FileProperties FileName="unit_shield.r3m" md5="66a857b2c3969d4c1da84a6fbc194d2f" Size="198"/>
+        <FileProperties FileName="unit_shield.r3t" md5="6895185805cd03b0e192c6565296f2a8" Size="1398396"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_03">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield_03.r3e" md5="5eadad6014554eaaf8503154067d06c8" Size="8128"/>
+        <FileProperties FileName="unit_shield_03.r3m" md5="7ffd4bd5e2d6b5d61f487c7df921a854" Size="198"/>
+        <FileProperties FileName="unit_shield_03.r3t" md5="83ea6a029f2ff341849fa82582834215" Size="33036"/>
+       </Files>
+      </FolderProperties>
+      <FolderProperties FolderName="unit_shield_04">
+       <Folders/>
+       <Files>
+        <FileProperties FileName="unit_shield_04.r3e" md5="5eadad6014554eaaf8503154067d06c8" Size="8128"/>
+        <FileProperties FileName="unit_shield_04.r3m" md5="46958366f9777ce8c46921c2a996ea6b" Size="198"/>
+        <FileProperties FileName="unit_shield_04.r3t" md5="48f4737670e8a2aed74649affa04557e" Size="699332"/>
+       </Files>
+      </FolderProperties>
+     </FolderProperties>
+    </FolderProperties>
+   </FolderProperties>
   </FolderProperties>
  </FolderProperties>
  <FolderProperties FolderName="GameData">
   <Folders/>
   <Files>
-   <FileProperties md5="d05c5ab4ff93af37a5e35fb76f2467c3" Size="18637228" FileName="Data001.con"/>
+   <FileProperties FileName="Data001.con" md5="d05c5ab4ff93af37a5e35fb76f2467c3" Size="18637228"/>
   </Files>
  </FolderProperties>
  <FolderProperties FolderName="SpriteImage">
@@ -101,14 +564,14 @@
   <FolderProperties FolderName="common">
    <Folders/>
    <Files>
-    <FileProperties md5="bc592f1a75a5891843815449f1c2861b" Size="24900604" FileName="item.spr"/>
+    <FileProperties FileName="item.spr" md5="bc592f1a75a5891843815449f1c2861b" Size="24900604"/>
    </Files>
   </FolderProperties>
  </FolderProperties>
  <FolderProperties FolderName="System">
   <Folders/>
   <Files>
-   <FileProperties md5="d0156e71236346d436abe44ed2978093" Size="62620620" FileName="gui.dll"/>
+   <FileProperties FileName="gui.dll" md5="d0156e71236346d436abe44ed2978093" Size="62620620"/>
   </Files>
  </FolderProperties>
 </FolderProperties>
