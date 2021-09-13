@@ -5,7 +5,7 @@
   <FileProperties FileName="CrashRpt.dll" Size="6884864" md5="fd0b78eeba106fad6816b8d1d5b760ee"/>
   <FileProperties FileName="PurifierB.dll" Size="3371008" md5="915711757d388d2315cd0ca8a2e1f63f"/>
   <FileProperties FileName="RF.exe" Size="13165057" md5="42945c180c359f9291cb3565d82dafe6"/>
-  <FileProperties FileName="RF_Online.bin" Size="6917616" md5="d8607d18b5ca65ba60731798dc794441"/>
+  <FileProperties FileName="RF_Online.bin" Size="6947312" md5="2f9e6aa15ecc46e7d49daaed05cfaa16"/>
  </Files>
  <FolderProperties FolderName="DataTable">
   <Folders/>
@@ -67,7 +67,7 @@
     <FileProperties FileName="NDEventShip.edf" Size="12486" md5="e29cbb1f949a891e716fc33544701f50"/>
     <FileProperties FileName="nditem.edf" Size="21544460" md5="b843f446d91b23475a8b0f7df36ae6d6"/>
     <FileProperties FileName="NDItemCash.edf" Size="297" md5="c28c165c2e6bf486e92094ead5947b59"/>
-    <FileProperties FileName="NDLanguage.edf" Size="253700" md5="fe9bd6e46431ffb7578909ad9a1d1ad9"/>
+    <FileProperties FileName="NDLanguage.edf" Size="254047" md5="5894431f8a601805064f4f5036c5b4f2"/>
     <FileProperties FileName="NDMap.edf" Size="43370" md5="90884f72565b60c092103f7873b98294"/>
     <FileProperties FileName="NDMsgEvent.edf" Size="7977" md5="bd40ba7d22e91a7d2472f096547fde65"/>
     <FileProperties FileName="NDMsgMonster.edf" Size="73030" md5="6fc861e0988093195416fb01a994f604"/>
