@@ -5,7 +5,7 @@
   <FileProperties FileName="CrashRpt.dll" Size="6884864" md5="fd0b78eeba106fad6816b8d1d5b760ee"/>
   <FileProperties FileName="PurifierB.dll" Size="3371008" md5="915711757d388d2315cd0ca8a2e1f63f"/>
   <FileProperties FileName="RF.exe" Size="13165057" md5="42945c180c359f9291cb3565d82dafe6"/>
-  <FileProperties FileName="RF_Online.bin" Size="6901744" md5="0fbf129351ffe7925bd1d24dc1da12c0"/>
+  <FileProperties FileName="RF_Online.bin" Size="6935536" md5="5ccfd89fb5e3812367ba1ca30471f3df"/>
  </Files>
  <FolderProperties FolderName="DataTable">
   <Folders/>
