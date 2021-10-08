@@ -8,9 +8,9 @@
   <FileProperties md5="44bfec5c9c82a2ee9871d88fd3b9a0e2" Size="3734536" FileName="d3dx9_36.dll"/>
   <FileProperties md5="d90590446cb7b8ba4176672c9082c74f" Size="431936" FileName="msvcp100.dll"/>
   <FileProperties md5="0e8888aadab9669d06f55767f2ccaf7b" Size="758592" FileName="msvcr100.dll"/>
-  <FileProperties md5="915711757d388d2315cd0ca8a2e1f63f" Size="3371008" FileName="PurifierB.dll"/>
+  <FileProperties md5="bd526e9c3ea115aa0e18b4bc4eb15baa" Size="3384832" FileName="PurifierB.dll"/>
   <FileProperties md5="42945c180c359f9291cb3565d82dafe6" Size="13165057" FileName="RF.exe"/>
-  <FileProperties md5="57cb2fbd69b9c1fae46452b1e6c9c98b" Size="6888944" FileName="RF_Online.bin"/>
+  <FileProperties md5="1ab824d00c15296f02b5f629b047fc35" Size="6327792" FileName="RF_Online.bin"/>
  </Files>
  <FolderProperties FolderName="DataTable">
   <Folders/>
@@ -141,7 +141,7 @@
  <FolderProperties FolderName="System">
   <Folders/>
   <Files>
-   <FileProperties md5="d49e35127123a422e436c23231c211d7" Size="39554636" FileName="gui.dll"/>
+   <FileProperties md5="2de671d620fc4bf35b4cc83c21b26997" Size="39554492" FileName="gui.dll"/>
    <FileProperties md5="b0a5d8c10a70098f04ee4b8248551fba" Size="294876" FileName="titlelogo.tga"/>
   </Files>
  </FolderProperties>
