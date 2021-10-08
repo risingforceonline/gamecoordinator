@@ -141,7 +141,7 @@
  <FolderProperties FolderName="System">
   <Folders/>
   <Files>
-   <FileProperties FileName="gui.dll" md5="d49e35127123a422e436c23231c211d7" Size="39554636"/>
+   <FileProperties FileName="gui.dll" md5="b2d71751082730b5592e3c8ee7853b6c" Size="39554492"/>
    <FileProperties FileName="titlelogo.tga" md5="b0a5d8c10a70098f04ee4b8248551fba" Size="294876"/>
   </Files>
  </FolderProperties>
