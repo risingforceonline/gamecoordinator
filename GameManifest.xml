@@ -2,117 +2,117 @@
 <FolderProperties FolderName=".">
  <Folders/>
  <Files>
-  <FileProperties md5="fd0b78eeba106fad6816b8d1d5b760ee" Size="6884864" FileName="CrashRpt.dll"/>
-  <FileProperties md5="26af232140c88b42d92a88f2198edf6a" Size="3426072" FileName="d3dx9_32.dll"/>
-  <FileProperties md5="1ca939918ed1b930059b3a882de6f648" Size="3497832" FileName="d3dx9_34.dll"/>
-  <FileProperties md5="44bfec5c9c82a2ee9871d88fd3b9a0e2" Size="3734536" FileName="d3dx9_36.dll"/>
-  <FileProperties md5="d90590446cb7b8ba4176672c9082c74f" Size="431936" FileName="msvcp100.dll"/>
-  <FileProperties md5="0e8888aadab9669d06f55767f2ccaf7b" Size="758592" FileName="msvcr100.dll"/>
-  <FileProperties md5="8a68fb03912428c1a78e2ba8144c2d89" Size="3361280" FileName="PurifierB.dll"/>
-  <FileProperties md5="42945c180c359f9291cb3565d82dafe6" Size="13165057" FileName="RF.exe"/>
-  <FileProperties md5="637e971b9948d89c99d16c6b24d79d0a" Size="6313968" FileName="RF_Online.bin"/>
+  <FileProperties Size="6884864" md5="fd0b78eeba106fad6816b8d1d5b760ee" FileName="CrashRpt.dll"/>
+  <FileProperties Size="3426072" md5="26af232140c88b42d92a88f2198edf6a" FileName="d3dx9_32.dll"/>
+  <FileProperties Size="3497832" md5="1ca939918ed1b930059b3a882de6f648" FileName="d3dx9_34.dll"/>
+  <FileProperties Size="3734536" md5="44bfec5c9c82a2ee9871d88fd3b9a0e2" FileName="d3dx9_36.dll"/>
+  <FileProperties Size="431936" md5="d90590446cb7b8ba4176672c9082c74f" FileName="msvcp100.dll"/>
+  <FileProperties Size="758592" md5="0e8888aadab9669d06f55767f2ccaf7b" FileName="msvcr100.dll"/>
+  <FileProperties Size="3361280" md5="8a68fb03912428c1a78e2ba8144c2d89" FileName="PurifierB.dll"/>
+  <FileProperties Size="13165057" md5="42945c180c359f9291cb3565d82dafe6" FileName="RF.exe"/>
+  <FileProperties Size="6342128" md5="2097bcdee895750b24754cc3c7969aa8" FileName="RF_Online.bin"/>
  </Files>
  <FolderProperties FolderName="DataTable">
   <Folders/>
   <Files>
-   <FileProperties md5="f1d3ff8443297732862df21dc4e57262" Size="4" FileName="BlockData.dat"/>
-   <FileProperties md5="3f50666031a1bbb32ac31a783c4a6a30" Size="1679445" FileName="Character.edf"/>
-   <FileProperties md5="92150b26c484ff1958ffff6366432b66" Size="108101" FileName="DefendGradeUpEff.edf"/>
-   <FileProperties md5="2bb8578a5a5b69bc2552ab848995210f" Size="39061" FileName="DefendRankUpEff.edf"/>
-   <FileProperties md5="8350939231099d2f21277cb3f96d81cd" Size="41609" FileName="EventShip.edf"/>
-   <FileProperties md5="5b262c6438064fe52269f3b8f9ccf5d9" Size="361" FileName="EventSound.edf"/>
-   <FileProperties md5="9420f6e383a2ec7a4ccf29769c95a8b6" Size="34613961" FileName="item.edf"/>
-   <FileProperties md5="3f67527dbf5248449755ccc6a661043e" Size="297" FileName="ItemCash.edf"/>
-   <FileProperties md5="db8fed53046c9d1762d37d8bafe86b52" Size="16578689" FileName="ItemCombine.edf"/>
-   <FileProperties md5="ede715499908d891b91008f265d13297" Size="384385" FileName="ItemPremium.edf"/>
-   <FileProperties md5="e2ba374c79ef70b85e8fcc661faaca6a" Size="460377" FileName="ItemSetEffect.edf"/>
-   <FileProperties md5="3353ef5113ab1d3618d5d252e7e09a28" Size="32817" FileName="ItemTimer.edf"/>
-   <FileProperties md5="ad1f4808c6cffe44b51a2864eeefbc61" Size="282224" FileName="Map.edf"/>
-   <FileProperties md5="f7e656094f0250794a1bd05926c81e71" Size="8181" FileName="MsgEvent.edf"/>
-   <FileProperties md5="d6d5fb083a3cc186fcaec7a45fa012b8" Size="657" FileName="PlayerCharacter.edf"/>
-   <FileProperties md5="6abc1f5f1c7e0b6e29a61763e2ddf9f6" Size="3842113" FileName="Quest.edf"/>
-   <FileProperties md5="10e6d6fcde5da97f2f81d692deb32d4f" Size="7622205" FileName="Resource.edf"/>
-   <FileProperties md5="3f1d5fc9ce412738f97b6b3cc0857683" Size="2518225" FileName="SkillForce.edf"/>
-   <FileProperties md5="ff692df706e3534f0df6e68da165ba7d" Size="469473" FileName="SpecialStore.edf"/>
-   <FileProperties md5="9149d2aead58c3028d0be7b5c6dd5a60" Size="1322709" FileName="Store.edf"/>
-   <FileProperties md5="a3f16e21157c7e26ca61ae4ff48e3045" Size="737" FileName="TrunkExted.edf"/>
-   <FileProperties md5="d98d52bb2ace98658ab799e92e216f2c" Size="108101" FileName="WeaponGradeUpEff.edf"/>
-   <FileProperties md5="12147bdaa1c5f92285d58ea398495dbe" Size="39061" FileName="WeaponRankUpEff.edf"/>
+   <FileProperties Size="4" md5="f1d3ff8443297732862df21dc4e57262" FileName="BlockData.dat"/>
+   <FileProperties Size="1679445" md5="3f50666031a1bbb32ac31a783c4a6a30" FileName="Character.edf"/>
+   <FileProperties Size="108101" md5="92150b26c484ff1958ffff6366432b66" FileName="DefendGradeUpEff.edf"/>
+   <FileProperties Size="39061" md5="2bb8578a5a5b69bc2552ab848995210f" FileName="DefendRankUpEff.edf"/>
+   <FileProperties Size="41609" md5="8350939231099d2f21277cb3f96d81cd" FileName="EventShip.edf"/>
+   <FileProperties Size="361" md5="5b262c6438064fe52269f3b8f9ccf5d9" FileName="EventSound.edf"/>
+   <FileProperties Size="34613961" md5="9420f6e383a2ec7a4ccf29769c95a8b6" FileName="item.edf"/>
+   <FileProperties Size="297" md5="3f67527dbf5248449755ccc6a661043e" FileName="ItemCash.edf"/>
+   <FileProperties Size="16578689" md5="db8fed53046c9d1762d37d8bafe86b52" FileName="ItemCombine.edf"/>
+   <FileProperties Size="384385" md5="ede715499908d891b91008f265d13297" FileName="ItemPremium.edf"/>
+   <FileProperties Size="460377" md5="e2ba374c79ef70b85e8fcc661faaca6a" FileName="ItemSetEffect.edf"/>
+   <FileProperties Size="32817" md5="3353ef5113ab1d3618d5d252e7e09a28" FileName="ItemTimer.edf"/>
+   <FileProperties Size="282224" md5="ad1f4808c6cffe44b51a2864eeefbc61" FileName="Map.edf"/>
+   <FileProperties Size="8181" md5="f7e656094f0250794a1bd05926c81e71" FileName="MsgEvent.edf"/>
+   <FileProperties Size="657" md5="d6d5fb083a3cc186fcaec7a45fa012b8" FileName="PlayerCharacter.edf"/>
+   <FileProperties Size="3842113" md5="6abc1f5f1c7e0b6e29a61763e2ddf9f6" FileName="Quest.edf"/>
+   <FileProperties Size="7622205" md5="10e6d6fcde5da97f2f81d692deb32d4f" FileName="Resource.edf"/>
+   <FileProperties Size="2518225" md5="3f1d5fc9ce412738f97b6b3cc0857683" FileName="SkillForce.edf"/>
+   <FileProperties Size="469473" md5="ff692df706e3534f0df6e68da165ba7d" FileName="SpecialStore.edf"/>
+   <FileProperties Size="1322709" md5="9149d2aead58c3028d0be7b5c6dd5a60" FileName="Store.edf"/>
+   <FileProperties Size="737" md5="a3f16e21157c7e26ca61ae4ff48e3045" FileName="TrunkExted.edf"/>
+   <FileProperties Size="108101" md5="d98d52bb2ace98658ab799e92e216f2c" FileName="WeaponGradeUpEff.edf"/>
+   <FileProperties Size="39061" md5="12147bdaa1c5f92285d58ea398495dbe" FileName="WeaponRankUpEff.edf"/>
   </Files>
   <FolderProperties FolderName="en-gb">
    <Folders/>
    <Files>
-    <FileProperties md5="d97684643c3c5ae175ca296b126d1409" Size="20104" FileName="advr.dat"/>
-    <FileProperties md5="68d8d15aa1dd780c9f0b49f036be8d33" Size="11349" FileName="Aka.dic"/>
-    <FileProperties md5="5237c4c80a41d4deffb4e939e2520fba" Size="33598" FileName="AR.scp"/>
-    <FileProperties md5="f0ffc0fef67042a9bc3842728292139d" Size="33625" FileName="AS.scp"/>
-    <FileProperties md5="d22efba181e53f8d4f9df2666e7ad49d" Size="32165" FileName="AW.scp"/>
-    <FileProperties md5="423ff4a2d6ef3199ee20234365f79f5c" Size="33216" FileName="BF.scp"/>
-    <FileProperties md5="4282a0889bd28b3a9649a82c3a9eeac1" Size="33566" FileName="BR.scp"/>
-    <FileProperties md5="67be292d5195834951a7fb0f10b26b6f" Size="33589" FileName="BS.scp"/>
-    <FileProperties md5="aad0e0c5081831548c7f0db23fff5260" Size="32146" FileName="BW.scp"/>
-    <FileProperties md5="f911310311f2f714c58a3d2077f9238c" Size="805" FileName="cashshopcategory.dat"/>
-    <FileProperties md5="8e1242ed92ef67103f37716bf47ea0d3" Size="183" FileName="CcrLogo.dat"/>
-    <FileProperties md5="272f074f9a7d532d30e0d1cb5be17d19" Size="133" FileName="Ceka.env"/>
-    <FileProperties md5="1a4dfbfca082914a429039c8348d7dc9" Size="33279" FileName="cf.scp"/>
-    <FileProperties md5="1aa14eb2020e21137643b19c9b24ef92" Size="2941" FileName="ChatCommand.ini"/>
-    <FileProperties md5="cafc13575d796753d7c93694906957d0" Size="33571" FileName="cr.scp"/>
-    <FileProperties md5="192e4afaac9c9ecd6666acb65be1c177" Size="38384" FileName="cryp.dat"/>
-    <FileProperties md5="29a6ca06b72a1c6de7459234c0b7e580" Size="32194" FileName="CS.scp"/>
-    <FileProperties md5="4de35c3e04e446d1737efab7752666fc" Size="2265" FileName="Cska.txt"/>
-    <FileProperties md5="5a7138fbb0b10046dd5611210dac3f37" Size="32184" FileName="CW.scp"/>
-    <FileProperties md5="d1d7cceb9cd295834ab3211d12564438" Size="25" FileName="font.ini"/>
-    <FileProperties md5="fc41fb81d45fd2fb22e4425f75820fda" Size="41" FileName="Ika.dic"/>
-    <FileProperties md5="978bf349d8a38f34da0bb7df2c861457" Size="1968" FileName="KeyMap.dat"/>
-    <FileProperties md5="840e0897b4b8cb724dc531740e48ea59" Size="1885" FileName="KeyMap_NKM.dat"/>
-    <FileProperties md5="ad9600617151b3f12268da6d6843a97c" Size="251443" FileName="MAPDATA.DAT"/>
-    <FileProperties md5="338fe27800538127f671f62f4085f836" Size="367009" FileName="NDCharacter.edf"/>
-    <FileProperties md5="e29cbb1f949a891e716fc33544701f50" Size="12486" FileName="NDEventShip.edf"/>
-    <FileProperties md5="bce6e8555e5c81ceddad0e36b61bb6df" Size="21544604" FileName="nditem.edf"/>
-    <FileProperties md5="83e996ff307bfd78e3ce9b363d9e70d5" Size="297" FileName="NDItemCash.edf"/>
-    <FileProperties md5="932cb923423f0a3b634d96e8e7c44b29" Size="255143" FileName="NDLanguage.edf"/>
-    <FileProperties md5="019ddd0e7bbcbfad056e15f727f8ab2a" Size="43370" FileName="NDMap.edf"/>
-    <FileProperties md5="bd40ba7d22e91a7d2472f096547fde65" Size="7977" FileName="NDMsgEvent.edf"/>
-    <FileProperties md5="6fc861e0988093195416fb01a994f604" Size="73030" FileName="NDMsgMonster.edf"/>
-    <FileProperties md5="209fdba7886f503a2cbf01fff57091f9" Size="2525505" FileName="NDQuest.edf"/>
-    <FileProperties md5="1baa57e6dae31585604ce8a14e3f94d7" Size="1219977" FileName="NDSkillForce.edf"/>
-    <FileProperties md5="67da153822137fcb2a9a20fb51f3261a" Size="131836" FileName="NDStore.edf"/>
-    <FileProperties md5="2a5a63e8c6c60af3d4dfd52fbdd203c5" Size="996137" FileName="NDUIHelp.edf"/>
-    <FileProperties md5="5735afaa2d4d52f132f6226201026382" Size="1792" FileName="RF_WebURL.dat"/>
-    <FileProperties md5="d8164d1bc326de54a8934de05b762380" Size="4742" FileName="Tutorial.scp"/>
-    <FileProperties md5="ffca29aef39364d907dcdde901566741" Size="8571" FileName="UIHelp.edf"/>
-    <FileProperties md5="76e2f086e2c3fa2bed47065bce90dc91" Size="8193" FileName="WorldMapData.dat"/>
+    <FileProperties Size="20104" md5="d97684643c3c5ae175ca296b126d1409" FileName="advr.dat"/>
+    <FileProperties Size="11349" md5="68d8d15aa1dd780c9f0b49f036be8d33" FileName="Aka.dic"/>
+    <FileProperties Size="33598" md5="5237c4c80a41d4deffb4e939e2520fba" FileName="AR.scp"/>
+    <FileProperties Size="33625" md5="f0ffc0fef67042a9bc3842728292139d" FileName="AS.scp"/>
+    <FileProperties Size="32165" md5="d22efba181e53f8d4f9df2666e7ad49d" FileName="AW.scp"/>
+    <FileProperties Size="33216" md5="423ff4a2d6ef3199ee20234365f79f5c" FileName="BF.scp"/>
+    <FileProperties Size="33566" md5="4282a0889bd28b3a9649a82c3a9eeac1" FileName="BR.scp"/>
+    <FileProperties Size="33589" md5="67be292d5195834951a7fb0f10b26b6f" FileName="BS.scp"/>
+    <FileProperties Size="32146" md5="aad0e0c5081831548c7f0db23fff5260" FileName="BW.scp"/>
+    <FileProperties Size="805" md5="f911310311f2f714c58a3d2077f9238c" FileName="cashshopcategory.dat"/>
+    <FileProperties Size="183" md5="8e1242ed92ef67103f37716bf47ea0d3" FileName="CcrLogo.dat"/>
+    <FileProperties Size="133" md5="272f074f9a7d532d30e0d1cb5be17d19" FileName="Ceka.env"/>
+    <FileProperties Size="33279" md5="1a4dfbfca082914a429039c8348d7dc9" FileName="cf.scp"/>
+    <FileProperties Size="2941" md5="1aa14eb2020e21137643b19c9b24ef92" FileName="ChatCommand.ini"/>
+    <FileProperties Size="33571" md5="cafc13575d796753d7c93694906957d0" FileName="cr.scp"/>
+    <FileProperties Size="38384" md5="192e4afaac9c9ecd6666acb65be1c177" FileName="cryp.dat"/>
+    <FileProperties Size="32194" md5="29a6ca06b72a1c6de7459234c0b7e580" FileName="CS.scp"/>
+    <FileProperties Size="2265" md5="4de35c3e04e446d1737efab7752666fc" FileName="Cska.txt"/>
+    <FileProperties Size="32184" md5="5a7138fbb0b10046dd5611210dac3f37" FileName="CW.scp"/>
+    <FileProperties Size="25" md5="d1d7cceb9cd295834ab3211d12564438" FileName="font.ini"/>
+    <FileProperties Size="41" md5="fc41fb81d45fd2fb22e4425f75820fda" FileName="Ika.dic"/>
+    <FileProperties Size="1968" md5="978bf349d8a38f34da0bb7df2c861457" FileName="KeyMap.dat"/>
+    <FileProperties Size="1885" md5="840e0897b4b8cb724dc531740e48ea59" FileName="KeyMap_NKM.dat"/>
+    <FileProperties Size="251443" md5="ad9600617151b3f12268da6d6843a97c" FileName="MAPDATA.DAT"/>
+    <FileProperties Size="367009" md5="338fe27800538127f671f62f4085f836" FileName="NDCharacter.edf"/>
+    <FileProperties Size="12486" md5="e29cbb1f949a891e716fc33544701f50" FileName="NDEventShip.edf"/>
+    <FileProperties Size="21544604" md5="bce6e8555e5c81ceddad0e36b61bb6df" FileName="nditem.edf"/>
+    <FileProperties Size="297" md5="83e996ff307bfd78e3ce9b363d9e70d5" FileName="NDItemCash.edf"/>
+    <FileProperties Size="255143" md5="932cb923423f0a3b634d96e8e7c44b29" FileName="NDLanguage.edf"/>
+    <FileProperties Size="43370" md5="019ddd0e7bbcbfad056e15f727f8ab2a" FileName="NDMap.edf"/>
+    <FileProperties Size="7977" md5="bd40ba7d22e91a7d2472f096547fde65" FileName="NDMsgEvent.edf"/>
+    <FileProperties Size="73030" md5="6fc861e0988093195416fb01a994f604" FileName="NDMsgMonster.edf"/>
+    <FileProperties Size="2525505" md5="209fdba7886f503a2cbf01fff57091f9" FileName="NDQuest.edf"/>
+    <FileProperties Size="1219977" md5="1baa57e6dae31585604ce8a14e3f94d7" FileName="NDSkillForce.edf"/>
+    <FileProperties Size="131836" md5="67da153822137fcb2a9a20fb51f3261a" FileName="NDStore.edf"/>
+    <FileProperties Size="996137" md5="2a5a63e8c6c60af3d4dfd52fbdd203c5" FileName="NDUIHelp.edf"/>
+    <FileProperties Size="1792" md5="5735afaa2d4d52f132f6226201026382" FileName="RF_WebURL.dat"/>
+    <FileProperties Size="4742" md5="d8164d1bc326de54a8934de05b762380" FileName="Tutorial.scp"/>
+    <FileProperties Size="8571" md5="ffca29aef39364d907dcdde901566741" FileName="UIHelp.edf"/>
+    <FileProperties Size="8193" md5="76e2f086e2c3fa2bed47065bce90dc91" FileName="WorldMapData.dat"/>
    </Files>
   </FolderProperties>
   <FolderProperties FolderName="ko-kr">
    <Folders/>
    <Files>
-    <FileProperties md5="68d8d15aa1dd780c9f0b49f036be8d33" Size="11349" FileName="Aka.dic"/>
-    <FileProperties md5="fc41fb81d45fd2fb22e4425f75820fda" Size="41" FileName="Ika.dic"/>
+    <FileProperties Size="11349" md5="68d8d15aa1dd780c9f0b49f036be8d33" FileName="Aka.dic"/>
+    <FileProperties Size="41" md5="fc41fb81d45fd2fb22e4425f75820fda" FileName="Ika.dic"/>
    </Files>
   </FolderProperties>
  </FolderProperties>
  <FolderProperties FolderName="Effect">
   <Folders/>
   <Files>
-   <FileProperties md5="4cbf96f28fd75f0cc1318610a59d9103" Size="54551674" FileName="EffectEntity75.rpk"/>
-   <FileProperties md5="d64b57e67e7af517b6c32160f07a3fef" Size="426723" FileName="EffectEntityList.spt"/>
-   <FileProperties md5="4c51ca7164669987009ce3174a5a24a2" Size="1045001" FileName="MagicSptList.spt"/>
+   <FileProperties Size="54551674" md5="4cbf96f28fd75f0cc1318610a59d9103" FileName="EffectEntity75.rpk"/>
+   <FileProperties Size="426723" md5="d64b57e67e7af517b6c32160f07a3fef" FileName="EffectEntityList.spt"/>
+   <FileProperties Size="1045001" md5="4c51ca7164669987009ce3174a5a24a2" FileName="MagicSptList.spt"/>
   </Files>
  </FolderProperties>
  <FolderProperties FolderName="GameData">
   <Folders/>
   <Files>
-   <FileProperties md5="a8cb41008a3f177e9616ce647fb205e3" Size="18516748" FileName="Data001.con"/>
+   <FileProperties Size="18516748" md5="a8cb41008a3f177e9616ce647fb205e3" FileName="Data001.con"/>
   </Files>
  </FolderProperties>
  <FolderProperties FolderName="Interface">
   <Folders/>
   <Files>
-   <FileProperties md5="70894d6867c956d081f9c17af55828e0" Size="1036" FileName="fontconfig.txt"/>
-   <FileProperties md5="ee2c996b5ff185e459f4dc7a814a59de" Size="289237" FileName="gfxfontlib.gfx"/>
-   <FileProperties md5="5e844a0202f5d01906cc8a5cb42ab999" Size="1504772" FileName="play_ui.gfx"/>
-   <FileProperties md5="4dfce2e4d32180ef267a0ebb18be4e13" Size="587" FileName="RF_FontConfig.ini"/>
+   <FileProperties Size="1036" md5="70894d6867c956d081f9c17af55828e0" FileName="fontconfig.txt"/>
+   <FileProperties Size="289237" md5="ee2c996b5ff185e459f4dc7a814a59de" FileName="gfxfontlib.gfx"/>
+   <FileProperties Size="1504772" md5="5e844a0202f5d01906cc8a5cb42ab999" FileName="play_ui.gfx"/>
+   <FileProperties Size="587" md5="4dfce2e4d32180ef267a0ebb18be4e13" FileName="RF_FontConfig.ini"/>
   </Files>
   <FolderProperties FolderName="library">
    <Folders/>
@@ -120,9 +120,9 @@
    <FolderProperties FolderName="fonts">
     <Folders/>
     <Files>
-     <FileProperties md5="e4273b0345b635ded854b3dadbd2c501" Size="652120" FileName="fonts_kr_0.swf"/>
-     <FileProperties md5="faa737e631c60b50218b23d10c03d4b8" Size="1057533" FileName="fonts_kr_1.swf"/>
-     <FileProperties md5="1946e8561d22c75fbfc9fa072f181b62" Size="1719002" FileName="fonts_kr_2.swf"/>
+     <FileProperties Size="652120" md5="e4273b0345b635ded854b3dadbd2c501" FileName="fonts_kr_0.swf"/>
+     <FileProperties Size="1057533" md5="faa737e631c60b50218b23d10c03d4b8" FileName="fonts_kr_1.swf"/>
+     <FileProperties Size="1719002" md5="1946e8561d22c75fbfc9fa072f181b62" FileName="fonts_kr_2.swf"/>
     </Files>
    </FolderProperties>
   </FolderProperties>
@@ -133,19 +133,19 @@
   <FolderProperties FolderName="neutralA">
    <Folders/>
    <Files>
-    <FileProperties md5="a35f891891a1040b2049d14aeecda5f1" Size="1028" FileName="neutralA.r3x"/>
+    <FileProperties Size="1028" md5="a35f891891a1040b2049d14aeecda5f1" FileName="neutralA.r3x"/>
    </Files>
   </FolderProperties>
   <FolderProperties FolderName="neutralB">
    <Folders/>
    <Files>
-    <FileProperties md5="adf6fd465774c752449ae468f1512351" Size="1028" FileName="neutralB.r3x"/>
+    <FileProperties Size="1028" md5="adf6fd465774c752449ae468f1512351" FileName="neutralB.r3x"/>
    </Files>
   </FolderProperties>
   <FolderProperties FolderName="neutralC">
    <Folders/>
    <Files>
-    <FileProperties md5="7982f5e5025b29afe2fad234dd9b4a3a" Size="1028" FileName="neutralC.r3x"/>
+    <FileProperties Size="1028" md5="7982f5e5025b29afe2fad234dd9b4a3a" FileName="neutralC.r3x"/>
    </Files>
   </FolderProperties>
  </FolderProperties>
@@ -155,16 +155,16 @@
   <FolderProperties FolderName="common">
    <Folders/>
    <Files>
-    <FileProperties md5="bc592f1a75a5891843815449f1c2861b" Size="24900604" FileName="item.spr"/>
-    <FileProperties md5="65573d3925361343d99656d5e0c37641" Size="6291516" FileName="loading.spr"/>
+    <FileProperties Size="24900604" md5="bc592f1a75a5891843815449f1c2861b" FileName="item.spr"/>
+    <FileProperties Size="6291516" md5="65573d3925361343d99656d5e0c37641" FileName="loading.spr"/>
    </Files>
   </FolderProperties>
  </FolderProperties>
  <FolderProperties FolderName="System">
   <Folders/>
   <Files>
-   <FileProperties md5="427d25ec4c0d50658401de696d6bdb7c" Size="39554732" FileName="gui.dll"/>
-   <FileProperties md5="b0a5d8c10a70098f04ee4b8248551fba" Size="294876" FileName="titlelogo.tga"/>
+   <FileProperties Size="39554732" md5="427d25ec4c0d50658401de696d6bdb7c" FileName="gui.dll"/>
+   <FileProperties Size="294876" md5="b0a5d8c10a70098f04ee4b8248551fba" FileName="titlelogo.tga"/>
   </Files>
  </FolderProperties>
 </FolderProperties>
