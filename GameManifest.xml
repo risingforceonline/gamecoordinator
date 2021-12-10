@@ -10,7 +10,7 @@
   <FileProperties Size="758592" FileName="msvcr100.dll" md5="0e8888aadab9669d06f55767f2ccaf7b"/>
   <FileProperties Size="3361280" FileName="PurifierB.dll" md5="8a68fb03912428c1a78e2ba8144c2d89"/>
   <FileProperties Size="13165057" FileName="RF.exe" md5="42945c180c359f9291cb3565d82dafe6"/>
-  <FileProperties Size="6275568" FileName="RF_Online.bin" md5="ca58a717b67fa190ebe921fe7996c0fe"/>
+  <FileProperties Size="6316016" FileName="RF_Online.bin" md5="864fa5dfa5445a570c493c50fb872f74"/>
  </Files>
  <FolderProperties FolderName="DataTable">
   <Folders/>
