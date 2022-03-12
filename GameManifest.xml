@@ -10,7 +10,7 @@
   <FileProperties md5="0e8888aadab9669d06f55767f2ccaf7b" Size="758592" FileName="msvcr100.dll"/>
   <FileProperties md5="8e4bd2cc3074b41bd0ab2347e85fd9fe" Size="3538944" FileName="PurifierB.dll"/>
   <FileProperties md5="42945c180c359f9291cb3565d82dafe6" Size="13165057" FileName="RF.exe"/>
-  <FileProperties md5="0a6befc1e46537c2f04f94e28b311322" Size="8738817" FileName="RF_Online.bin"/>
+  <FileProperties md5="268b55563720975ff48251ee4be5f9b9" Size="8738817" FileName="RF_Online.bin"/>
  </Files>
  <FolderProperties FolderName="DataTable">
   <Folders/>
@@ -141,7 +141,7 @@
  <FolderProperties FolderName="GameData">
   <Folders/>
   <Files>
-   <FileProperties md5="0072b077709a0eb5639f87d87484e060" Size="18583100" FileName="Data001.con"/>
+   <FileProperties md5="3478f7f23d38c921be196f83338ce181" Size="18582460" FileName="Data001.con"/>
    <FileProperties md5="422bfefa792519463b63bae41db827f8" Size="10032844" FileName="Data002.con"/>
    <FileProperties md5="6ced4732abb934b3e1f386c6d8c9a41e" Size="7213676" FileName="Data003.con"/>
    <FileProperties md5="7b390f289b63dbd435f9323270c08ee5" Size="71283324" FileName="Data004.con"/>
