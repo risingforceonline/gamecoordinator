@@ -10,7 +10,7 @@
   <FileProperties FileName="msvcr100.dll" Size="758592" md5="0e8888aadab9669d06f55767f2ccaf7b"/>
   <FileProperties FileName="PurifierB.dll" Size="3538944" md5="8e4bd2cc3074b41bd0ab2347e85fd9fe"/>
   <FileProperties FileName="RF.exe" Size="13165057" md5="42945c180c359f9291cb3565d82dafe6"/>
-  <FileProperties FileName="RF_Online.bin" Size="8738817" md5="7d604303388054af02193ca6132003b3"/>
+  <FileProperties FileName="RF_Online.bin" Size="8738817" md5="e280d1985d6e8c93015b987d68f91cca"/>
  </Files>
  <FolderProperties FolderName="Character">
   <Folders/>
@@ -58,7 +58,7 @@
    <FileProperties FileName="EventSound.edf" Size="361" md5="5b262c6438064fe52269f3b8f9ccf5d9"/>
    <FileProperties FileName="item.edf" Size="38693465" md5="815ac58a52c17450c0f106d829afb5fb"/>
    <FileProperties FileName="ItemCash.edf" Size="297" md5="3f67527dbf5248449755ccc6a661043e"/>
-   <FileProperties FileName="ItemCombine.edf" Size="16580353" md5="1d3e8668adcb541924b904bf7f1bdb36"/>
+   <FileProperties FileName="ItemCombine.edf" Size="16580353" md5="9ded096377235da081f9d220cfc9c368"/>
    <FileProperties FileName="ItemCostumeLink.edf" Size="445" md5="8bd41097852c9ff1ae71f5f3a7c7d147"/>
    <FileProperties FileName="ItemPremium.edf" Size="384385" md5="7cb076b86aa410657c262720496ff4be"/>
    <FileProperties FileName="ItemSetEffect.edf" Size="460377" md5="9b4d869c841743361d3a4f6c53434042"/>
