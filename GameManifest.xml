@@ -2,15 +2,15 @@
 <FolderProperties FolderName=".">
  <Folders/>
  <Files>
-  <FileProperties Size="6884864" FileName="CrashRpt.dll" md5="fd0b78eeba106fad6816b8d1d5b760ee"/>
-  <FileProperties Size="3426072" FileName="d3dx9_32.dll" md5="26af232140c88b42d92a88f2198edf6a"/>
-  <FileProperties Size="3497832" FileName="d3dx9_34.dll" md5="1ca939918ed1b930059b3a882de6f648"/>
-  <FileProperties Size="3734536" FileName="d3dx9_36.dll" md5="44bfec5c9c82a2ee9871d88fd3b9a0e2"/>
-  <FileProperties Size="431936" FileName="msvcp100.dll" md5="d90590446cb7b8ba4176672c9082c74f"/>
-  <FileProperties Size="758592" FileName="msvcr100.dll" md5="0e8888aadab9669d06f55767f2ccaf7b"/>
-  <FileProperties Size="3538944" FileName="PurifierB.dll" md5="8e4bd2cc3074b41bd0ab2347e85fd9fe"/>
-  <FileProperties Size="13165057" FileName="RF.exe" md5="42945c180c359f9291cb3565d82dafe6"/>
-  <FileProperties Size="8738817" FileName="RF_Online.bin" md5="696b3795602ac2bce452a2b5b4a4aa5e"/>
+  <FileProperties FileName="CrashRpt.dll" md5="fd0b78eeba106fad6816b8d1d5b760ee" Size="6884864"/>
+  <FileProperties FileName="d3dx9_32.dll" md5="26af232140c88b42d92a88f2198edf6a" Size="3426072"/>
+  <FileProperties FileName="d3dx9_34.dll" md5="1ca939918ed1b930059b3a882de6f648" Size="3497832"/>
+  <FileProperties FileName="d3dx9_36.dll" md5="44bfec5c9c82a2ee9871d88fd3b9a0e2" Size="3734536"/>
+  <FileProperties FileName="msvcp100.dll" md5="d90590446cb7b8ba4176672c9082c74f" Size="431936"/>
+  <FileProperties FileName="msvcr100.dll" md5="0e8888aadab9669d06f55767f2ccaf7b" Size="758592"/>
+  <FileProperties FileName="PurifierB.dll" md5="8e4bd2cc3074b41bd0ab2347e85fd9fe" Size="3538944"/>
+  <FileProperties FileName="RF.exe" md5="42945c180c359f9291cb3565d82dafe6" Size="13165057"/>
+  <FileProperties FileName="RF_Online.bin" md5="696b3795602ac2bce452a2b5b4a4aa5e" Size="8738817"/>
  </Files>
  <FolderProperties FolderName="Character">
   <Folders/>
@@ -21,71 +21,71 @@
    <FolderProperties FolderName="Ani">
     <Folders/>
     <Files>
-     <FileProperties Size="3135038" FileName="FORPATANI.RFS" md5="aa708f7f568d7453a7782cf859241d68"/>
-     <FileProperties Size="14684256" FileName="HIGHELFA.RFS" md5="1f8974738786a052be574a8926950e94"/>
-     <FileProperties Size="2423268" FileName="NOVAZANA.RFS" md5="261fbd8971dd71e90047b3dc47aaefd5"/>
-     <FileProperties Size="1086" FileName="RFSInfo.dat" md5="9d975c6b3a6b93e68932fd6ed803e633"/>
+     <FileProperties FileName="FORPATANI.RFS" md5="aa708f7f568d7453a7782cf859241d68" Size="3135038"/>
+     <FileProperties FileName="HIGHELFA.RFS" md5="1f8974738786a052be574a8926950e94" Size="14684256"/>
+     <FileProperties FileName="NOVAZANA.RFS" md5="261fbd8971dd71e90047b3dc47aaefd5" Size="2423268"/>
+     <FileProperties FileName="RFSInfo.dat" md5="9d975c6b3a6b93e68932fd6ed803e633" Size="1086"/>
     </Files>
    </FolderProperties>
    <FolderProperties FolderName="Bone">
     <Folders/>
     <Files>
-     <FileProperties Size="280" FileName="CAPTAIN.BBX" md5="c56cc9b55eac3f7a02844f06c17e0499"/>
-     <FileProperties Size="122486" FileName="CAPTAIN.bn" md5="5c3a9959666ee40aacf17f097288c8bc"/>
-     <FileProperties Size="280" FileName="DARKPANGPANG.BBX" md5="8d989280449b78430a2fddd2d667bb8c"/>
-     <FileProperties Size="123042" FileName="DARKPANGPANG.bn" md5="373637eee3493a5ce993701d0a311b54"/>
-     <FileProperties Size="280" FileName="DARKROBIN.BBX" md5="55d41511147bc5de032a2f8951a9e6fa"/>
-     <FileProperties Size="439645" FileName="DARKROBIN.bn" md5="d9e0bf9b2b2b5304a2d588a76bfa52b0"/>
-     <FileProperties Size="280" FileName="DR.BBX" md5="f902b655515ab0c887506fca683a3afd"/>
-     <FileProperties Size="124667" FileName="DR.bn" md5="d8af2b2c3ea3e9a399b9aa2f2c22b11a"/>
-     <FileProperties Size="280" FileName="NECROMETAL.BBX" md5="80720263acfba3816729ca816611f158"/>
-     <FileProperties Size="94869" FileName="NECROMETAL.bn" md5="fded746057855e87f6243c18f12999c0"/>
-     <FileProperties Size="280" FileName="NECROMETALIAN.BBX" md5="80720263acfba3816729ca816611f158"/>
-     <FileProperties Size="94869" FileName="NECROMETALIAN.bn" md5="d823bfefb73efd8c4cda8f91e3b3d3a3"/>
-     <FileProperties Size="280" FileName="NOBAJAN01.BBX" md5="a269611188caf99a2e1c2ad3746f54c2"/>
-     <FileProperties Size="75099" FileName="NOBAJAN01.bn" md5="be5ca792ac8c05753a685fb762e659f2"/>
-     <FileProperties Size="280" FileName="NOBAJAN02.BBX" md5="a269611188caf99a2e1c2ad3746f54c2"/>
-     <FileProperties Size="73122" FileName="NOBAJAN02.bn" md5="86346433dc97c34129614175abc1796b"/>
-     <FileProperties Size="280" FileName="NOBAJAN03.BBX" md5="a269611188caf99a2e1c2ad3746f54c2"/>
-     <FileProperties Size="77076" FileName="NOBAJAN03.bn" md5="7c8edbc2a8aea9ee0efe01f8cefb0d6e"/>
-     <FileProperties Size="280" FileName="NOBAJAN04.BBX" md5="f7e7b500be15cee494dcfd5489cb3ff0"/>
-     <FileProperties Size="73122" FileName="NOBAJAN04.bn" md5="8c6916fb675e67cd9249f8e84f1f0682"/>
-     <FileProperties Size="280" FileName="NOBAJAN05.BBX" md5="a3b484ba1bce8e76a5e1f8d9e1547dc4"/>
-     <FileProperties Size="73122" FileName="NOBAJAN05.bn" md5="e07ef4f0eb29e83039b9cc1ad717eba3"/>
-     <FileProperties Size="280" FileName="NOBAJAN06.BBX" md5="a3b484ba1bce8e76a5e1f8d9e1547dc4"/>
-     <FileProperties Size="73122" FileName="NOBAJAN06.bn" md5="b498b16afd90ca99711af985a51067d5"/>
-     <FileProperties Size="280" FileName="NOBAJAN07.BBX" md5="a445b7b4602abade49ceebec5f7b9d7c"/>
-     <FileProperties Size="75099" FileName="NOBAJAN07.bn" md5="3145defccdd7ad90a57ccf6370cce263"/>
-     <FileProperties Size="280" FileName="NOBAJAN08.BBX" md5="a445b7b4602abade49ceebec5f7b9d7c"/>
-     <FileProperties Size="75796" FileName="NOBAJAN08.bn" md5="b37565a64ca1aec557b5703e79c950e4"/>
-     <FileProperties Size="280" FileName="NOBAJAN09.BBX" md5="a445b7b4602abade49ceebec5f7b9d7c"/>
-     <FileProperties Size="75796" FileName="NOBAJAN09.bn" md5="36d8d884a31d8362e7d932aab3a8e34b"/>
-     <FileProperties Size="280" FileName="NOBAJAN10.BBX" md5="a445b7b4602abade49ceebec5f7b9d7c"/>
-     <FileProperties Size="75796" FileName="NOBAJAN10.bn" md5="fe9df9e52b65d870066bd52ad9fe006a"/>
-     <FileProperties Size="280" FileName="NOBAJAN11.BBX" md5="0f49c2ad368b6ae0707345eaaac7b924"/>
-     <FileProperties Size="73122" FileName="NOBAJAN11.bn" md5="aa5cdc99c230e39929eea60580847289"/>
-     <FileProperties Size="280" FileName="NOBAJAN12.BBX" md5="c4cb3d8197dd053a8c700b984ad5f449"/>
-     <FileProperties Size="250030" FileName="NOBAJAN12.bn" md5="851b6f58fe010e28882a87801b82ed0f"/>
-     <FileProperties Size="280" FileName="RAKSHASI.BBX" md5="65e109bda4e4d8d748cca12e605376b6"/>
-     <FileProperties Size="237693" FileName="RAKSHASI.bn" md5="5643268f77db3dc9e6020002c8ece9a7"/>
+     <FileProperties FileName="CAPTAIN.BBX" md5="c56cc9b55eac3f7a02844f06c17e0499" Size="280"/>
+     <FileProperties FileName="CAPTAIN.bn" md5="5c3a9959666ee40aacf17f097288c8bc" Size="122486"/>
+     <FileProperties FileName="DARKPANGPANG.BBX" md5="8d989280449b78430a2fddd2d667bb8c" Size="280"/>
+     <FileProperties FileName="DARKPANGPANG.bn" md5="373637eee3493a5ce993701d0a311b54" Size="123042"/>
+     <FileProperties FileName="DARKROBIN.BBX" md5="55d41511147bc5de032a2f8951a9e6fa" Size="280"/>
+     <FileProperties FileName="DARKROBIN.bn" md5="d9e0bf9b2b2b5304a2d588a76bfa52b0" Size="439645"/>
+     <FileProperties FileName="DR.BBX" md5="f902b655515ab0c887506fca683a3afd" Size="280"/>
+     <FileProperties FileName="DR.bn" md5="d8af2b2c3ea3e9a399b9aa2f2c22b11a" Size="124667"/>
+     <FileProperties FileName="NECROMETAL.BBX" md5="80720263acfba3816729ca816611f158" Size="280"/>
+     <FileProperties FileName="NECROMETAL.bn" md5="fded746057855e87f6243c18f12999c0" Size="94869"/>
+     <FileProperties FileName="NECROMETALIAN.BBX" md5="80720263acfba3816729ca816611f158" Size="280"/>
+     <FileProperties FileName="NECROMETALIAN.bn" md5="d823bfefb73efd8c4cda8f91e3b3d3a3" Size="94869"/>
+     <FileProperties FileName="NOBAJAN01.BBX" md5="a269611188caf99a2e1c2ad3746f54c2" Size="280"/>
+     <FileProperties FileName="NOBAJAN01.bn" md5="be5ca792ac8c05753a685fb762e659f2" Size="75099"/>
+     <FileProperties FileName="NOBAJAN02.BBX" md5="a269611188caf99a2e1c2ad3746f54c2" Size="280"/>
+     <FileProperties FileName="NOBAJAN02.bn" md5="86346433dc97c34129614175abc1796b" Size="73122"/>
+     <FileProperties FileName="NOBAJAN03.BBX" md5="a269611188caf99a2e1c2ad3746f54c2" Size="280"/>
+     <FileProperties FileName="NOBAJAN03.bn" md5="7c8edbc2a8aea9ee0efe01f8cefb0d6e" Size="77076"/>
+     <FileProperties FileName="NOBAJAN04.BBX" md5="f7e7b500be15cee494dcfd5489cb3ff0" Size="280"/>
+     <FileProperties FileName="NOBAJAN04.bn" md5="8c6916fb675e67cd9249f8e84f1f0682" Size="73122"/>
+     <FileProperties FileName="NOBAJAN05.BBX" md5="a3b484ba1bce8e76a5e1f8d9e1547dc4" Size="280"/>
+     <FileProperties FileName="NOBAJAN05.bn" md5="e07ef4f0eb29e83039b9cc1ad717eba3" Size="73122"/>
+     <FileProperties FileName="NOBAJAN06.BBX" md5="a3b484ba1bce8e76a5e1f8d9e1547dc4" Size="280"/>
+     <FileProperties FileName="NOBAJAN06.bn" md5="b498b16afd90ca99711af985a51067d5" Size="73122"/>
+     <FileProperties FileName="NOBAJAN07.BBX" md5="a445b7b4602abade49ceebec5f7b9d7c" Size="280"/>
+     <FileProperties FileName="NOBAJAN07.bn" md5="3145defccdd7ad90a57ccf6370cce263" Size="75099"/>
+     <FileProperties FileName="NOBAJAN08.BBX" md5="a445b7b4602abade49ceebec5f7b9d7c" Size="280"/>
+     <FileProperties FileName="NOBAJAN08.bn" md5="b37565a64ca1aec557b5703e79c950e4" Size="75796"/>
+     <FileProperties FileName="NOBAJAN09.BBX" md5="a445b7b4602abade49ceebec5f7b9d7c" Size="280"/>
+     <FileProperties FileName="NOBAJAN09.bn" md5="36d8d884a31d8362e7d932aab3a8e34b" Size="75796"/>
+     <FileProperties FileName="NOBAJAN10.BBX" md5="a445b7b4602abade49ceebec5f7b9d7c" Size="280"/>
+     <FileProperties FileName="NOBAJAN10.bn" md5="fe9df9e52b65d870066bd52ad9fe006a" Size="75796"/>
+     <FileProperties FileName="NOBAJAN11.BBX" md5="0f49c2ad368b6ae0707345eaaac7b924" Size="280"/>
+     <FileProperties FileName="NOBAJAN11.bn" md5="aa5cdc99c230e39929eea60580847289" Size="73122"/>
+     <FileProperties FileName="NOBAJAN12.BBX" md5="c4cb3d8197dd053a8c700b984ad5f449" Size="280"/>
+     <FileProperties FileName="NOBAJAN12.bn" md5="851b6f58fe010e28882a87801b82ed0f" Size="250030"/>
+     <FileProperties FileName="RAKSHASI.BBX" md5="65e109bda4e4d8d748cca12e605376b6" Size="280"/>
+     <FileProperties FileName="RAKSHASI.bn" md5="5643268f77db3dc9e6020002c8ece9a7" Size="237693"/>
     </Files>
    </FolderProperties>
    <FolderProperties FolderName="Mesh">
     <Folders/>
     <Files>
-     <FileProperties Size="17308496" FileName="FORPATMSH.RFS" md5="6baba20dfefc0064c7016c91b971c690"/>
-     <FileProperties Size="25157540" FileName="HIGHELFM.RFS" md5="766d43486214dbe254ab0b5a966ae673"/>
-     <FileProperties Size="2960348" FileName="NOVAZANM.RFS" md5="9261835816d2f728371c007587baa45a"/>
-     <FileProperties Size="988" FileName="RFSInfo.dat" md5="9a3c281504da50364c14bc4664a62c59"/>
+     <FileProperties FileName="FORPATMSH.RFS" md5="6baba20dfefc0064c7016c91b971c690" Size="17308496"/>
+     <FileProperties FileName="HIGHELFM.RFS" md5="766d43486214dbe254ab0b5a966ae673" Size="25157540"/>
+     <FileProperties FileName="NOVAZANM.RFS" md5="9261835816d2f728371c007587baa45a" Size="2960348"/>
+     <FileProperties FileName="RFSInfo.dat" md5="9a3c281504da50364c14bc4664a62c59" Size="988"/>
     </Files>
    </FolderProperties>
    <FolderProperties FolderName="Tex">
     <Folders/>
     <Files>
-     <FileProperties Size="10768644" FileName="FORPATTEX.RFS" md5="e8caaa042502e6c4217f5b950922b844"/>
-     <FileProperties Size="46685612" FileName="HIGHELFT.RFS" md5="8ac150767367a14b4f8ae6e127909716"/>
-     <FileProperties Size="1410108" FileName="NOVAZANT.RFS" md5="e53d15e1e02237de644ab8899f51fcbb"/>
-     <FileProperties Size="805" FileName="RFSInfo.dat" md5="4079ac8932013008c46cfe5b6fc1ed8b"/>
+     <FileProperties FileName="FORPATTEX.RFS" md5="e8caaa042502e6c4217f5b950922b844" Size="10768644"/>
+     <FileProperties FileName="HIGHELFT.RFS" md5="8ac150767367a14b4f8ae6e127909716" Size="46685612"/>
+     <FileProperties FileName="NOVAZANT.RFS" md5="e53d15e1e02237de644ab8899f51fcbb" Size="1410108"/>
+     <FileProperties FileName="RFSInfo.dat" md5="4079ac8932013008c46cfe5b6fc1ed8b" Size="805"/>
     </Files>
     <FolderProperties FolderName="MW">
      <Folders/>
@@ -93,41 +93,41 @@
      <FolderProperties FolderName="MINERALS">
       <Folders/>
       <Files>
-       <FileProperties Size="131200" FileName="belief.dds" md5="069a9b29cec229a668c65adf978e728b"/>
-       <FileProperties Size="131200" FileName="chaos.dds" md5="b9665bc92d67712f3f6b6b1fba84301d"/>
-       <FileProperties Size="131200" FileName="darkness.dds" md5="6c3c6d1a6a8db07ca8dc85bcdd4b3602"/>
-       <FileProperties Size="131200" FileName="destruction.dds" md5="327dd73b1e4ade3f16ecb3a46609c3bc"/>
-       <FileProperties Size="131200" FileName="favor.dds" md5="df78dad19ac077269a86e1fecfeb78c8"/>
-       <FileProperties Size="131200" FileName="glory.dds" md5="469cbc4c2d87fa1c06751886bb79a56c"/>
-       <FileProperties Size="131200" FileName="grace.dds" md5="ee4e21b61ef3966ee4b07fd2d4355cc9"/>
-       <FileProperties Size="131200" FileName="guard.dds" md5="3ac98feaad06e5158d027b9121dd53d3"/>
-       <FileProperties Size="131200" FileName="hatred.dds" md5="368d4de5449d3fa9dfd304d9daad5419"/>
-       <FileProperties Size="131200" FileName="keen.dds" md5="7a0149a1c07aec68048a12fc0dbf47ca"/>
-       <FileProperties Size="131200" FileName="mercy.dds" md5="0239403d8a717380dfde42cbe5012e89"/>
-       <FileProperties Size="131200" FileName="sacred.dds" md5="99136267ec36456908dd41c9bc02f9bc"/>
-       <FileProperties Size="131200" FileName="wisdom.dds" md5="bc852151cd416d49bdcbf0c829fe8b37"/>
+       <FileProperties FileName="belief.dds" md5="069a9b29cec229a668c65adf978e728b" Size="131200"/>
+       <FileProperties FileName="chaos.dds" md5="b9665bc92d67712f3f6b6b1fba84301d" Size="131200"/>
+       <FileProperties FileName="darkness.dds" md5="6c3c6d1a6a8db07ca8dc85bcdd4b3602" Size="131200"/>
+       <FileProperties FileName="destruction.dds" md5="327dd73b1e4ade3f16ecb3a46609c3bc" Size="131200"/>
+       <FileProperties FileName="favor.dds" md5="df78dad19ac077269a86e1fecfeb78c8" Size="131200"/>
+       <FileProperties FileName="glory.dds" md5="469cbc4c2d87fa1c06751886bb79a56c" Size="131200"/>
+       <FileProperties FileName="grace.dds" md5="ee4e21b61ef3966ee4b07fd2d4355cc9" Size="131200"/>
+       <FileProperties FileName="guard.dds" md5="3ac98feaad06e5158d027b9121dd53d3" Size="131200"/>
+       <FileProperties FileName="hatred.dds" md5="368d4de5449d3fa9dfd304d9daad5419" Size="131200"/>
+       <FileProperties FileName="keen.dds" md5="7a0149a1c07aec68048a12fc0dbf47ca" Size="131200"/>
+       <FileProperties FileName="mercy.dds" md5="0239403d8a717380dfde42cbe5012e89" Size="131200"/>
+       <FileProperties FileName="sacred.dds" md5="99136267ec36456908dd41c9bc02f9bc" Size="131200"/>
+       <FileProperties FileName="wisdom.dds" md5="bc852151cd416d49bdcbf0c829fe8b37" Size="131200"/>
       </Files>
      </FolderProperties>
      <FolderProperties FolderName="PROPS">
       <Folders/>
       <Files>
-       <FileProperties Size="1048704" FileName="DES_Cactus_02_D.dds" md5="1b90cf06a45d24497064f9c79d4e0050"/>
-       <FileProperties Size="262272" FileName="DES_Cactus_02_D_NOR.dds" md5="c03d9345fa06257c6ac5a421107b9e1f"/>
-       <FileProperties Size="262272" FileName="DES_Cactus_02_D_SEQ.dds" md5="fc6dcd9e91937f48642216a710517c6b"/>
-       <FileProperties Size="1048704" FileName="DES_Cactus_04_D.dds" md5="85e20578da5d84fe6b407fb3d6a7be47"/>
-       <FileProperties Size="262272" FileName="DES_Cactus_04_D_NOR.dds" md5="c920211cef049144adbb884a7cc7dc06"/>
-       <FileProperties Size="262272" FileName="DES_Cactus_04_D_SEQ.dds" md5="e7aab7cbb62556569c2f4e9b25f82ab5"/>
-       <FileProperties Size="1048704" FileName="DES_Cactus_06_D.dds" md5="4fac3bcbf1e35106295e839daa28bfbf"/>
-       <FileProperties Size="1048704" FileName="DES_Cactus_06_D_NOR.dds" md5="a3192196336c1afd0b9bb781c07d322c"/>
-       <FileProperties Size="262272" FileName="DES_Cactus_06_D_SEQ.dds" md5="08f2dacc3cdf953454af470d13405b47"/>
-       <FileProperties Size="4194432" FileName="DES_Cactus_07_D.dds" md5="6c4350e07fe8b5e4f4da7402b2201f5b"/>
-       <FileProperties Size="4194432" FileName="DES_Cactus_07_D_NOR.dds" md5="8b3b4e32c8d1c442cabc71ce8f67e003"/>
-       <FileProperties Size="1048704" FileName="Mushroom01_D.dds" md5="b6b0dfee0079ea4c022e8894ea215ff2"/>
-       <FileProperties Size="1048704" FileName="Mushroom01_D_NOR.dds" md5="1159f39bd3569627582659b60c8a7bc9"/>
-       <FileProperties Size="1048704" FileName="Mushroom01_D_SEQ.dds" md5="1eedbc32e1bc3a3fc9258d89b434067a"/>
-       <FileProperties Size="1048704" FileName="Mushroom04_D.dds" md5="799c349b2b7cd5824d48e13db2d88002"/>
-       <FileProperties Size="1048704" FileName="Mushroom04_D_NOR.dds" md5="6b2725c8fadf1483515942f0a473cbda"/>
-       <FileProperties Size="262272" FileName="Mushroom04_D_SEQ.dds" md5="44b5cf45def4ef29cf129165f5e211c6"/>
+       <FileProperties FileName="DES_Cactus_02_D.dds" md5="1b90cf06a45d24497064f9c79d4e0050" Size="1048704"/>
+       <FileProperties FileName="DES_Cactus_02_D_NOR.dds" md5="c03d9345fa06257c6ac5a421107b9e1f" Size="262272"/>
+       <FileProperties FileName="DES_Cactus_02_D_SEQ.dds" md5="fc6dcd9e91937f48642216a710517c6b" Size="262272"/>
+       <FileProperties FileName="DES_Cactus_04_D.dds" md5="85e20578da5d84fe6b407fb3d6a7be47" Size="1048704"/>
+       <FileProperties FileName="DES_Cactus_04_D_NOR.dds" md5="c920211cef049144adbb884a7cc7dc06" Size="262272"/>
+       <FileProperties FileName="DES_Cactus_04_D_SEQ.dds" md5="e7aab7cbb62556569c2f4e9b25f82ab5" Size="262272"/>
+       <FileProperties FileName="DES_Cactus_06_D.dds" md5="4fac3bcbf1e35106295e839daa28bfbf" Size="1048704"/>
+       <FileProperties FileName="DES_Cactus_06_D_NOR.dds" md5="a3192196336c1afd0b9bb781c07d322c" Size="1048704"/>
+       <FileProperties FileName="DES_Cactus_06_D_SEQ.dds" md5="08f2dacc3cdf953454af470d13405b47" Size="262272"/>
+       <FileProperties FileName="DES_Cactus_07_D.dds" md5="6c4350e07fe8b5e4f4da7402b2201f5b" Size="4194432"/>
+       <FileProperties FileName="DES_Cactus_07_D_NOR.dds" md5="8b3b4e32c8d1c442cabc71ce8f67e003" Size="4194432"/>
+       <FileProperties FileName="Mushroom01_D.dds" md5="b6b0dfee0079ea4c022e8894ea215ff2" Size="1048704"/>
+       <FileProperties FileName="Mushroom01_D_NOR.dds" md5="1159f39bd3569627582659b60c8a7bc9" Size="1048704"/>
+       <FileProperties FileName="Mushroom01_D_SEQ.dds" md5="1eedbc32e1bc3a3fc9258d89b434067a" Size="1048704"/>
+       <FileProperties FileName="Mushroom04_D.dds" md5="799c349b2b7cd5824d48e13db2d88002" Size="1048704"/>
+       <FileProperties FileName="Mushroom04_D_NOR.dds" md5="6b2725c8fadf1483515942f0a473cbda" Size="1048704"/>
+       <FileProperties FileName="Mushroom04_D_SEQ.dds" md5="44b5cf45def4ef29cf129165f5e211c6" Size="262272"/>
       </Files>
      </FolderProperties>
     </FolderProperties>
@@ -137,82 +137,82 @@
  <FolderProperties FolderName="DataTable">
   <Folders/>
   <Files>
-   <FileProperties Size="108101" FileName="AccessoryGradeUpEff.edf" md5="202eb01f290af729c49ac52cf0c835f6"/>
-   <FileProperties Size="737173" FileName="Character.edf" md5="3b45eff0332d2f7f9f84854d76e6e5eb"/>
-   <FileProperties Size="108101" FileName="CloakGradeUpEff.edf" md5="443551e6c9f0a692c778ef69fedd64ef"/>
-   <FileProperties Size="108101" FileName="DefendGradeUpEff.edf" md5="92150b26c484ff1958ffff6366432b66"/>
-   <FileProperties Size="39061" FileName="DefendRankUpEff.edf" md5="488ead8fe8d542405a5490674414132a"/>
-   <FileProperties Size="41609" FileName="EventShip.edf" md5="8350939231099d2f21277cb3f96d81cd"/>
-   <FileProperties Size="361" FileName="EventSound.edf" md5="5b262c6438064fe52269f3b8f9ccf5d9"/>
-   <FileProperties Size="16347509" FileName="item.edf" md5="e2bc6411dc030365970f347722eff228"/>
-   <FileProperties Size="297" FileName="ItemCash.edf" md5="3f67527dbf5248449755ccc6a661043e"/>
-   <FileProperties Size="11943369" FileName="ItemCombine.edf" md5="ca851c8204eaf813bc68af3210864d24"/>
-   <FileProperties Size="493" FileName="ItemCostumeLink.edf" md5="a7815e25f041f94336aa6cea79f26a04"/>
-   <FileProperties Size="384385" FileName="ItemPremium.edf" md5="8e80fe84c9295ed9dee0b16ca1284063"/>
-   <FileProperties Size="460377" FileName="ItemSetEffect.edf" md5="686b34d04a6e1aef1c6db4eeabb6a887"/>
-   <FileProperties Size="42897" FileName="ItemTimer.edf" md5="c0cb19145f9f95fe0da0f9136ca67962"/>
-   <FileProperties Size="32817" FileName="ItemTimer.edf-" md5="d4421cee59e11a789015174d70eb828f"/>
-   <FileProperties Size="278564" FileName="Map.edf" md5="50c66d2bf7c1f7c28dd7538d401c2316"/>
-   <FileProperties Size="39501" FileName="MinerGradeUpEff.edf" md5="e365916fd3a0c147f932fe7c7db08a6a"/>
-   <FileProperties Size="8181" FileName="MsgEvent.edf" md5="f7e656094f0250794a1bd05926c81e71"/>
-   <FileProperties Size="657" FileName="PlayerCharacter.edf" md5="d6d5fb083a3cc186fcaec7a45fa012b8"/>
-   <FileProperties Size="1452069" FileName="Quest.edf" md5="f7156c026627410942eba928073a7fe9"/>
-   <FileProperties Size="7910873" FileName="Resource.edf" md5="6fe92166827d13dc16f48eeb9f9dbb58"/>
-   <FileProperties Size="1522361" FileName="SkillForce.edf" md5="3639262dc533415a06a09b783ee4a7fb"/>
-   <FileProperties Size="469473" FileName="SpecialStore.edf" md5="ff692df706e3534f0df6e68da165ba7d"/>
-   <FileProperties Size="651057" FileName="Store.edf" md5="5e4713cf0404f502cd112dd3b2a5793f"/>
-   <FileProperties Size="737" FileName="TrunkExted.edf" md5="a3f16e21157c7e26ca61ae4ff48e3045"/>
-   <FileProperties Size="108101" FileName="WeaponGradeUpEff.edf" md5="d98d52bb2ace98658ab799e92e216f2c"/>
-   <FileProperties Size="39061" FileName="WeaponRankUpEff.edf" md5="fdfbaee5367ff53380562030ddbaa251"/>
+   <FileProperties FileName="AccessoryGradeUpEff.edf" md5="202eb01f290af729c49ac52cf0c835f6" Size="108101"/>
+   <FileProperties FileName="Character.edf" md5="3b45eff0332d2f7f9f84854d76e6e5eb" Size="737173"/>
+   <FileProperties FileName="CloakGradeUpEff.edf" md5="443551e6c9f0a692c778ef69fedd64ef" Size="108101"/>
+   <FileProperties FileName="DefendGradeUpEff.edf" md5="92150b26c484ff1958ffff6366432b66" Size="108101"/>
+   <FileProperties FileName="DefendRankUpEff.edf" md5="488ead8fe8d542405a5490674414132a" Size="39061"/>
+   <FileProperties FileName="EventShip.edf" md5="8350939231099d2f21277cb3f96d81cd" Size="41609"/>
+   <FileProperties FileName="EventSound.edf" md5="5b262c6438064fe52269f3b8f9ccf5d9" Size="361"/>
+   <FileProperties FileName="item.edf" md5="e2bc6411dc030365970f347722eff228" Size="16347509"/>
+   <FileProperties FileName="ItemCash.edf" md5="3f67527dbf5248449755ccc6a661043e" Size="297"/>
+   <FileProperties FileName="ItemCombine.edf" md5="ca851c8204eaf813bc68af3210864d24" Size="11943369"/>
+   <FileProperties FileName="ItemCostumeLink.edf" md5="a7815e25f041f94336aa6cea79f26a04" Size="493"/>
+   <FileProperties FileName="ItemPremium.edf" md5="8e80fe84c9295ed9dee0b16ca1284063" Size="384385"/>
+   <FileProperties FileName="ItemSetEffect.edf" md5="686b34d04a6e1aef1c6db4eeabb6a887" Size="460377"/>
+   <FileProperties FileName="ItemTimer.edf" md5="c0cb19145f9f95fe0da0f9136ca67962" Size="42897"/>
+   <FileProperties FileName="ItemTimer.edf-" md5="d4421cee59e11a789015174d70eb828f" Size="32817"/>
+   <FileProperties FileName="Map.edf" md5="d45baf087d36986cd99adbf72ebeaaf8" Size="278564"/>
+   <FileProperties FileName="MinerGradeUpEff.edf" md5="e365916fd3a0c147f932fe7c7db08a6a" Size="39501"/>
+   <FileProperties FileName="MsgEvent.edf" md5="f7e656094f0250794a1bd05926c81e71" Size="8181"/>
+   <FileProperties FileName="PlayerCharacter.edf" md5="d6d5fb083a3cc186fcaec7a45fa012b8" Size="657"/>
+   <FileProperties FileName="Quest.edf" md5="f7156c026627410942eba928073a7fe9" Size="1452069"/>
+   <FileProperties FileName="Resource.edf" md5="6fe92166827d13dc16f48eeb9f9dbb58" Size="7910873"/>
+   <FileProperties FileName="SkillForce.edf" md5="3639262dc533415a06a09b783ee4a7fb" Size="1522361"/>
+   <FileProperties FileName="SpecialStore.edf" md5="ff692df706e3534f0df6e68da165ba7d" Size="469473"/>
+   <FileProperties FileName="Store.edf" md5="5e4713cf0404f502cd112dd3b2a5793f" Size="651057"/>
+   <FileProperties FileName="TrunkExted.edf" md5="a3f16e21157c7e26ca61ae4ff48e3045" Size="737"/>
+   <FileProperties FileName="WeaponGradeUpEff.edf" md5="d98d52bb2ace98658ab799e92e216f2c" Size="108101"/>
+   <FileProperties FileName="WeaponRankUpEff.edf" md5="fdfbaee5367ff53380562030ddbaa251" Size="39061"/>
   </Files>
   <FolderProperties FolderName="en-gb">
    <Folders/>
    <Files>
-    <FileProperties Size="232801" FileName="NDCharacter.edf" md5="bde4c3d65669a6affd82bab59442ce22"/>
-    <FileProperties Size="12486" FileName="NDEventShip.edf" md5="e29cbb1f949a891e716fc33544701f50"/>
-    <FileProperties Size="8421626" FileName="nditem.edf" md5="62b5b2044a1464b2a85af31daaeea78e"/>
-    <FileProperties Size="297" FileName="NDItemCash.edf" md5="cedd38f80be4b66a7875ee5a16dfae0d"/>
-    <FileProperties Size="256875" FileName="NDLanguage.edf" md5="3205a99ead8b36376c10fcd7fe46e12e"/>
-    <FileProperties Size="45626" FileName="NDMap.edf" md5="435e6ddaece1242d682f217fc2b1d550"/>
-    <FileProperties Size="7977" FileName="NDMsgEvent.edf" md5="bd40ba7d22e91a7d2472f096547fde65"/>
-    <FileProperties Size="73030" FileName="NDMsgMonster.edf" md5="6fc861e0988093195416fb01a994f604"/>
-    <FileProperties Size="763367" FileName="NDQuest.edf" md5="fbecadc6c13b9d3accabad38f812567b"/>
-    <FileProperties Size="1219977" FileName="NDSkillForce.edf" md5="eb91c7ddfff8d0eee300d043f9a3ac4b"/>
-    <FileProperties Size="76928" FileName="NDStore.edf" md5="9a08a3ab374f80c26ac9360ef1c509d7"/>
-    <FileProperties Size="996137" FileName="NDUIHelp.edf" md5="2a5a63e8c6c60af3d4dfd52fbdd203c5"/>
+    <FileProperties FileName="NDCharacter.edf" md5="bde4c3d65669a6affd82bab59442ce22" Size="232801"/>
+    <FileProperties FileName="NDEventShip.edf" md5="e29cbb1f949a891e716fc33544701f50" Size="12486"/>
+    <FileProperties FileName="nditem.edf" md5="62b5b2044a1464b2a85af31daaeea78e" Size="8421626"/>
+    <FileProperties FileName="NDItemCash.edf" md5="cedd38f80be4b66a7875ee5a16dfae0d" Size="297"/>
+    <FileProperties FileName="NDLanguage.edf" md5="3205a99ead8b36376c10fcd7fe46e12e" Size="256875"/>
+    <FileProperties FileName="NDMap.edf" md5="435e6ddaece1242d682f217fc2b1d550" Size="45626"/>
+    <FileProperties FileName="NDMsgEvent.edf" md5="bd40ba7d22e91a7d2472f096547fde65" Size="7977"/>
+    <FileProperties FileName="NDMsgMonster.edf" md5="6fc861e0988093195416fb01a994f604" Size="73030"/>
+    <FileProperties FileName="NDQuest.edf" md5="fbecadc6c13b9d3accabad38f812567b" Size="763367"/>
+    <FileProperties FileName="NDSkillForce.edf" md5="eb91c7ddfff8d0eee300d043f9a3ac4b" Size="1219977"/>
+    <FileProperties FileName="NDStore.edf" md5="9a08a3ab374f80c26ac9360ef1c509d7" Size="76928"/>
+    <FileProperties FileName="NDUIHelp.edf" md5="2a5a63e8c6c60af3d4dfd52fbdd203c5" Size="996137"/>
    </Files>
   </FolderProperties>
   <FolderProperties FolderName="ko-kr">
    <Folders/>
    <Files>
-    <FileProperties Size="11349" FileName="Aka.dic" md5="68d8d15aa1dd780c9f0b49f036be8d33"/>
-    <FileProperties Size="41" FileName="Ika.dic" md5="fc41fb81d45fd2fb22e4425f75820fda"/>
+    <FileProperties FileName="Aka.dic" md5="68d8d15aa1dd780c9f0b49f036be8d33" Size="11349"/>
+    <FileProperties FileName="Ika.dic" md5="fc41fb81d45fd2fb22e4425f75820fda" Size="41"/>
    </Files>
   </FolderProperties>
   <FolderProperties FolderName="ru-ru">
    <Folders/>
    <Files>
-    <FileProperties Size="232385" FileName="ndcharacter.edf" md5="85295844610a3031f12ac9c547b63703"/>
-    <FileProperties Size="10225135" FileName="nditem.edf" md5="cfd7a8ef941a93c7dcb10b5a675924fe"/>
-    <FileProperties Size="297" FileName="nditemcash.edf" md5="e6e3ac66d5a8c7a5f9d95eb0b4d7a99e"/>
-    <FileProperties Size="267323" FileName="ndlanguage.edf" md5="247796e3d500c3b990f0a8d8bba72fb5"/>
-    <FileProperties Size="43925" FileName="ndmap.edf" md5="bf4ba06e50a59c00203d00f3bee95f24"/>
-    <FileProperties Size="760703" FileName="ndquest.edf" md5="95e34d9005548bf80e1f835cc961c40d"/>
-    <FileProperties Size="1219977" FileName="NDSkillForce.edf" md5="5c1713b7bc4cea09e9ac9169450aa62f"/>
-    <FileProperties Size="110822" FileName="ndstore.edf" md5="f8df5f7bab19aa05c82257cef21b718d"/>
+    <FileProperties FileName="ndcharacter.edf" md5="85295844610a3031f12ac9c547b63703" Size="232385"/>
+    <FileProperties FileName="nditem.edf" md5="cfd7a8ef941a93c7dcb10b5a675924fe" Size="10225135"/>
+    <FileProperties FileName="nditemcash.edf" md5="e6e3ac66d5a8c7a5f9d95eb0b4d7a99e" Size="297"/>
+    <FileProperties FileName="ndlanguage.edf" md5="247796e3d500c3b990f0a8d8bba72fb5" Size="267323"/>
+    <FileProperties FileName="ndmap.edf" md5="bf4ba06e50a59c00203d00f3bee95f24" Size="43925"/>
+    <FileProperties FileName="ndquest.edf" md5="95e34d9005548bf80e1f835cc961c40d" Size="760703"/>
+    <FileProperties FileName="NDSkillForce.edf" md5="5c1713b7bc4cea09e9ac9169450aa62f" Size="1219977"/>
+    <FileProperties FileName="ndstore.edf" md5="f8df5f7bab19aa05c82257cef21b718d" Size="110822"/>
    </Files>
   </FolderProperties>
  </FolderProperties>
  <FolderProperties FolderName="GameData">
   <Folders/>
   <Files>
-   <FileProperties Size="15106492" FileName="Data001.con" md5="beb921eb9c48c242c93cd5b54a0f5dfd"/>
-   <FileProperties Size="10032844" FileName="Data002.con" md5="47d0ba027cae4119e06ba73672ac8f8b"/>
-   <FileProperties Size="7213676" FileName="Data003.con" md5="852c31e420cdaa307284e970b20bbb73"/>
-   <FileProperties Size="91113980" FileName="Data004.con" md5="bcc5d351ea7bfdbddb7af6d69e4186f1"/>
-   <FileProperties Size="42828" FileName="Data005.con" md5="9fcd05834e83be104b18283de76d2270"/>
-   <FileProperties Size="23709404" FileName="Data006.con" md5="4ccf7d8b89156b924062cfe26cf133c3"/>
-   <FileProperties Size="5122236" FileName="Data007.con" md5="4692b4d58e1216ae62533abf00d340ae"/>
+   <FileProperties FileName="Data001.con" md5="beb921eb9c48c242c93cd5b54a0f5dfd" Size="15106492"/>
+   <FileProperties FileName="Data002.con" md5="47d0ba027cae4119e06ba73672ac8f8b" Size="10032844"/>
+   <FileProperties FileName="Data003.con" md5="852c31e420cdaa307284e970b20bbb73" Size="7213676"/>
+   <FileProperties FileName="Data004.con" md5="bcc5d351ea7bfdbddb7af6d69e4186f1" Size="91113980"/>
+   <FileProperties FileName="Data005.con" md5="9fcd05834e83be104b18283de76d2270" Size="42828"/>
+   <FileProperties FileName="Data006.con" md5="4ccf7d8b89156b924062cfe26cf133c3" Size="23709404"/>
+   <FileProperties FileName="Data007.con" md5="4692b4d58e1216ae62533abf00d340ae" Size="5122236"/>
   </Files>
  </FolderProperties>
  <FolderProperties FolderName="Item">
@@ -227,11 +227,11 @@
     <FolderProperties FolderName="F">
      <Folders/>
      <Files>
-      <FileProperties Size="524416" FileName="T_Pickaxe_Banana_D.dds" md5="49a55f491a6d8cf0afd7b184c282a18e"/>
-      <FileProperties Size="524416" FileName="T_Pickaxe_Flamingo_2_D.dds" md5="220ecf762741a78c1df7d8e73a154e66"/>
-      <FileProperties Size="524416" FileName="T_Pickaxe_Jellyfish_D.dds" md5="89606c8055d96b5ed854f366a61ced9c"/>
-      <FileProperties Size="524416" FileName="T_Pickaxe_Miner_D.dds" md5="29283d217ebe11419794bf7abb405ca0"/>
-      <FileProperties Size="524416" FileName="T_Pickaxe_Palm_Tree_D.dds" md5="11069b4ef81868d3dc9abf01ee9a1c8b"/>
+      <FileProperties FileName="T_Pickaxe_Banana_D.dds" md5="49a55f491a6d8cf0afd7b184c282a18e" Size="524416"/>
+      <FileProperties FileName="T_Pickaxe_Flamingo_2_D.dds" md5="220ecf762741a78c1df7d8e73a154e66" Size="524416"/>
+      <FileProperties FileName="T_Pickaxe_Jellyfish_D.dds" md5="89606c8055d96b5ed854f366a61ced9c" Size="524416"/>
+      <FileProperties FileName="T_Pickaxe_Miner_D.dds" md5="29283d217ebe11419794bf7abb405ca0" Size="524416"/>
+      <FileProperties FileName="T_Pickaxe_Palm_Tree_D.dds" md5="11069b4ef81868d3dc9abf01ee9a1c8b" Size="524416"/>
      </Files>
     </FolderProperties>
    </FolderProperties>
@@ -243,27 +243,27 @@
   <FolderProperties FolderName="neutralA">
    <Folders/>
    <Files>
-    <FileProperties Size="1028" FileName="neutralA.r3x" md5="a35f891891a1040b2049d14aeecda5f1"/>
+    <FileProperties FileName="neutralA.r3x" md5="a35f891891a1040b2049d14aeecda5f1" Size="1028"/>
    </Files>
   </FolderProperties>
   <FolderProperties FolderName="neutralB">
    <Folders/>
    <Files>
-    <FileProperties Size="1028" FileName="neutralB.r3x" md5="adf6fd465774c752449ae468f1512351"/>
+    <FileProperties FileName="neutralB.r3x" md5="adf6fd465774c752449ae468f1512351" Size="1028"/>
    </Files>
   </FolderProperties>
   <FolderProperties FolderName="neutralC">
    <Folders/>
    <Files>
-    <FileProperties Size="1028" FileName="neutralC.r3x" md5="7982f5e5025b29afe2fad234dd9b4a3a"/>
+    <FileProperties FileName="neutralC.r3x" md5="7982f5e5025b29afe2fad234dd9b4a3a" Size="1028"/>
    </Files>
   </FolderProperties>
  </FolderProperties>
  <FolderProperties FolderName="System">
   <Folders/>
   <Files>
-   <FileProperties Size="66981708" FileName="gui.dll" md5="bb28a8b107dd9600be4617560f27775c"/>
-   <FileProperties Size="5440044" FileName="titlelogo.tga" md5="e6b15e5062d0591729e3765d335b1039"/>
+   <FileProperties FileName="gui.dll" md5="bb28a8b107dd9600be4617560f27775c" Size="66981708"/>
+   <FileProperties FileName="titlelogo.tga" md5="e6b15e5062d0591729e3765d335b1039" Size="5440044"/>
   </Files>
  </FolderProperties>
 </FolderProperties>
