@@ -10,7 +10,7 @@
   <FileProperties Size="758592" md5="0e8888aadab9669d06f55767f2ccaf7b" FileName="msvcr100.dll"/>
   <FileProperties Size="3538944" md5="8e4bd2cc3074b41bd0ab2347e85fd9fe" FileName="PurifierB.dll"/>
   <FileProperties Size="13165057" md5="42945c180c359f9291cb3565d82dafe6" FileName="RF.exe"/>
-  <FileProperties Size="10635776" md5="5f24f2a54160c5d57db63e35eee3ddbb" FileName="RF_Online.bin"/>
+  <FileProperties Size="10623488" md5="eef0c51ed53cb9843f273ed3ce7ae9d4" FileName="RF_Online.bin"/>
  </Files>
  <FolderProperties FolderName="Character">
   <Folders/>
@@ -282,7 +282,7 @@
  <FolderProperties FolderName="System">
   <Folders/>
   <Files>
-   <FileProperties Size="66981708" md5="bb28a8b107dd9600be4617560f27775c" FileName="gui.dll"/>
+   <FileProperties Size="66991052" md5="ce3b47f232d93d94189b50516fa52a77" FileName="gui.dll"/>
    <FileProperties Size="5440044" md5="e6b15e5062d0591729e3765d335b1039" FileName="titlelogo.tga"/>
   </Files>
  </FolderProperties>
