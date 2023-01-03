@@ -1,0 +1,476 @@
+<!DOCTYPE files>
+<FolderProperties FolderName=".">
+ <Folders/>
+ <Files>
+  <FileProperties md5="fd0b78eeba106fad6816b8d1d5b760ee" Size="6884864" FileName="CrashRpt.dll"/>
+  <FileProperties md5="e7f3a701a0f2ec086fbbe43080e3aeeb" Size="4838400" FileName="d3dx11d.dll"/>
+  <FileProperties md5="26af232140c88b42d92a88f2198edf6a" Size="3426072" FileName="d3dx9_32.dll"/>
+  <FileProperties md5="1ca939918ed1b930059b3a882de6f648" Size="3497832" FileName="d3dx9_34.dll"/>
+  <FileProperties md5="44bfec5c9c82a2ee9871d88fd3b9a0e2" Size="3734536" FileName="d3dx9_36.dll"/>
+  <FileProperties md5="d90590446cb7b8ba4176672c9082c74f" Size="431936" FileName="msvcp100.dll"/>
+  <FileProperties md5="0e8888aadab9669d06f55767f2ccaf7b" Size="758592" FileName="msvcr100.dll"/>
+  <FileProperties md5="a8bb1d83bf5accd6928e9380c1050176" Size="2719744" FileName="PurifierB.dll"/>
+  <FileProperties md5="5eef0787d1f4b71e4890b654512e120e" Size="9009152" FileName="RF.exe"/>
+  <FileProperties md5="6aed2b9585191751f44ca94a5cba3133" Size="8743408" FileName="RF_Online.bin"/>
+ </Files>
+ <FolderProperties FolderName="DataTable">
+  <Folders/>
+  <Files>
+   <FileProperties md5="202eb01f290af729c49ac52cf0c835f6" Size="108101" FileName="AccessoryGradeUpEff.edf"/>
+   <FileProperties md5="24ad75908f7437eaf4006c54c465e11b" Size="739637" FileName="Character.edf"/>
+   <FileProperties md5="443551e6c9f0a692c778ef69fedd64ef" Size="108101" FileName="CloakGradeUpEff.edf"/>
+   <FileProperties md5="92150b26c484ff1958ffff6366432b66" Size="108101" FileName="DefendGradeUpEff.edf"/>
+   <FileProperties md5="488ead8fe8d542405a5490674414132a" Size="39061" FileName="DefendRankUpEff.edf"/>
+   <FileProperties md5="8350939231099d2f21277cb3f96d81cd" Size="41609" FileName="EventShip.edf"/>
+   <FileProperties md5="5b262c6438064fe52269f3b8f9ccf5d9" Size="361" FileName="EventSound.edf"/>
+   <FileProperties md5="2d7babb9c1b859988c0bfbe1d3d995c6" Size="16462529" FileName="item.edf"/>
+   <FileProperties md5="3f67527dbf5248449755ccc6a661043e" Size="297" FileName="ItemCash.edf"/>
+   <FileProperties md5="7697abdbd8953de9624ec5d94168d63d" Size="11969225" FileName="ItemCombine.edf"/>
+   <FileProperties md5="a7815e25f041f94336aa6cea79f26a04" Size="493" FileName="ItemCostumeLink.edf"/>
+   <FileProperties md5="bab20c764f55204d22214aa544a6258e" Size="384385" FileName="ItemPremium.edf"/>
+   <FileProperties md5="92f5c2dea82da110c331bf1f464ed096" Size="460377" FileName="ItemSetEffect.edf"/>
+   <FileProperties md5="3563f7acb09612941e87449e5c2e7ed8" Size="43857" FileName="ItemTimer.edf"/>
+   <FileProperties md5="d4421cee59e11a789015174d70eb828f" Size="32817" FileName="ItemTimer.edf-"/>
+   <FileProperties md5="e13121aa7497c693f89aa67ae37d992b" Size="278564" FileName="Map.edf"/>
+   <FileProperties md5="e365916fd3a0c147f932fe7c7db08a6a" Size="39501" FileName="MinerGradeUpEff.edf"/>
+   <FileProperties md5="f7e656094f0250794a1bd05926c81e71" Size="8181" FileName="MsgEvent.edf"/>
+   <FileProperties md5="d6d5fb083a3cc186fcaec7a45fa012b8" Size="657" FileName="PlayerCharacter.edf"/>
+   <FileProperties md5="c36aea310de1447c39f971109b6d1cdb" Size="1452829" FileName="Quest.edf"/>
+   <FileProperties md5="a2f4bba9f9df9c0d3bdcfdb68cd881f7" Size="7972337" FileName="Resource.edf"/>
+   <FileProperties md5="47726edf028ccd546edf8b9fd414cd89" Size="1522361" FileName="SkillForce.edf"/>
+   <FileProperties md5="ff692df706e3534f0df6e68da165ba7d" Size="469473" FileName="SpecialStore.edf"/>
+   <FileProperties md5="8b377763ad95de8a0750b7921876460d" Size="653301" FileName="Store.edf"/>
+   <FileProperties md5="a3f16e21157c7e26ca61ae4ff48e3045" Size="737" FileName="TrunkExted.edf"/>
+   <FileProperties md5="d98d52bb2ace98658ab799e92e216f2c" Size="108101" FileName="WeaponGradeUpEff.edf"/>
+   <FileProperties md5="fdfbaee5367ff53380562030ddbaa251" Size="39061" FileName="WeaponRankUpEff.edf"/>
+  </Files>
+  <FolderProperties FolderName="en-gb">
+   <Folders/>
+   <Files>
+    <FileProperties md5="b9dbc41eda94363a033cdd37d8790cc0" Size="232833" FileName="NDCharacter.edf"/>
+    <FileProperties md5="e29cbb1f949a891e716fc33544701f50" Size="12486" FileName="NDEventShip.edf"/>
+    <FileProperties md5="41cc26349f334d72f348b0d7de221da0" Size="8450008" FileName="nditem.edf"/>
+    <FileProperties md5="d961d9c3ae4f15f002fd835e9b3f36fd" Size="297" FileName="NDItemCash.edf"/>
+    <FileProperties md5="c440d9ab594c4518445fc2ce961b4bca" Size="256888" FileName="NDLanguage.edf"/>
+    <FileProperties md5="47436504aff67c2b8b941500b9f1dcfd" Size="45626" FileName="NDMap.edf"/>
+    <FileProperties md5="bd40ba7d22e91a7d2472f096547fde65" Size="7977" FileName="NDMsgEvent.edf"/>
+    <FileProperties md5="6fc861e0988093195416fb01a994f604" Size="73030" FileName="NDMsgMonster.edf"/>
+    <FileProperties md5="c0c5b9589ea1a3066b610c6e2eb93fd1" Size="763519" FileName="NDQuest.edf"/>
+    <FileProperties md5="88fd45f1aacde7f7c79cbffacc8185f3" Size="1219977" FileName="NDSkillForce.edf"/>
+    <FileProperties md5="dec34dc79184924996c8c1e0cf54f293" Size="77114" FileName="NDStore.edf"/>
+    <FileProperties md5="2a5a63e8c6c60af3d4dfd52fbdd203c5" Size="996137" FileName="NDUIHelp.edf"/>
+   </Files>
+  </FolderProperties>
+  <FolderProperties FolderName="ko-kr">
+   <Folders/>
+   <Files>
+    <FileProperties md5="68d8d15aa1dd780c9f0b49f036be8d33" Size="11349" FileName="Aka.dic"/>
+    <FileProperties md5="fc41fb81d45fd2fb22e4425f75820fda" Size="41" FileName="Ika.dic"/>
+   </Files>
+  </FolderProperties>
+  <FolderProperties FolderName="ru-ru">
+   <Folders/>
+   <Files>
+    <FileProperties md5="29fbf79f92d79bca6fd491a4678b41c3" Size="232833" FileName="ndcharacter.edf"/>
+    <FileProperties md5="75eff7f8f6e57dfed24b442b9a3673d2" Size="10257283" FileName="nditem.edf"/>
+    <FileProperties md5="d961d9c3ae4f15f002fd835e9b3f36fd" Size="297" FileName="nditemcash.edf"/>
+    <FileProperties md5="52801fa99ea44a1b48039f6765bf5f78" Size="267336" FileName="ndlanguage.edf"/>
+    <FileProperties md5="68a0a56d8d1ad6ee2da8633692fc86a2" Size="45989" FileName="ndmap.edf"/>
+    <FileProperties md5="463e733f3899fd19cdbba498a6bbdb7f" Size="763519" FileName="ndquest.edf"/>
+    <FileProperties md5="c48c61cf6eff5e150eec58a6c46b16b7" Size="1219977" FileName="NDSkillForce.edf"/>
+    <FileProperties md5="c65c47a011c038899ae58292a6382db3" Size="113534" FileName="ndstore.edf"/>
+   </Files>
+  </FolderProperties>
+ </FolderProperties>
+ <FolderProperties FolderName="GameData">
+  <Folders/>
+  <Files>
+   <FileProperties md5="79d4e9f4520309e5f858ebac586699cd" Size="15108268" FileName="Data001.con"/>
+   <FileProperties md5="4ff8d1cd1eb43e973cf44334edc2a7e1" Size="10164108" FileName="Data002.con"/>
+   <FileProperties md5="ec7fcfd2b0b2d794be3475378deed01c" Size="7213676" FileName="Data003.con"/>
+   <FileProperties md5="3fa922b3730aa9153762c57002a718ae" Size="96904700" FileName="Data004.con"/>
+   <FileProperties md5="8205a19984bf0e69701c36a05aeeefcd" Size="42828" FileName="Data005.con"/>
+   <FileProperties md5="b957ea7f39f8dd33db8972d40c863486" Size="2624188" FileName="Data006.con"/>
+   <FileProperties md5="7fb03a0d83c3dc2b8c0ed1d8be9028a5" Size="2499436" FileName="Data007.con"/>
+   <FileProperties md5="f9c75f6dccf5e3b21a439844a70da99e" Size="3566204" FileName="Data008.con"/>
+   <FileProperties md5="c7a25c9b2a669df3bb94564607a1d411" Size="94716" FileName="Data008_01.con"/>
+   <FileProperties md5="67c1219c9bc4e3e8c3ceb20e51ebb20c" Size="144828" FileName="Data008_02.con"/>
+   <FileProperties md5="1c48198c8a37467174748e497fd08b19" Size="25079212" FileName="Data008_03.con"/>
+  </Files>
+ </FolderProperties>
+ <FolderProperties FolderName="Item">
+  <Folders/>
+  <Files/>
+  <FolderProperties FolderName="Weapon">
+   <Folders/>
+   <Files/>
+   <FolderProperties FolderName="Tex">
+    <Folders/>
+    <Files/>
+    <FolderProperties FolderName="F">
+     <Folders/>
+     <Files>
+      <FileProperties md5="49a55f491a6d8cf0afd7b184c282a18e" Size="524416" FileName="T_Pickaxe_Banana_D.dds"/>
+      <FileProperties md5="220ecf762741a78c1df7d8e73a154e66" Size="524416" FileName="T_Pickaxe_Flamingo_2_D.dds"/>
+      <FileProperties md5="89606c8055d96b5ed854f366a61ced9c" Size="524416" FileName="T_Pickaxe_Jellyfish_D.dds"/>
+      <FileProperties md5="29283d217ebe11419794bf7abb405ca0" Size="524416" FileName="T_Pickaxe_Miner_D.dds"/>
+      <FileProperties md5="11069b4ef81868d3dc9abf01ee9a1c8b" Size="524416" FileName="T_Pickaxe_Palm_Tree_D.dds"/>
+     </Files>
+    </FolderProperties>
+    <FolderProperties FolderName="XMAS">
+     <Folders/>
+     <Files>
+      <FileProperties md5="2c7567f93052bd2e7a2d9297f60ca4a1" Size="174904" FileName="SW_xmas03.dds"/>
+     </Files>
+    </FolderProperties>
+   </FolderProperties>
+  </FolderProperties>
+ </FolderProperties>
+ <FolderProperties FolderName="Map">
+  <Folders/>
+  <Files/>
+  <FolderProperties FolderName="Entity">
+   <Folders/>
+   <Files/>
+   <FolderProperties FolderName="e_midway">
+    <Folders/>
+    <Files/>
+    <FolderProperties FolderName="candy01">
+     <Folders/>
+     <Files>
+      <FileProperties md5="a90b5d944e8a2c11fcf66643f75cee10" Size="199" FileName="Candy_Cane01_Candy_Cane_baked_0.mst"/>
+      <FileProperties md5="48af01580be727b32127cc567728efbb" Size="8388736" FileName="Candy_Cane01_Candy_Cane_pbr_diffuse.dds"/>
+      <FileProperties md5="1214bebd8d2ba8f6e5c96919b20523d4" Size="59" FileName="MainMaterial.mst"/>
+     </Files>
+    </FolderProperties>
+    <FolderProperties FolderName="candy02">
+     <Folders/>
+     <Files>
+      <FileProperties md5="445c8bb99c849b2aa27b345048c976b7" Size="199" FileName="Candy_Cane02_Candy_Cane_baked_0.mst"/>
+      <FileProperties md5="162c5a7fad4c14cda85babf7485e0dc0" Size="8388736" FileName="Candy_Cane02_Candy_Cane_pbr_diffuse.dds"/>
+      <FileProperties md5="7c73329894d991e9a6c0660d5f45f83e" Size="59" FileName="MainMaterial.mst"/>
+     </Files>
+    </FolderProperties>
+    <FolderProperties FolderName="candy03">
+     <Folders/>
+     <Files>
+      <FileProperties md5="1ff09e04bfaaef605352fe4e80277923" Size="199" FileName="Candy_Cane03_Candy_Cane_baked_0.mst"/>
+      <FileProperties md5="298c57f38b63fea28cdbf7f02232aeca" Size="8388736" FileName="Candy_Cane03_Candy_Cane_pbr_diffuse.dds"/>
+      <FileProperties md5="facf7adfe945b03bcb7aa4ad8e3a7f3b" Size="59" FileName="MainMaterial.mst"/>
+     </Files>
+    </FolderProperties>
+    <FolderProperties FolderName="candy04">
+     <Folders/>
+     <Files>
+      <FileProperties md5="9150df460a36d830b1e0ef7d35dbeb89" Size="199" FileName="Candy_Cane04_Candy_Cane_baked_0.mst"/>
+      <FileProperties md5="68e336b4a0b4e546ccee3a4e2d817cf1" Size="8388736" FileName="Candy_Cane04_Candy_Cane_pbr_diffuse.dds"/>
+      <FileProperties md5="202fb621d23b9d41bd74c42a3fc2bfea" Size="59" FileName="MainMaterial.mst"/>
+     </Files>
+    </FolderProperties>
+    <FolderProperties FolderName="candy05">
+     <Folders/>
+     <Files>
+      <FileProperties md5="84d3019e0f0f289a6f4298f97aef33fc" Size="199" FileName="Candy_Cane05_Candy_Cane_baked_0.mst"/>
+      <FileProperties md5="016d6f2b0e121874d438080c0cbe1535" Size="8388736" FileName="Candy_Cane05_Candy_Cane_pbr_diffuse.dds"/>
+      <FileProperties md5="7dbdb9a145a268ff797a1223beae65c4" Size="59" FileName="MainMaterial.mst"/>
+     </Files>
+    </FolderProperties>
+    <FolderProperties FolderName="frostivus_tree">
+     <Folders/>
+     <Files>
+      <FileProperties md5="61983a26c8fcc682c74b5b1ee2058366" Size="181" FileName="frostivus_tree_1.mst"/>
+      <FileProperties md5="61c0c1d45bc4b2cea6a973670ca581cb" Size="32896" FileName="frostivus_tree_10.dds"/>
+      <FileProperties md5="5f41c71d53e4fa264c4ea54e12b1f7a1" Size="131200" FileName="frostivus_tree_12.dds"/>
+      <FileProperties md5="d1a5a91775d47da8c4a520d64354a0fd" Size="262272" FileName="frostivus_tree_2.dds"/>
+      <FileProperties md5="9ba5e76527cdc26140edf2d96986a02c" Size="106" FileName="MainMaterial.mst"/>
+      <FileProperties md5="007f879aa434858534758a3defebbc61" Size="180" FileName="tree_pine_frond_snow_00b_0.mst"/>
+      <FileProperties md5="d6a9ee5e6c1e6370cea3ecf049a32c91" Size="181" FileName="tree_pine_frond_snow_00c_2.mst"/>
+     </Files>
+    </FolderProperties>
+    <FolderProperties FolderName="l_tree15-w">
+     <Folders/>
+     <Files>
+      <FileProperties md5="77c6606fde959ed8e7e2baa737709312" Size="388" FileName="l_tree15-w.r3m"/>
+      <FileProperties md5="498da42cb21be87b542192e7948ef85d" Size="524856" FileName="l_tree15-w.r3t"/>
+     </Files>
+    </FolderProperties>
+    <FolderProperties FolderName="snowman">
+     <Folders/>
+     <Files>
+      <FileProperties md5="4bec6480a7a9bf805c7e645785838426" Size="131200" FileName="frostivus_snowman_0.dds"/>
+      <FileProperties md5="ec95f62674f3fb8ce98ae0581c5d533c" Size="44" FileName="MainMaterial.mst"/>
+      <FileProperties md5="3942cc2378ccfe84016ed3c0ea1ef7be" Size="183" FileName="Material%#613_0.mst"/>
+     </Files>
+    </FolderProperties>
+   </FolderProperties>
+  </FolderProperties>
+  <FolderProperties FolderName="neutralA">
+   <Folders/>
+   <Files>
+    <FileProperties md5="a35f891891a1040b2049d14aeecda5f1" Size="1028" FileName="neutralA.r3x"/>
+   </Files>
+  </FolderProperties>
+  <FolderProperties FolderName="neutralB">
+   <Folders/>
+   <Files>
+    <FileProperties md5="adf6fd465774c752449ae468f1512351" Size="1028" FileName="neutralB.r3x"/>
+   </Files>
+  </FolderProperties>
+  <FolderProperties FolderName="neutralC">
+   <Folders/>
+   <Files>
+    <FileProperties md5="7982f5e5025b29afe2fad234dd9b4a3a" Size="1028" FileName="neutralC.r3x"/>
+   </Files>
+  </FolderProperties>
+  <FolderProperties FolderName="Station_Dome">
+   <Folders/>
+   <Files>
+    <FileProperties md5="736d39edfdc7d7a6b0f3e79b4abeb815" Size="17957778" FileName="station_dome.BSP"/>
+    <FileProperties md5="65bf3ba627a1f5dd6cf36eb9e2043f77" Size="169916" FileName="Station_Dome.r3m"/>
+    <FileProperties md5="d1067ea3e13a5763032b381632957b05" Size="19477540" FileName="Station_Dome.r3t"/>
+    <FileProperties md5="e18ba7a0c66e8cd9a14bd5303c6fb979" Size="1036" FileName="Station_Dome.r3x"/>
+    <FileProperties md5="07b56df268fae75816c1ab3a02a82fc6" Size="9046352" FileName="station_domeLgt.R3T"/>
+   </Files>
+   <FolderProperties FolderName="Sky">
+    <Folders/>
+    <Files>
+     <FileProperties md5="3b5f4aa11dfabaad1dfa42578d7b7c1d" Size="153350" FileName="station_domesky.r3e"/>
+     <FileProperties md5="d725ad9b48a28839099314b33a345b33" Size="7216" FileName="station_domesky.r3m"/>
+     <FileProperties md5="6987a5b02fd8a88a4c308dd4adfaed86" Size="8554240" FileName="station_domesky.r3t"/>
+    </Files>
+   </FolderProperties>
+  </FolderProperties>
+  <FolderProperties FolderName="xmas">
+   <Folders/>
+   <Files>
+    <FileProperties md5="091751f29c048da3f5391eea2c89caed" Size="1028" FileName="xmas.r3x"/>
+   </Files>
+   <FolderProperties FolderName="Sky">
+    <Folders/>
+    <Files>
+     <FileProperties md5="3b5f4aa11dfabaad1dfa42578d7b7c1d" Size="153350" FileName="xmassky.r3e"/>
+     <FileProperties md5="d725ad9b48a28839099314b33a345b33" Size="7216" FileName="xmassky.r3m"/>
+     <FileProperties md5="6987a5b02fd8a88a4c308dd4adfaed86" Size="8554240" FileName="xmassky.r3t"/>
+    </Files>
+   </FolderProperties>
+   <FolderProperties FolderName="tex">
+    <Folders/>
+    <Files>
+     <FileProperties md5="e79bee51768218953a0915665919a232" Size="131200" FileName="ice.dds"/>
+     <FileProperties md5="764f80325ae7d09ea1ce18713cdef8a2" Size="3983" FileName="MainMaterial.mst"/>
+     <FileProperties md5="711f231df97eff57d8fa1318ed877d4d" Size="182" FileName="Material%#406_100.mst"/>
+     <FileProperties md5="3b7c1d9862c51f07d1c1900cf32d4aaf" Size="182" FileName="Material%#407_65.mst"/>
+     <FileProperties md5="3b7c1d9862c51f07d1c1900cf32d4aaf" Size="182" FileName="Material%#408_64.mst"/>
+     <FileProperties md5="3b7c1d9862c51f07d1c1900cf32d4aaf" Size="182" FileName="Material%#409_97.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#410_77.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#411_76.mst"/>
+     <FileProperties md5="3b7c1d9862c51f07d1c1900cf32d4aaf" Size="182" FileName="Material%#416_78.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#419_75.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#420_74.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#421_79.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#422_72.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#423_73.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#424_80.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#425_81.mst"/>
+     <FileProperties md5="711f231df97eff57d8fa1318ed877d4d" Size="182" FileName="Material%#427_87.mst"/>
+     <FileProperties md5="711f231df97eff57d8fa1318ed877d4d" Size="182" FileName="Material%#428_86.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#429_82.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#430_84.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#431_83.mst"/>
+     <FileProperties md5="3b7c1d9862c51f07d1c1900cf32d4aaf" Size="182" FileName="Material%#432_92.mst"/>
+     <FileProperties md5="3b7c1d9862c51f07d1c1900cf32d4aaf" Size="182" FileName="Material%#433_91.mst"/>
+     <FileProperties md5="3b7c1d9862c51f07d1c1900cf32d4aaf" Size="182" FileName="Material%#434_96.mst"/>
+     <FileProperties md5="711f231df97eff57d8fa1318ed877d4d" Size="182" FileName="Material%#436_94.mst"/>
+     <FileProperties md5="711f231df97eff57d8fa1318ed877d4d" Size="182" FileName="Material%#437_95.mst"/>
+     <FileProperties md5="711f231df97eff57d8fa1318ed877d4d" Size="182" FileName="Material%#438_93.mst"/>
+     <FileProperties md5="711f231df97eff57d8fa1318ed877d4d" Size="182" FileName="Material%#439_98.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#446_99.mst"/>
+     <FileProperties md5="711f231df97eff57d8fa1318ed877d4d" Size="182" FileName="Material%#447_69.mst"/>
+     <FileProperties md5="711f231df97eff57d8fa1318ed877d4d" Size="182" FileName="Material%#448_68.mst"/>
+     <FileProperties md5="711f231df97eff57d8fa1318ed877d4d" Size="182" FileName="Material%#449_66.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#450_88.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#451_71.mst"/>
+     <FileProperties md5="711f231df97eff57d8fa1318ed877d4d" Size="182" FileName="Material%#455_67.mst"/>
+     <FileProperties md5="711f231df97eff57d8fa1318ed877d4d" Size="182" FileName="Material%#456_89.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#458_70.mst"/>
+     <FileProperties md5="0cad740e3ff1b51f86e7e0b05b94e235" Size="182" FileName="Material%#459_90.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#460_19.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#461_20.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#462_9.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#463_8.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#464_17.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#465_18.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#466_26.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#467_27.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#468_28.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#469_29.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#470_35.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#471_36.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#472_37.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#473_38.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#474_43.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#475_44.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#476_53.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#477_52.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#478_54.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#479_55.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#480_39.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#481_47.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#482_46.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#483_48.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#484_57.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#485_58.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#486_59.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#487_60.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#488_49.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#489_41.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#490_50.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#491_40.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#492_51.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#493_42.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#494_33.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#495_31.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#496_32.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#497_30.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#498_21.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#499_22.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#500_24.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#501_25.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#502_10.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#503_11.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#504_13.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#505_14.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#506_15.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#507_16.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#508_5.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#509_45.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#510_56.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#511_6.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#512_7.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#513_61.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#514_3.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#515_23.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#516_34.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#517_4.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#518_62.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#519_0.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#520_1.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#521_2.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#522_63.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#523_12.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#526_117.mst"/>
+     <FileProperties md5="a15e82c82cebe5164641894ad2b36aa6" Size="183" FileName="Material%#527_164.mst"/>
+     <FileProperties md5="85c47691eef299aa5fd94be7c578ea90" Size="191" FileName="Material%#528_114.mst"/>
+     <FileProperties md5="73b2b8ad7da1f517fc92d8f3029a1c3b" Size="180" FileName="Material%#529_115.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#530_116.mst"/>
+     <FileProperties md5="73b2b8ad7da1f517fc92d8f3029a1c3b" Size="180" FileName="Material%#534_111.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#535_113.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#536_112.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#540_109.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#541_108.mst"/>
+     <FileProperties md5="cac4953c386b105861f1b9dfd0ee7245" Size="187" FileName="Material%#542_152.mst"/>
+     <FileProperties md5="cac4953c386b105861f1b9dfd0ee7245" Size="187" FileName="Material%#543_153.mst"/>
+     <FileProperties md5="cac4953c386b105861f1b9dfd0ee7245" Size="187" FileName="Material%#546_154.mst"/>
+     <FileProperties md5="cac4953c386b105861f1b9dfd0ee7245" Size="187" FileName="Material%#547_155.mst"/>
+     <FileProperties md5="cac4953c386b105861f1b9dfd0ee7245" Size="187" FileName="Material%#548_159.mst"/>
+     <FileProperties md5="cac4953c386b105861f1b9dfd0ee7245" Size="187" FileName="Material%#549_158.mst"/>
+     <FileProperties md5="cac4953c386b105861f1b9dfd0ee7245" Size="187" FileName="Material%#550_157.mst"/>
+     <FileProperties md5="cac4953c386b105861f1b9dfd0ee7245" Size="187" FileName="Material%#551_156.mst"/>
+     <FileProperties md5="73b2b8ad7da1f517fc92d8f3029a1c3b" Size="180" FileName="Material%#553_107.mst"/>
+     <FileProperties md5="73b2b8ad7da1f517fc92d8f3029a1c3b" Size="180" FileName="Material%#554_103.mst"/>
+     <FileProperties md5="73b2b8ad7da1f517fc92d8f3029a1c3b" Size="180" FileName="Material%#555_127.mst"/>
+     <FileProperties md5="73b2b8ad7da1f517fc92d8f3029a1c3b" Size="180" FileName="Material%#556_131.mst"/>
+     <FileProperties md5="73b2b8ad7da1f517fc92d8f3029a1c3b" Size="180" FileName="Material%#557_119.mst"/>
+     <FileProperties md5="73b2b8ad7da1f517fc92d8f3029a1c3b" Size="180" FileName="Material%#558_123.mst"/>
+     <FileProperties md5="73b2b8ad7da1f517fc92d8f3029a1c3b" Size="180" FileName="Material%#560_139.mst"/>
+     <FileProperties md5="73b2b8ad7da1f517fc92d8f3029a1c3b" Size="180" FileName="Material%#561_135.mst"/>
+     <FileProperties md5="73b2b8ad7da1f517fc92d8f3029a1c3b" Size="180" FileName="Material%#563_143.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#564_144.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#565_145.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#567_136.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#568_137.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#569_140.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#570_141.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#571_121.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#572_120.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#573_125.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#574_124.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#575_129.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#576_128.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#577_132.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#578_133.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#579_104.mst"/>
+     <FileProperties md5="64ab967c4f2f840331b11e40a995ac9a" Size="185" FileName="Material%#580_105.mst"/>
+     <FileProperties md5="a15e82c82cebe5164641894ad2b36aa6" Size="183" FileName="Material%#581_163.mst"/>
+     <FileProperties md5="a15e82c82cebe5164641894ad2b36aa6" Size="183" FileName="Material%#582_160.mst"/>
+     <FileProperties md5="a15e82c82cebe5164641894ad2b36aa6" Size="183" FileName="Material%#583_161.mst"/>
+     <FileProperties md5="a15e82c82cebe5164641894ad2b36aa6" Size="183" FileName="Material%#584_162.mst"/>
+     <FileProperties md5="85c47691eef299aa5fd94be7c578ea90" Size="191" FileName="Material%#585_106.mst"/>
+     <FileProperties md5="85c47691eef299aa5fd94be7c578ea90" Size="191" FileName="Material%#586_110.mst"/>
+     <FileProperties md5="85c47691eef299aa5fd94be7c578ea90" Size="191" FileName="Material%#587_102.mst"/>
+     <FileProperties md5="85c47691eef299aa5fd94be7c578ea90" Size="191" FileName="Material%#588_126.mst"/>
+     <FileProperties md5="85c47691eef299aa5fd94be7c578ea90" Size="191" FileName="Material%#589_122.mst"/>
+     <FileProperties md5="85c47691eef299aa5fd94be7c578ea90" Size="191" FileName="Material%#590_118.mst"/>
+     <FileProperties md5="85c47691eef299aa5fd94be7c578ea90" Size="191" FileName="Material%#591_134.mst"/>
+     <FileProperties md5="85c47691eef299aa5fd94be7c578ea90" Size="191" FileName="Material%#592_138.mst"/>
+     <FileProperties md5="85c47691eef299aa5fd94be7c578ea90" Size="191" FileName="Material%#593_142.mst"/>
+     <FileProperties md5="f222b82879857d5d0b5e4fa27106a088" Size="214" FileName="Material%#594_148.mst"/>
+     <FileProperties md5="85c47691eef299aa5fd94be7c578ea90" Size="191" FileName="Material%#595_130.mst"/>
+     <FileProperties md5="f553d0e0b3c0e10eb2f44dd51b203fa7" Size="166" FileName="Material%#596_167.mst"/>
+     <FileProperties md5="9eb23713a92b6caf233cc9e3b4537ed6" Size="191" FileName="Material%#597_168.mst"/>
+     <FileProperties md5="566038c4d3b6c3100e189686ae1dfb8c" Size="191" FileName="Material%#599_169.mst"/>
+     <FileProperties md5="f6db87c3e5f20957a08eeea5dbc52e45" Size="176" FileName="Material%#603_170.mst"/>
+     <FileProperties md5="31d1ff1a1e7927eb8fa4f72b7da634fb" Size="176" FileName="Material%#610_171.mst"/>
+     <FileProperties md5="781c48e6fd3b95b23d7e0a86187db5e8" Size="179" FileName="Material%#612_54.mst"/>
+     <FileProperties md5="0828d9b82c3246e6f745b952dee7b9d0" Size="204" FileName="MI_brick_tiles_Inst_146.mst"/>
+     <FileProperties md5="12eb3d9a8b0158a66b4ab2666d5e8f66" Size="131200" FileName="MI_brick_tiles_Inst_MI_brick_tiles_Inst_D.dds"/>
+     <FileProperties md5="1be960b70da63f318e0a9299395e013e" Size="208" FileName="MI_broken_bricks_Inst_165.mst"/>
+     <FileProperties md5="a77e56f7353903457daa24dd5c921a09" Size="131200" FileName="MI_broken_bricks_Inst_MI_broken_bricks_Inst_D.dds"/>
+     <FileProperties md5="8a29a9284a1ce80bf78c4de4a77a624f" Size="196" FileName="MI_cliff_b_Inst_85.mst"/>
+     <FileProperties md5="fe86e1064c0e0281ee77f2dcc736afc1" Size="131200" FileName="MI_cliff_b_Inst_MI_cliff_b_Inst_D.dds"/>
+     <FileProperties md5="0e7999c590973c5195c4cd9a2b121ca0" Size="194" FileName="MI_column_Inst_151.mst"/>
+     <FileProperties md5="0c0b0db1fef40a68fd9300368ba13ed2" Size="131200" FileName="MI_column_Inst_MI_column_Inst_D.dds"/>
+     <FileProperties md5="0e8a8d4b2ad0247fc9c24278d269154b" Size="206" FileName="MI_corner_block_Inst_150.mst"/>
+     <FileProperties md5="83978373ba0ffb871a137f10274c4c7c" Size="131200" FileName="MI_corner_block_Inst_MI_corner_block_Inst_D.dds"/>
+     <FileProperties md5="797e7f1a96eed528d3760bc4d64a8cc7" Size="202" FileName="MI_fireball_B_Inst_166.mst"/>
+     <FileProperties md5="4edb9931ca677fb27c9bbb5a2c2c5f21" Size="136" FileName="MI_fireball_B_Inst_MI_fireball_B_Inst_D.dds"/>
+     <FileProperties md5="74856ffb3e8713401aa86c233835795b" Size="196" FileName="MI_ruins_a_Inst_149.mst"/>
+     <FileProperties md5="ea8c56cf54a787ca65c55d93dd8e19c7" Size="131200" FileName="MI_ruins_a_Inst_MI_ruins_a_Inst_D.dds"/>
+     <FileProperties md5="c9a7abb0f30f0f03bbe3df0407146497" Size="131200" FileName="MI_sacrifices_plate_Inst_MI_sacrifices_plate_Inst_D.dds"/>
+     <FileProperties md5="97481a594f2c06e19fdaff05c6936bd7" Size="194" FileName="MI_stairs_Inst_101.mst"/>
+     <FileProperties md5="f0f13614105f3a6e4b0e84e74ef8e090" Size="131200" FileName="MI_stairs_Inst_MI_stairs_Inst_D.dds"/>
+     <FileProperties md5="c3a825d40de82e560dd71fbc94d8f0f6" Size="208" FileName="MI_tile_ornament_Inst_147.mst"/>
+     <FileProperties md5="fa832d6519f3a1f0c1fb0f0d1059d327" Size="131200" FileName="MI_tile_ornament_Inst_MI_tile_ornament_Inst_D.dds"/>
+     <FileProperties md5="4278b1484e33f29824bd30177012404f" Size="524416" FileName="present_model.dds"/>
+     <FileProperties md5="e5ac4bc84c60070e85099fdcb311339e" Size="131200" FileName="tuskhouse01_0.dds"/>
+     <FileProperties md5="f12c226040cde4986810d27587eb8a8f" Size="131200" FileName="T_chains_fence_BaseColor.dds"/>
+     <FileProperties md5="c86d9c4475e4ca68ca32cc9abf7c9cfe" Size="524416" FileName="T_cliff_a_BaseColor.dds"/>
+     <FileProperties md5="1cf6091b67590f59a409eb2aa2d6edeb" Size="131200" FileName="T_cliff_c_BaseColor.dds"/>
+     <FileProperties md5="f91a27a8b2c5ff99ae51e073e36d9593" Size="524416" FileName="T_cliff_d_BaseColor.dds"/>
+     <FileProperties md5="aa04b65797cbd1f249be0e174382b3c3" Size="131200" FileName="T_fence_BaseColor.dds"/>
+     <FileProperties md5="91ff578f2d5659c63da6e0097c6cb0f6" Size="131200" FileName="T_fence_ruin_BaseColor.dds"/>
+     <FileProperties md5="4980e408f75670308cb468259caf450c" Size="131200" FileName="T_lamppost_BaseColor.dds"/>
+     <FileProperties md5="c381e8b4fa4837200646b176501a93ed" Size="524416" FileName="T_PolygonFantasyKingdom_01_A.dds"/>
+     <FileProperties md5="1d0e0bc0e30e31babffe0952e19c7c5a" Size="131200" FileName="T_snow_basecolor.dds"/>
+     <FileProperties md5="af10570eae6b85d6b4acdca744070b2e" Size="131200" FileName="T_stone_foundation_BaseColor.dds"/>
+     <FileProperties md5="8a29a9284a1ce80bf78c4de4a77a624f" Size="196" FileName="_snowy_landscape_demo_Game_snowy_landscape_materials_cliff_materials_MI_cliff_b_Inst_MI_cliff_b_Inst_85.mst"/>
+     <FileProperties md5="797e7f1a96eed528d3760bc4d64a8cc7" Size="202" FileName="_snowy_landscape_demo_Game_snowy_landscape_materials_fireball_materials_MI_fireball_B_Inst_MI_fireball_B_Inst_166.mst"/>
+     <FileProperties md5="0828d9b82c3246e6f745b952dee7b9d0" Size="204" FileName="_snowy_landscape_demo_Game_snowy_landscape_materials_ruins_materials_MI_brick_tiles_Inst_MI_brick_tiles_Inst_146.mst"/>
+     <FileProperties md5="1be960b70da63f318e0a9299395e013e" Size="208" FileName="_snowy_landscape_demo_Game_snowy_landscape_materials_ruins_materials_MI_broken_bricks_Inst_MI_broken_bricks_Inst_165.mst"/>
+     <FileProperties md5="0e7999c590973c5195c4cd9a2b121ca0" Size="194" FileName="_snowy_landscape_demo_Game_snowy_landscape_materials_ruins_materials_MI_column_Inst_MI_column_Inst_151.mst"/>
+     <FileProperties md5="0e8a8d4b2ad0247fc9c24278d269154b" Size="206" FileName="_snowy_landscape_demo_Game_snowy_landscape_materials_ruins_materials_MI_corner_block_Inst_MI_corner_block_Inst_150.mst"/>
+     <FileProperties md5="74856ffb3e8713401aa86c233835795b" Size="196" FileName="_snowy_landscape_demo_Game_snowy_landscape_materials_ruins_materials_MI_ruins_a_Inst_MI_ruins_a_Inst_149.mst"/>
+     <FileProperties md5="97481a594f2c06e19fdaff05c6936bd7" Size="194" FileName="_snowy_landscape_demo_Game_snowy_landscape_materials_ruins_materials_MI_stairs_Inst_MI_stairs_Inst_101.mst"/>
+     <FileProperties md5="c3a825d40de82e560dd71fbc94d8f0f6" Size="208" FileName="_snowy_landscape_demo_Game_snowy_landscape_materials_ruins_materials_MI_tile_ornament_Inst_MI_tile_ornament_Inst_147.mst"/>
+    </Files>
+   </FolderProperties>
+  </FolderProperties>
+ </FolderProperties>
+ <FolderProperties FolderName="System">
+  <Folders/>
+  <Files>
+   <FileProperties md5="ce3b47f232d93d94189b50516fa52a77" Size="66991052" FileName="gui.dll"/>
+   <FileProperties md5="e6b15e5062d0591729e3765d335b1039" Size="5440044" FileName="titlelogo.tga"/>
+  </Files>
+ </FolderProperties>
+</FolderProperties>
