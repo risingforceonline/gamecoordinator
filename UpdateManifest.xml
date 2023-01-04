@@ -3,7 +3,7 @@
  <Folders/>
  <Files>
   <FileProperties FileName="CrashRpt.dll" md5="fd0b78eeba106fad6816b8d1d5b760ee" Size="6884864"/>
-  <FileProperties FileName="d3dx11d.dll" md5="f93180d23b67940d0e90fb10b75e76bc" Size="4809216"/>
+  <FileProperties FileName="d3dx11d.dll" md5="6b61b1d4d077be0bae27ab813be7676e" Size="4742656"/>
   <FileProperties FileName="d3dx9_32.dll" md5="26af232140c88b42d92a88f2198edf6a" Size="3426072"/>
   <FileProperties FileName="d3dx9_34.dll" md5="1ca939918ed1b930059b3a882de6f648" Size="3497832"/>
   <FileProperties FileName="d3dx9_36.dll" md5="44bfec5c9c82a2ee9871d88fd3b9a0e2" Size="3734536"/>
@@ -11,7 +11,7 @@
   <FileProperties FileName="msvcr100.dll" md5="0e8888aadab9669d06f55767f2ccaf7b" Size="758592"/>
   <FileProperties FileName="PurifierB.dll" md5="a8bb1d83bf5accd6928e9380c1050176" Size="2719744"/>
   <FileProperties FileName="RF.exe" md5="caa265f1e3e0d0baf59142b2ee845111" Size="8957952"/>
-  <FileProperties FileName="RF_Online.bin" md5="81fabc2acd3984cfc26b9da021ad2c3e" Size="8738816"/>
+  <FileProperties FileName="RF_Online.bin" md5="bfbdb9e05d9dfbd5cc96a5aaa78a8772" Size="8738816"/>
  </Files>
  <FolderProperties FolderName="DataTable">
   <Folders/>
