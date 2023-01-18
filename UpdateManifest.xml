@@ -23,7 +23,7 @@
    <FileProperties md5="488ead8fe8d542405a5490674414132a" Size="39061" FileName="DefendRankUpEff.edf"/>
    <FileProperties md5="8350939231099d2f21277cb3f96d81cd" Size="41609" FileName="EventShip.edf"/>
    <FileProperties md5="5b262c6438064fe52269f3b8f9ccf5d9" Size="361" FileName="EventSound.edf"/>
-   <FileProperties md5="16525212340cdb5e02862f571ba2a77f" Size="16503997" FileName="item.edf"/>
+   <FileProperties md5="8ddbad4c9363c39d250f37c713b3b8f9" Size="16503997" FileName="item.edf"/>
    <FileProperties md5="3f67527dbf5248449755ccc6a661043e" Size="297" FileName="ItemCash.edf"/>
    <FileProperties md5="893f79c54f5c7813ef9ce719352c6fd6" Size="11973065" FileName="ItemCombine.edf"/>
    <FileProperties md5="a7815e25f041f94336aa6cea79f26a04" Size="493" FileName="ItemCostumeLink.edf"/>
@@ -34,7 +34,7 @@
    <FileProperties md5="e365916fd3a0c147f932fe7c7db08a6a" Size="39501" FileName="MinerGradeUpEff.edf"/>
    <FileProperties md5="f7e656094f0250794a1bd05926c81e71" Size="8181" FileName="MsgEvent.edf"/>
    <FileProperties md5="d6d5fb083a3cc186fcaec7a45fa012b8" Size="657" FileName="PlayerCharacter.edf"/>
-   <FileProperties md5="26fcfe33a3cfb15ec1f76ad82ac24dfe" Size="1452829" FileName="Quest.edf"/>
+   <FileProperties md5="011e98c153bde323e3a4fab13b784f34" Size="1452829" FileName="Quest.edf"/>
    <FileProperties md5="41a8e6a245c833a14759cd9f2a0ed6ef" Size="7972337" FileName="Resource.edf"/>
    <FileProperties md5="d605188379fb0e0dd154ae5ed898730f" Size="1522361" FileName="SkillForce.edf"/>
    <FileProperties md5="ff692df706e3534f0df6e68da165ba7d" Size="469473" FileName="SpecialStore.edf"/>
