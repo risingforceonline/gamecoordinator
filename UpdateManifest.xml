@@ -115,6 +115,12 @@
    </Files>
   </FolderProperties>
  </FolderProperties>
+ <FolderProperties FolderName="Effect">
+  <Folders/>
+  <Files>
+   <FileProperties md5="09898e7104e5482d34bed45c130c4d10" FileName="MagicSptList.spt" Size="650500"/>
+  </Files>
+ </FolderProperties>
  <FolderProperties FolderName="GameData">
   <Folders/>
   <Files>
