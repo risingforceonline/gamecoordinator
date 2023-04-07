@@ -3,7 +3,7 @@
  <Folders/>
  <Files>
   <FileProperties md5="fd0b78eeba106fad6816b8d1d5b760ee" FileName="CrashRpt.dll" Size="6884864"/>
-  <FileProperties md5="b15695c5bdddd35897aeec5e35c9bfe9" FileName="d3dx11d.dll" Size="4788736"/>
+  <FileProperties md5="343a4f4690913315f5ce11628ab3c60c" FileName="d3dx11d.dll" Size="4803584"/>
   <FileProperties md5="26af232140c88b42d92a88f2198edf6a" FileName="d3dx9_32.dll" Size="3426072"/>
   <FileProperties md5="1ca939918ed1b930059b3a882de6f648" FileName="d3dx9_34.dll" Size="3497832"/>
   <FileProperties md5="44bfec5c9c82a2ee9871d88fd3b9a0e2" FileName="d3dx9_36.dll" Size="3734536"/>
@@ -40,30 +40,30 @@
   <Folders/>
   <Files>
    <FileProperties md5="f44ce15564dd03279f1c7cc7f1ebd60f" FileName="AccessoryGradeUpEff.edf" Size="255913"/>
-   <FileProperties md5="d5c704d2a489744946d3ab75b26a15d5" FileName="Character.edf" Size="739037"/>
+   <FileProperties md5="4b01a45699919c85140a0b056b223141" FileName="Character.edf" Size="739037"/>
    <FileProperties md5="7c415f22ac08a69aeff57bf77ef1df9d" FileName="CloakGradeUpEff.edf" Size="255913"/>
-   <FileProperties md5="b2ff41b4bdd3cbda635565ebbe1a1fcd" FileName="DefendGradeUpEff.edf" Size="255913"/>
+   <FileProperties md5="134f3792e80a807d666a87b4a5bea519" FileName="DefendGradeUpEff.edf" Size="255913"/>
    <FileProperties md5="b639eb705020693a245d79b9d2f73d47" FileName="DefendRankUpEff.edf" Size="39061"/>
    <FileProperties md5="8350939231099d2f21277cb3f96d81cd" FileName="EventShip.edf" Size="41609"/>
    <FileProperties md5="5b262c6438064fe52269f3b8f9ccf5d9" FileName="EventSound.edf" Size="361"/>
-   <FileProperties md5="427c9bf9d6c3ae154a616b58329cb08d" FileName="ForceItemLink.edf" Size="6221"/>
-   <FileProperties md5="9815fdcc24fe83b7069b47d8fae7e441" FileName="item.edf" Size="4237881"/>
+   <FileProperties md5="cfa90add61d7d718240d2c94188258cd" FileName="ForceItemLink.edf" Size="6221"/>
+   <FileProperties md5="0e2d874a6ef076916de946b08567dac8" FileName="item.edf" Size="4237881"/>
    <FileProperties md5="3f67527dbf5248449755ccc6a661043e" FileName="ItemCash.edf" Size="297"/>
-   <FileProperties md5="7dac8de797d02c49074c0f33fb1b5822" FileName="ItemCombine.edf" Size="3370193"/>
+   <FileProperties md5="bdb51f8f977dfa817ae9bb8c23b67d83" FileName="ItemCombine.edf" Size="3370193"/>
    <FileProperties md5="a7815e25f041f94336aa6cea79f26a04" FileName="ItemCostumeLink.edf" Size="493"/>
-   <FileProperties md5="06ef1fc30cacee79be63833bb4c52ef6" FileName="ItemPremium.edf" Size="384385"/>
-   <FileProperties md5="9b47c88b45ff51ee5a3ddd3702343749" FileName="ItemSetEffect.edf" Size="460377"/>
-   <FileProperties md5="5acf49c821a4c3d0474b9870484acc15" FileName="ItemTimer.edf" Size="44409"/>
+   <FileProperties md5="5bc931621117cc40aed703d3f1505bbc" FileName="ItemPremium.edf" Size="384385"/>
+   <FileProperties md5="8d70611f143f283ed2721e60f94b2c26" FileName="ItemSetEffect.edf" Size="460377"/>
+   <FileProperties md5="d6326c4f34df798f30d0d81e53b471d1" FileName="ItemTimer.edf" Size="44433"/>
    <FileProperties md5="def8698082ad730867daca9219d0c23f" FileName="Map.edf" Size="270868"/>
-   <FileProperties md5="15a7a2b18e035f08533300fcce26db5a" FileName="MinerGradeUpEff.edf" Size="39501"/>
+   <FileProperties md5="6b71b76e8269dad8bb6fd7240de077bf" FileName="MinerGradeUpEff.edf" Size="39501"/>
    <FileProperties md5="f7e656094f0250794a1bd05926c81e71" FileName="MsgEvent.edf" Size="8181"/>
    <FileProperties md5="d6d5fb083a3cc186fcaec7a45fa012b8" FileName="PlayerCharacter.edf" Size="657"/>
-   <FileProperties md5="1054116edb69f3f560d31a212aed7210" FileName="Quest.edf" Size="1442653"/>
-   <FileProperties md5="d36e9117a0d53397328a3ef580ca9302" FileName="Resource.edf" Size="7986169"/>
+   <FileProperties md5="af95332ffe807f563ffe72ba9765c565" FileName="Quest.edf" Size="1442653"/>
+   <FileProperties md5="6dcc8784aebe23ee067e10e75d0eb550" FileName="Resource.edf" Size="7986169"/>
    <FileProperties md5="9ebedbfe3034b80737538c4030170b50" FileName="ShieldGradeUpEff.edf" Size="255913"/>
-   <FileProperties md5="187078bef8c41146e2cc0a1d1656ac39" FileName="SkillForce.edf" Size="1811229"/>
+   <FileProperties md5="d0539167040c34f1c0e42ef3265cd435" FileName="SkillForce.edf" Size="1811229"/>
    <FileProperties md5="ff692df706e3534f0df6e68da165ba7d" FileName="SpecialStore.edf" Size="469473"/>
-   <FileProperties md5="a5f19aac321c46cd86399f2ea2ea0ab7" FileName="Store.edf" Size="633105"/>
+   <FileProperties md5="d594f797eca4b9f0ebf5354e38d29407" FileName="Store.edf" Size="633105"/>
    <FileProperties md5="a3f16e21157c7e26ca61ae4ff48e3045" FileName="TrunkExted.edf" Size="737"/>
    <FileProperties md5="94f777e41a6d47bfd3f01f84b7514a34" FileName="WeaponGradeUpEff.edf" Size="255913"/>
    <FileProperties md5="2677d362fcf4b174438f5af36254f414" FileName="WeaponRankUpEff.edf" Size="39061"/>
@@ -75,13 +75,13 @@
     <FileProperties md5="5e3ca7ce880d8ceefad9c5d38ba402e2" FileName="KeyMap_NKM.dat" Size="1890"/>
     <FileProperties md5="4518517576d7c11919f5ae790e10df82" FileName="NDCharacter.edf" Size="232833"/>
     <FileProperties md5="e29cbb1f949a891e716fc33544701f50" FileName="NDEventShip.edf" Size="12486"/>
-    <FileProperties md5="0eb20422fb4fa93b178d672ea8a6e657" FileName="nditem.edf" Size="5349900"/>
+    <FileProperties md5="c5e1643da97104eae5ff79b632120f89" FileName="nditem.edf" Size="5349900"/>
     <FileProperties md5="6d8debc4e2cdf25bf514671c2c176d8f" FileName="NDItemCash.edf" Size="297"/>
-    <FileProperties md5="d7bfab07622f55f43dba29a01a83b5c8" FileName="NDLanguage.edf" Size="257046"/>
+    <FileProperties md5="7598e381f067255d80aec9d3d870540d" FileName="NDLanguage.edf" Size="257046"/>
     <FileProperties md5="85be99f3a79f72df587a2789bc2b3380" FileName="NDMap.edf" Size="43962"/>
     <FileProperties md5="bd40ba7d22e91a7d2472f096547fde65" FileName="NDMsgEvent.edf" Size="7977"/>
     <FileProperties md5="6fc861e0988093195416fb01a994f604" FileName="NDMsgMonster.edf" Size="73030"/>
-    <FileProperties md5="9a5d5a4700c97df954b3c5bb5d1250a7" FileName="NDQuest.edf" Size="763517"/>
+    <FileProperties md5="e73d1fa7d59cf082932f81406c9563c9" FileName="NDQuest.edf" Size="763517"/>
     <FileProperties md5="2f0d79049d32ff55f28c7a137c838fdc" FileName="NDSkillForce.edf" Size="1219977"/>
     <FileProperties md5="9e50c1660156c3310112189a1fae9fc8" FileName="NDStore.edf" Size="74625"/>
     <FileProperties md5="2a5a63e8c6c60af3d4dfd52fbdd203c5" FileName="NDUIHelp.edf" Size="996137"/>
@@ -120,14 +120,14 @@
     <FileProperties md5="0b560b3d9f6fada0a2951c55405fdaa4" FileName="KeyMap.dat" Size="1963"/>
     <FileProperties md5="5e3ca7ce880d8ceefad9c5d38ba402e2" FileName="KeyMap_NKM.dat" Size="1890"/>
     <FileProperties md5="ad9600617151b3f12268da6d6843a97c" FileName="MAPDATA.DAT" Size="251443"/>
-    <FileProperties md5="816f7c905bad5c19067759964d95242d" FileName="ndcharacter.edf" Size="232833"/>
-    <FileProperties md5="77ba5f9f10e0d68bf5a18ce7f7762497" FileName="nditem.edf" Size="7151049"/>
+    <FileProperties md5="cde9c3da1b90413b4bfecd035abd9ad4" FileName="ndcharacter.edf" Size="232833"/>
+    <FileProperties md5="16b1ae0384bec6b093b56daa5e692d37" FileName="nditem.edf" Size="7151049"/>
     <FileProperties md5="5a320dafabddf840bb085d2639f07331" FileName="nditemcash.edf" Size="297"/>
-    <FileProperties md5="44c4552d94464f65c2da061af5b4eac0" FileName="ndlanguage.edf" Size="267584"/>
+    <FileProperties md5="2b022c4ad5b3f5245c308a0105e0b4ce" FileName="ndlanguage.edf" Size="267584"/>
     <FileProperties md5="78187979be18d4bfb46a15a9b9572abc" FileName="ndmap.edf" Size="44325"/>
     <FileProperties md5="ca8689cd176ca7e19013f06981c0ade0" FileName="ndquest.edf" Size="819413"/>
     <FileProperties md5="31e2866b603962ececc0fafb50dca4dc" FileName="NDSkillForce.edf" Size="1219977"/>
-    <FileProperties md5="bc039ad8c63863cf8675112e3bb4572c" FileName="ndstore.edf" Size="78942"/>
+    <FileProperties md5="1336a654273b1eab9fe041c69a539be5" FileName="ndstore.edf" Size="78942"/>
     <FileProperties md5="2f0b90484ab885b3972de82e11d05edf" FileName="RF_WebURL.dat" Size="1796"/>
     <FileProperties md5="d8164d1bc326de54a8934de05b762380" FileName="Tutorial.scp" Size="4742"/>
     <FileProperties md5="76e2f086e2c3fa2bed47065bce90dc91" FileName="WorldMapData.dat" Size="8193"/>
