@@ -3,7 +3,7 @@
  <Folders/>
  <Files>
   <FileProperties FileName="CrashRpt.dll" md5="fd0b78eeba106fad6816b8d1d5b760ee" Size="6884864"/>
-  <FileProperties FileName="d3dx11d.dll" md5="d2c6a6e52205a7d698c17e15721a8d49" Size="4783616"/>
+  <FileProperties FileName="d3dx11d.dll" md5="344e6eb7110b657a9e8ad76c5ba1c8f1" Size="4762624"/>
   <FileProperties FileName="d3dx9_32.dll" md5="26af232140c88b42d92a88f2198edf6a" Size="3426072"/>
   <FileProperties FileName="d3dx9_34.dll" md5="1ca939918ed1b930059b3a882de6f648" Size="3497832"/>
   <FileProperties FileName="d3dx9_36.dll" md5="44bfec5c9c82a2ee9871d88fd3b9a0e2" Size="3734536"/>
@@ -128,7 +128,7 @@
     <FileProperties FileName="ndmap.edf" md5="78187979be18d4bfb46a15a9b9572abc" Size="44325"/>
     <FileProperties FileName="ndquest.edf" md5="4472652749b930db31331a38f6fdb675" Size="819659"/>
     <FileProperties FileName="NDSkillForce.edf" md5="f6806dd3341a891f7477a1cb75a0d3fc" Size="1219977"/>
-    <FileProperties FileName="ndstore.edf" md5="2a64c5afd03801d439417ad921f53978" Size="116843"/>
+    <FileProperties FileName="ndstore.edf" md5="e06ef4eeab8218dd97e55486e8ef7044" Size="84740"/>
     <FileProperties FileName="RF_WebURL.dat" md5="2f0b90484ab885b3972de82e11d05edf" Size="1796"/>
     <FileProperties FileName="Tutorial.scp" md5="d8164d1bc326de54a8934de05b762380" Size="4742"/>
     <FileProperties FileName="WorldMapData.dat" md5="76e2f086e2c3fa2bed47065bce90dc91" Size="8193"/>
