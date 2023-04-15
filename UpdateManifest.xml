@@ -3,7 +3,7 @@
  <Folders/>
  <Files>
   <FileProperties FileName="CrashRpt.dll" md5="fd0b78eeba106fad6816b8d1d5b760ee" Size="6884864"/>
-  <FileProperties FileName="d3dx11d.dll" md5="344e6eb7110b657a9e8ad76c5ba1c8f1" Size="4762624"/>
+  <FileProperties FileName="d3dx11d.dll" md5="f534c27b820e6f96c01ac099e6aed258" Size="4835328"/>
   <FileProperties FileName="d3dx9_32.dll" md5="26af232140c88b42d92a88f2198edf6a" Size="3426072"/>
   <FileProperties FileName="d3dx9_34.dll" md5="1ca939918ed1b930059b3a882de6f648" Size="3497832"/>
   <FileProperties FileName="d3dx9_36.dll" md5="44bfec5c9c82a2ee9871d88fd3b9a0e2" Size="3734536"/>
@@ -41,30 +41,30 @@
   <Folders/>
   <Files>
    <FileProperties FileName="AccessoryGradeUpEff.edf" md5="f44ce15564dd03279f1c7cc7f1ebd60f" Size="255913"/>
-   <FileProperties FileName="Character.edf" md5="608a1b27121bc3223b20adb851f908bc" Size="739037"/>
+   <FileProperties FileName="Character.edf" md5="1b872ce7dae60e6491979df792253d6c" Size="739037"/>
    <FileProperties FileName="CloakGradeUpEff.edf" md5="7c415f22ac08a69aeff57bf77ef1df9d" Size="255913"/>
    <FileProperties FileName="DefendGradeUpEff.edf" md5="134f3792e80a807d666a87b4a5bea519" Size="255913"/>
    <FileProperties FileName="DefendRankUpEff.edf" md5="b639eb705020693a245d79b9d2f73d47" Size="39061"/>
    <FileProperties FileName="EventShip.edf" md5="8350939231099d2f21277cb3f96d81cd" Size="41609"/>
    <FileProperties FileName="EventSound.edf" md5="5b262c6438064fe52269f3b8f9ccf5d9" Size="361"/>
    <FileProperties FileName="ForceItemLink.edf" md5="cfa90add61d7d718240d2c94188258cd" Size="6221"/>
-   <FileProperties FileName="item.edf" md5="8823285c2d3e03da38e9b803e4ccf40c" Size="4245265"/>
+   <FileProperties FileName="item.edf" md5="90240ac92da768ec31925cc63bb5b2c5" Size="4384653"/>
    <FileProperties FileName="ItemCash.edf" md5="3f67527dbf5248449755ccc6a661043e" Size="297"/>
-   <FileProperties FileName="ItemCombine.edf" md5="fb4cc3978528b7311b8a47940d957df4" Size="3370193"/>
+   <FileProperties FileName="ItemCombine.edf" md5="97b79c570ed10ba43fffddd79ccb271d" Size="3370193"/>
    <FileProperties FileName="ItemCostumeLink.edf" md5="a7815e25f041f94336aa6cea79f26a04" Size="493"/>
-   <FileProperties FileName="ItemPremium.edf" md5="12adb3950a925f44fbda646c8d2b4693" Size="384385"/>
-   <FileProperties FileName="ItemSetEffect.edf" md5="fa00e9d6fa76d026b7746f1602238afd" Size="460377"/>
-   <FileProperties FileName="ItemTimer.edf" md5="c0bd8b2a2057dd86db766854da60da62" Size="44433"/>
+   <FileProperties FileName="ItemPremium.edf" md5="33bdbe63b6e4e2a781830f9a38d3f6e7" Size="384385"/>
+   <FileProperties FileName="ItemSetEffect.edf" md5="0d555c13d1805da9b5d4b6a424d7ddc8" Size="289953"/>
+   <FileProperties FileName="ItemTimer.edf" md5="df8af1bbac45110cfe6699a947e7c122" Size="45177"/>
    <FileProperties FileName="Map.edf" md5="def8698082ad730867daca9219d0c23f" Size="270868"/>
    <FileProperties FileName="MinerGradeUpEff.edf" md5="6b71b76e8269dad8bb6fd7240de077bf" Size="39501"/>
    <FileProperties FileName="MsgEvent.edf" md5="f7e656094f0250794a1bd05926c81e71" Size="8181"/>
    <FileProperties FileName="PlayerCharacter.edf" md5="d6d5fb083a3cc186fcaec7a45fa012b8" Size="657"/>
-   <FileProperties FileName="Quest.edf" md5="49940c6b9dbc2d5da8441d6bed165620" Size="1444597"/>
-   <FileProperties FileName="Resource.edf" md5="ed41a18435e6a645b85c9158356c4cf3" Size="7986169"/>
+   <FileProperties FileName="Quest.edf" md5="a491f9093b0263bc4ac3066b8c0a09a2" Size="1444597"/>
+   <FileProperties FileName="Resource.edf" md5="16f4cd36fe97d7852cfd349431916e51" Size="7986169"/>
    <FileProperties FileName="ShieldGradeUpEff.edf" md5="9ebedbfe3034b80737538c4030170b50" Size="255913"/>
-   <FileProperties FileName="SkillForce.edf" md5="7f5f00ad11c8ffb99b7984c383c7e1d9" Size="1811229"/>
+   <FileProperties FileName="SkillForce.edf" md5="851f7c69e84df9c5bc9dc0fd93239a1e" Size="1811229"/>
    <FileProperties FileName="SpecialStore.edf" md5="ff692df706e3534f0df6e68da165ba7d" Size="469473"/>
-   <FileProperties FileName="Store.edf" md5="1031f8abbd4c240075fba34559379fcd" Size="691449"/>
+   <FileProperties FileName="Store.edf" md5="4259187542926d6903215ca43fd44c6f" Size="691449"/>
    <FileProperties FileName="TrunkExted.edf" md5="a3f16e21157c7e26ca61ae4ff48e3045" Size="737"/>
    <FileProperties FileName="WeaponGradeUpEff.edf" md5="94f777e41a6d47bfd3f01f84b7514a34" Size="255913"/>
    <FileProperties FileName="WeaponRankUpEff.edf" md5="2677d362fcf4b174438f5af36254f414" Size="39061"/>
@@ -74,17 +74,17 @@
    <Files>
     <FileProperties FileName="KeyMap.dat" md5="0b560b3d9f6fada0a2951c55405fdaa4" Size="1963"/>
     <FileProperties FileName="KeyMap_NKM.dat" md5="5e3ca7ce880d8ceefad9c5d38ba402e2" Size="1890"/>
-    <FileProperties FileName="NDCharacter.edf" md5="5c85cff90c90a34405f89363235e1c53" Size="232833"/>
+    <FileProperties FileName="NDCharacter.edf" md5="36021f5aab4a68644b28ae8880aa6b93" Size="232833"/>
     <FileProperties FileName="NDEventShip.edf" md5="e29cbb1f949a891e716fc33544701f50" Size="12486"/>
-    <FileProperties FileName="nditem.edf" md5="640249ab027d3bf76749fb081ed99f37" Size="5349900"/>
+    <FileProperties FileName="nditem.edf" md5="7137494f262d1efb4d44a817e706aa96" Size="5567792"/>
     <FileProperties FileName="NDItemCash.edf" md5="78aebd3c758e0e521044bc3082b0256c" Size="297"/>
-    <FileProperties FileName="NDLanguage.edf" md5="cad8f1e89cb5d198762e7500feea4785" Size="257046"/>
+    <FileProperties FileName="NDLanguage.edf" md5="4362a3394ec8d645589c235010fa2c0e" Size="257310"/>
     <FileProperties FileName="NDMap.edf" md5="85be99f3a79f72df587a2789bc2b3380" Size="43962"/>
     <FileProperties FileName="NDMsgEvent.edf" md5="bd40ba7d22e91a7d2472f096547fde65" Size="7977"/>
     <FileProperties FileName="NDMsgMonster.edf" md5="6fc861e0988093195416fb01a994f604" Size="73030"/>
-    <FileProperties FileName="NDQuest.edf" md5="157dd328549358f1f139d98d1cb9344d" Size="763763"/>
-    <FileProperties FileName="NDSkillForce.edf" md5="e4b9b23e06f3ee832314f0bb20f884a9" Size="1219977"/>
-    <FileProperties FileName="NDStore.edf" md5="72a51bfb9d99d4b7c7c6d1af4213305b" Size="80423"/>
+    <FileProperties FileName="NDQuest.edf" md5="bd77e73ba1f310e8eaf54e95a5fc5c53" Size="763763"/>
+    <FileProperties FileName="NDSkillForce.edf" md5="53714060f1841136eede204b0401338d" Size="1219977"/>
+    <FileProperties FileName="NDStore.edf" md5="62e97f448e7c4f243147230d904beed7" Size="80423"/>
     <FileProperties FileName="NDUIHelp.edf" md5="2a5a63e8c6c60af3d4dfd52fbdd203c5" Size="996137"/>
    </Files>
   </FolderProperties>
@@ -121,14 +121,14 @@
     <FileProperties FileName="KeyMap.dat" md5="0b560b3d9f6fada0a2951c55405fdaa4" Size="1963"/>
     <FileProperties FileName="KeyMap_NKM.dat" md5="5e3ca7ce880d8ceefad9c5d38ba402e2" Size="1890"/>
     <FileProperties FileName="MAPDATA.DAT" md5="ad9600617151b3f12268da6d6843a97c" Size="251443"/>
-    <FileProperties FileName="ndcharacter.edf" md5="591a8c986ef702bc1b9b4dad0b66c418" Size="232833"/>
-    <FileProperties FileName="nditem.edf" md5="3852c598f12de7497ca766cc23589488" Size="7151049"/>
+    <FileProperties FileName="ndcharacter.edf" md5="e52d105b05c46d438d5ad0fe731c7af2" Size="232833"/>
+    <FileProperties FileName="nditem.edf" md5="66a63028b772f24e67de8f12cf67cdbb" Size="7371160"/>
     <FileProperties FileName="nditemcash.edf" md5="5a320dafabddf840bb085d2639f07331" Size="297"/>
-    <FileProperties FileName="ndlanguage.edf" md5="73fffbee5caa129a534d77b8dac913de" Size="267584"/>
+    <FileProperties FileName="ndlanguage.edf" md5="3611f12b371ff1e8f258b353f9305c59" Size="267871"/>
     <FileProperties FileName="ndmap.edf" md5="78187979be18d4bfb46a15a9b9572abc" Size="44325"/>
-    <FileProperties FileName="ndquest.edf" md5="4472652749b930db31331a38f6fdb675" Size="819659"/>
-    <FileProperties FileName="NDSkillForce.edf" md5="f6806dd3341a891f7477a1cb75a0d3fc" Size="1219977"/>
-    <FileProperties FileName="ndstore.edf" md5="e06ef4eeab8218dd97e55486e8ef7044" Size="84740"/>
+    <FileProperties FileName="ndquest.edf" md5="cdafc7ad56032a23b6823cef58ddd6d5" Size="819659"/>
+    <FileProperties FileName="NDSkillForce.edf" md5="4ec2fbaaf045d7fb5e30bf49b5b523ba" Size="1219977"/>
+    <FileProperties FileName="ndstore.edf" md5="2d35186fddb5b1d1ecd219b42f190af9" Size="84740"/>
     <FileProperties FileName="RF_WebURL.dat" md5="2f0b90484ab885b3972de82e11d05edf" Size="1796"/>
     <FileProperties FileName="Tutorial.scp" md5="d8164d1bc326de54a8934de05b762380" Size="4742"/>
     <FileProperties FileName="WorldMapData.dat" md5="76e2f086e2c3fa2bed47065bce90dc91" Size="8193"/>
@@ -164,9 +164,131 @@
   <FolderProperties FolderName="Weapon">
    <Folders/>
    <Files/>
+   <FolderProperties FolderName="Bone">
+    <Folders/>
+    <Files/>
+    <FolderProperties FolderName="cat">
+     <Folders/>
+     <Files>
+      <FileProperties FileName="ACCRETIA_WEAPON_GRELAUNCHER_045.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="ACCRETIA_WEAPON_GRELAUNCHER_061.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="ACCRETIA_WEAPON_GRELAUNCHER_077.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="ACCRETIA_WEAPON_TFLAMETHROWER_045.bn" md5="9f60a0fe81c7df36a5e6f0b0799c1f05" Size="70448"/>
+      <FileProperties FileName="ACCRETIA_WEAPON_TFLAMETHROWER_061.bn" md5="9f60a0fe81c7df36a5e6f0b0799c1f05" Size="70448"/>
+      <FileProperties FileName="ACCRETIA_WEAPON_TFLAMETHROWER_077.bn" md5="9f60a0fe81c7df36a5e6f0b0799c1f05" Size="70448"/>
+      <FileProperties FileName="BELCOR_WEAPON_TSTAFF_045.bn" md5="87ab192fbca4d8d929c9ad3274d59aaa" Size="75796"/>
+      <FileProperties FileName="BELCOR_WEAPON_TSTAFF_061.bn" md5="87ab192fbca4d8d929c9ad3274d59aaa" Size="75796"/>
+      <FileProperties FileName="BELCOR_WEAPON_TSTAFF_077.bn" md5="87ab192fbca4d8d929c9ad3274d59aaa" Size="75796"/>
+      <FileProperties FileName="COM_WEAPON_RKNIFETHROW_045.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_RKNIFETHROW_061.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_RKNIFETHROW_077.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_RKNIFE_045.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_RKNIFE_061.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_RKNIFE_077.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TAXE_045.bn" md5="9f60a0fe81c7df36a5e6f0b0799c1f05" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TAXE_061.bn" md5="9f60a0fe81c7df36a5e6f0b0799c1f05" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TAXE_077.bn" md5="9f60a0fe81c7df36a5e6f0b0799c1f05" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TBOW_045.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TBOW_061.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TBOW_077.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TMACE_045.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TMACE_061.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TMACE_077.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TMACHINEGUN_045.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TMACHINEGUN_061.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TMACHINEGUN_077.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TSPEAR_045.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TSPEAR_061.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TSPEAR_077.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TSWORD_045.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TSWORD_061.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+      <FileProperties FileName="COM_WEAPON_TSWORD_077.bn" md5="c996197fc9577e911b06cf121f8dcc23" Size="70448"/>
+     </Files>
+    </FolderProperties>
+   </FolderProperties>
+   <FolderProperties FolderName="Mesh">
+    <Folders/>
+    <Files/>
+    <FolderProperties FolderName="cat">
+     <Folders/>
+     <Files>
+      <FileProperties FileName="ACCRETIA_WEAPON_GRELAUNCHER_045.msh" md5="e4bfa4ea719191e69f8e8a9d73966dd4" Size="167075"/>
+      <FileProperties FileName="ACCRETIA_WEAPON_GRELAUNCHER_061.msh" md5="001f7f115ce96a021adf7d63f5c98477" Size="167075"/>
+      <FileProperties FileName="ACCRETIA_WEAPON_GRELAUNCHER_077.msh" md5="93102b0ab3bb5eab34cd1acf59398601" Size="167075"/>
+      <FileProperties FileName="ACCRETIA_WEAPON_TFLAMETHROWER_045.msh" md5="58f4567c59d4f7b8d455a62aaa214256" Size="593870"/>
+      <FileProperties FileName="ACCRETIA_WEAPON_TFLAMETHROWER_061.msh" md5="4123c0c2c22e8c27bd30b0c2c0c549c9" Size="593870"/>
+      <FileProperties FileName="ACCRETIA_WEAPON_TFLAMETHROWER_077.msh" md5="fb6f342c1d292e9a6d3935462a449411" Size="593870"/>
+      <FileProperties FileName="BELCOR_WEAPON_TSTAFF_045.msh" md5="b076dc0af13d696f5579f69a8191edfa" Size="200456"/>
+      <FileProperties FileName="BELCOR_WEAPON_TSTAFF_061.msh" md5="d1afc586e00cd98e13d16b033396ed6b" Size="200456"/>
+      <FileProperties FileName="BELCOR_WEAPON_TSTAFF_077.msh" md5="3ac708df47425404a8285fb3657fd11c" Size="200456"/>
+      <FileProperties FileName="COM_WEAPON_RKNIFETHROW_045.msh" md5="63bf96aa3ba17faf0492bf4cd816b92e" Size="115595"/>
+      <FileProperties FileName="COM_WEAPON_RKNIFETHROW_061.msh" md5="116bc4f8feac7bbdcb9e863b9ec167f3" Size="115595"/>
+      <FileProperties FileName="COM_WEAPON_RKNIFETHROW_077.msh" md5="e70bbfc8b9c6d9d08564880e6ba34663" Size="115595"/>
+      <FileProperties FileName="COM_WEAPON_RKNIFE_045.msh" md5="4961530fb7a782a163b3c494e69f80c7" Size="223727"/>
+      <FileProperties FileName="COM_WEAPON_RKNIFE_061.msh" md5="23bccf9ee4a3c96c1805f2920e76bd3b" Size="223727"/>
+      <FileProperties FileName="COM_WEAPON_RKNIFE_077.msh" md5="39b53cdb65c5f26de2e167cd65d36f3b" Size="223727"/>
+      <FileProperties FileName="COM_WEAPON_TAXE_045.msh" md5="4256ab28fe7bc24f1739c1185d0ae80a" Size="132344"/>
+      <FileProperties FileName="COM_WEAPON_TAXE_061.msh" md5="b8edc785aaa682e613cdb957d3ed901a" Size="132344"/>
+      <FileProperties FileName="COM_WEAPON_TAXE_077.msh" md5="13eb1bd01845ace654e944261a2dda1c" Size="132344"/>
+      <FileProperties FileName="COM_WEAPON_TBOW_045.msh" md5="6ec9c6d667571700396e7a1a4bf42dad" Size="178490"/>
+      <FileProperties FileName="COM_WEAPON_TBOW_061.msh" md5="971280e71a1dd676c1e6e12dd8de4d22" Size="178490"/>
+      <FileProperties FileName="COM_WEAPON_TBOW_077.msh" md5="90b84146b135a456fb97197378fc1c91" Size="178490"/>
+      <FileProperties FileName="COM_WEAPON_TMACE_045.msh" md5="6e7b324b6b5cdd365c45d8fde03d5e42" Size="100244"/>
+      <FileProperties FileName="COM_WEAPON_TMACE_061.msh" md5="35fcd1b038dc51eaf9a126ffdff3b41c" Size="100244"/>
+      <FileProperties FileName="COM_WEAPON_TMACE_077.msh" md5="3d316ed19e42a7e83a6fa27b2b6cc599" Size="100244"/>
+      <FileProperties FileName="COM_WEAPON_TMACHINEGUN_045.msh" md5="ee2db3553afea80e722bdb6e3a41bb44" Size="265469"/>
+      <FileProperties FileName="COM_WEAPON_TMACHINEGUN_061.msh" md5="577e2160eb166f00c74eb23ecee07108" Size="265469"/>
+      <FileProperties FileName="COM_WEAPON_TMACHINEGUN_077.msh" md5="86dc60d9e5d0dd44649e94ebee941e0c" Size="265469"/>
+      <FileProperties FileName="COM_WEAPON_TSPEAR_045.msh" md5="da23d58d0ed8a40fd003cf1208c0c7d2" Size="119159"/>
+      <FileProperties FileName="COM_WEAPON_TSPEAR_061.msh" md5="53d032c1e860549495b95bac84089960" Size="119159"/>
+      <FileProperties FileName="COM_WEAPON_TSPEAR_077.msh" md5="f54e5ac54f34e7397783f070c69bdbd2" Size="119159"/>
+      <FileProperties FileName="COM_WEAPON_TSWORD_045.msh" md5="d90800c0f71a1f7529c0eff87ec83039" Size="185291"/>
+      <FileProperties FileName="COM_WEAPON_TSWORD_061.msh" md5="58f87bee927eba21bd00027ba492b833" Size="185291"/>
+      <FileProperties FileName="COM_WEAPON_TSWORD_077.msh" md5="998912531f71c381518dc63590cfa573" Size="185291"/>
+     </Files>
+    </FolderProperties>
+   </FolderProperties>
    <FolderProperties FolderName="Tex">
     <Folders/>
     <Files/>
+    <FolderProperties FolderName="cat">
+     <Folders/>
+     <Files>
+      <FileProperties FileName="GRELAUNCHER_045.dds" md5="4585f72620903e4dc0107e96267305e4" Size="262272"/>
+      <FileProperties FileName="GRELAUNCHER_061.dds" md5="4585f72620903e4dc0107e96267305e4" Size="262272"/>
+      <FileProperties FileName="GRELAUNCHER_077.dds" md5="7465998b681d1143909eed3456a56380" Size="262272"/>
+      <FileProperties FileName="RKNIFETHROW_045.dds" md5="8ba912b0e48cbd5284166a96ec7a10b1" Size="262272"/>
+      <FileProperties FileName="RKNIFETHROW_061.dds" md5="8ba912b0e48cbd5284166a96ec7a10b1" Size="262272"/>
+      <FileProperties FileName="RKNIFETHROW_077.dds" md5="426e760d1510b112762c318b734ce4fa" Size="262272"/>
+      <FileProperties FileName="RKNIFE_045.dds" md5="50baf0faed1676db1696f304baa4c7dd" Size="262272"/>
+      <FileProperties FileName="RKNIFE_061.dds" md5="50baf0faed1676db1696f304baa4c7dd" Size="262272"/>
+      <FileProperties FileName="RKNIFE_077.dds" md5="6b10d49d2bc536aeec222628478f26d9" Size="262272"/>
+      <FileProperties FileName="TAXE_045.dds" md5="fe98f6344bbb75cb6300df6f10c030b3" Size="262272"/>
+      <FileProperties FileName="TAXE_061.dds" md5="fe98f6344bbb75cb6300df6f10c030b3" Size="262272"/>
+      <FileProperties FileName="TAXE_077.dds" md5="cb91550d5edfaf58aece3fd5a8d237c2" Size="262272"/>
+      <FileProperties FileName="TBOW_045.dds" md5="6aba2d2d525e1d1f23109b5b7b6bf251" Size="262272"/>
+      <FileProperties FileName="TBOW_061.dds" md5="6aba2d2d525e1d1f23109b5b7b6bf251" Size="262272"/>
+      <FileProperties FileName="TBOW_077.dds" md5="01846f80958932e6d6eae9d8849e5377" Size="262272"/>
+      <FileProperties FileName="TFLAMETHROWER_045.dds" md5="47b89873b5aceac0e7aa922d2be9833f" Size="262272"/>
+      <FileProperties FileName="TFLAMETHROWER_061.dds" md5="47b89873b5aceac0e7aa922d2be9833f" Size="262272"/>
+      <FileProperties FileName="TFLAMETHROWER_077.dds" md5="92729fed866933ce40219a1cb8332507" Size="262272"/>
+      <FileProperties FileName="TMACE_045.dds" md5="8084d3cbad54bcdb71a20b3ca0471582" Size="262272"/>
+      <FileProperties FileName="TMACE_061.dds" md5="8084d3cbad54bcdb71a20b3ca0471582" Size="262272"/>
+      <FileProperties FileName="TMACE_077.dds" md5="3350cdc40f611288726317dcd37b7c24" Size="262272"/>
+      <FileProperties FileName="TMACHINEGUN_045.dds" md5="5729ad5504996deb2713895ba790420e" Size="262272"/>
+      <FileProperties FileName="TMACHINEGUN_061.dds" md5="5729ad5504996deb2713895ba790420e" Size="262272"/>
+      <FileProperties FileName="TMACHINEGUN_077.dds" md5="f19f7e4bd65a979e17f414dfd5242897" Size="262272"/>
+      <FileProperties FileName="TSPEAR_045.dds" md5="a80fdd95ca69bb5ce5c4db5702623dac" Size="262272"/>
+      <FileProperties FileName="TSPEAR_061.dds" md5="a80fdd95ca69bb5ce5c4db5702623dac" Size="262272"/>
+      <FileProperties FileName="TSPEAR_077.dds" md5="6fec10c34a070ad6bd22d325230ed7d9" Size="262272"/>
+      <FileProperties FileName="TSTAFF_045.dds" md5="0c34927cea8c46519887ba8d2991b4bc" Size="262272"/>
+      <FileProperties FileName="TSTAFF_061.dds" md5="0c34927cea8c46519887ba8d2991b4bc" Size="262272"/>
+      <FileProperties FileName="TSTAFF_077.dds" md5="ef244b14f290ca190bc3315c01d902fe" Size="262272"/>
+      <FileProperties FileName="TSWORD_045.dds" md5="89bcf0f198a91bf639dc74e690292292" Size="262272"/>
+      <FileProperties FileName="TSWORD_061.dds" md5="89bcf0f198a91bf639dc74e690292292" Size="262272"/>
+      <FileProperties FileName="TSWORD_077.dds" md5="a331bcbae0bde095fc0c92cef6ac10f9" Size="262272"/>
+     </Files>
+    </FolderProperties>
     <FolderProperties FolderName="F">
      <Folders/>
      <Files>
@@ -520,7 +642,7 @@
  <FolderProperties FolderName="System">
   <Folders/>
   <Files>
-   <FileProperties FileName="gui.dll" md5="8480fe42a9b000260ea38f9c38713ec0" Size="67361084"/>
+   <FileProperties FileName="gui.dll" md5="3d78129797d207428ffd57883e877f21" Size="57376124"/>
    <FileProperties FileName="titlelogo.tga" md5="e6b15e5062d0591729e3765d335b1039" Size="5440044"/>
   </Files>
  </FolderProperties>
