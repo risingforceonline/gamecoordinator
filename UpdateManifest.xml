@@ -3,7 +3,7 @@
  <Folders/>
  <Files>
   <FileProperties md5="fd0b78eeba106fad6816b8d1d5b760ee" FileName="CrashRpt.dll" Size="6884864"/>
-  <FileProperties md5="919f16bb4722a325b93149af682122ef" FileName="d3dx11d.dll" Size="4821504"/>
+  <FileProperties md5="6f0e30882386cedb672ce28da1ce4c3b" FileName="d3dx11d.dll" Size="4808704"/>
   <FileProperties md5="26af232140c88b42d92a88f2198edf6a" FileName="d3dx9_32.dll" Size="3426072"/>
   <FileProperties md5="1ca939918ed1b930059b3a882de6f648" FileName="d3dx9_34.dll" Size="3497832"/>
   <FileProperties md5="44bfec5c9c82a2ee9871d88fd3b9a0e2" FileName="d3dx9_36.dll" Size="3734536"/>
@@ -49,7 +49,7 @@
    <FileProperties md5="5b262c6438064fe52269f3b8f9ccf5d9" FileName="EventSound.edf" Size="361"/>
    <FileProperties md5="348595f3b67fce80c556cba8715ddfc9" FileName="ForceItemLink.edf" Size="6221"/>
    <FileProperties md5="fd7d1197edf7b8a38a7ba6483423de67" FileName="GemSocketInfo.edf" Size="159053"/>
-   <FileProperties md5="2bb884598ee6bda182fe4a8900daca0c" FileName="item.edf" Size="4669937"/>
+   <FileProperties md5="ff0f9dd0395c065630d80d3bf3e78c5e" FileName="item.edf" Size="4669937"/>
    <FileProperties md5="3f67527dbf5248449755ccc6a661043e" FileName="ItemCash.edf" Size="297"/>
    <FileProperties md5="02780526bbf1f989d2e952a04e4273bf" FileName="ItemCombine.edf" Size="3370321"/>
    <FileProperties md5="a7815e25f041f94336aa6cea79f26a04" FileName="ItemCostumeLink.edf" Size="493"/>
