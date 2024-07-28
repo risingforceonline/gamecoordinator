@@ -3,7 +3,7 @@
  <Folders/>
  <Files>
   <FileProperties FileName="CrashRpt.dll" Size="6884864" md5="fd0b78eeba106fad6816b8d1d5b760ee"/>
-  <FileProperties FileName="d3dx11d.dll" Size="5902336" md5="8f67638749bea8576240466514398dd8"/>
+  <FileProperties FileName="d3dx11d.dll" Size="5866496" md5="fac0bf83607ea372e2a912c273c3f1ff"/>
   <FileProperties FileName="d3dx9_32.dll" Size="3426072" md5="26af232140c88b42d92a88f2198edf6a"/>
   <FileProperties FileName="d3dx9_34.dll" Size="3497832" md5="1ca939918ed1b930059b3a882de6f648"/>
   <FileProperties FileName="d3dx9_36.dll" Size="3734536" md5="44bfec5c9c82a2ee9871d88fd3b9a0e2"/>
@@ -2676,7 +2676,7 @@
    <FileProperties FileName="Character.edf" Size="772525" md5="4233db76ce2695a3e0e03c8b0d359583"/>
    <FileProperties FileName="EventShip.edf" Size="41609" md5="a60e95d06737bab301d776bc47afa41c"/>
    <FileProperties FileName="EventSound.edf" Size="361" md5="c7fd64c4f4a2a29fce898b5d888a0f0f"/>
-   <FileProperties FileName="item.edf" Size="18565621" md5="b9225c5e270fc3ffa7f784e1eaf6170f"/>
+   <FileProperties FileName="item.edf" Size="18662389" md5="81ac5527e1c4dd34fe0d8a9ef24f8539"/>
    <FileProperties FileName="ItemCash.edf" Size="297" md5="3f67527dbf5248449755ccc6a661043e"/>
    <FileProperties FileName="ItemCash_1.edf" Size="64297" md5="34f161ed73bc51a3179861b3158ad5a6"/>
    <FileProperties FileName="ItemCollection.edf" Size="2359521" md5="d4cbec37aa991eeff1492618778282dd"/>
