@@ -1,0 +1,8 @@
+# Release payloads are content-addressed binary files. Never normalize them.
+SREngine/blobs/** -text -diff
+SREngine/releases/** -text -diff
+SREngine/patches/**/blobs/** -text -diff
+
+# Metadata remains UTF-8 text.
+*.json text eol=lf
+*.txt text eol=lf

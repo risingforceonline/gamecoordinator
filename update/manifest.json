@@ -1,0 +1,2068 @@
+{
+  "files": [
+    {
+      "path": "System/GUI/Data/classImage/classImage_AWS3.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_AWS3.png.gz",
+      "size": 227669,
+      "sha256": "413a1957aec2cc07faf2e055e5e4c1277f959e8218bec24f5d7b555da309fc97"
+    },
+    {
+      "path": "DataTable/pt-br/ndcharacter.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/pt-br/ndcharacter.edf.gz",
+      "size": 54888,
+      "sha256": "97830789e74aa239d11fd9edb7500e9fa1e01ce3ff694f4a27e7d70ec757f582"
+    },
+    {
+      "path": "DataTable/en-gb/KeyMap.dat",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/KeyMap.dat.gz",
+      "size": 786,
+      "sha256": "2cea6065939aacb9f20d6971b2bc2e8cdcf2336f1d064e78e03c72a5d307699b"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_AWS2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_AWS2.png.gz",
+      "size": 201748,
+      "sha256": "a066975cd69dee013a2f036e4e1281d56859127aefd92d0bc1d14f8c5a09005a"
+    },
+    {
+      "path": "DataTable/PlayerCharacter.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/PlayerCharacter.edf.gz",
+      "size": 700,
+      "sha256": "56bded3337d99b01588458cd06465a885e57c049bbfcb142fa25468f9da45fa6"
+    },
+    {
+      "path": "DataTable/ko-kr/Ika.dic",
+      "url": "https://cdn.x2game.net/update/DataTable/ko-kr/Ika.dic.gz",
+      "size": 60,
+      "sha256": "25ed7732b58dadf470db5c3c513c57fde03cabe36bbb8b29b20f3914350220c8"
+    },
+    {
+      "path": "DataTable/en-gb/Iua.dic",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/Iua.dic.gz",
+      "size": 1004,
+      "sha256": "697f2ec4f4315df4819c3828ea33bf5018839a973d97cfb02dd0152338a69602"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_AWS1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_AWS1.png.gz",
+      "size": 160343,
+      "sha256": "18bf6df88edafcb67b4f1e71e151289bffddc3e6088de35b56541d647a34d48d"
+    },
+    {
+      "path": "DataTable/KeyMap_NKM.json",
+      "url": "https://cdn.x2game.net/update/DataTable/KeyMap_NKM.json.gz",
+      "size": 1032,
+      "sha256": "f5223dc73c0876aa61ee5d026c528d82f6a6aa440e3c1e606ea4df135d1f993f"
+    },
+    {
+      "path": "DataTable/ko-kr/Cska.txt",
+      "url": "https://cdn.x2game.net/update/DataTable/ko-kr/Cska.txt.gz",
+      "size": 1015,
+      "sha256": "2631eb01c3caaf70ddc52edca0a9114bf86ef7ce84359d54f383b14312e18592"
+    },
+    {
+      "path": "DataTable/ChatColorSettings.json",
+      "url": "https://cdn.x2game.net/update/DataTable/ChatColorSettings.json.gz",
+      "size": 577,
+      "sha256": "3e0432962e50801554a07457aaede423a19860256a9ff3920a5ed3213d0a62cb"
+    },
+    {
+      "path": "DataTable/en-gb/Hint.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/Hint.edf.gz",
+      "size": 8141,
+      "sha256": "fa96d74c647b0601b1537e37bc0e503db6f71b4edc696400e034c6c72fc7123e"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_AWF2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_AWF2.png.gz",
+      "size": 168869,
+      "sha256": "b677ffb5d44484e78b6239bfbe9b302be0faecab7c4c9c6a67006e4192a42521"
+    },
+    {
+      "path": "DataTable/ko-kr/Ceka.env",
+      "url": "https://cdn.x2game.net/update/DataTable/ko-kr/Ceka.env.gz",
+      "size": 129,
+      "sha256": "fb2435df7afddf5f8cd97292996326120ee9cc8012f5f898973dbca8336d38a5"
+    },
+    {
+      "path": "DataTable/en-gb/GameData.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/GameData.edf.gz",
+      "size": 26521,
+      "sha256": "1e87743711919765185634d26d7ae9945edb82018ad01692df946f8ca3c896f9"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_AWF1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_AWF1.png.gz",
+      "size": 168255,
+      "sha256": "dc4b1001ec32b7c278dea7a1de4919900045395a216ff85efb990affd4bb48ee"
+    },
+    {
+      "path": "DataTable/ko-kr/Aka.dic",
+      "url": "https://cdn.x2game.net/update/DataTable/ko-kr/Aka.dic.gz",
+      "size": 5371,
+      "sha256": "b3f8a57cc0e66335135926834643cea7688942c663996f1febb84f0a8f4c62fc"
+    },
+    {
+      "path": "DataTable/en-gb/Exp.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/Exp.edf.gz",
+      "size": 2459,
+      "sha256": "ecfb03d519cb1cb99bd89f1584b0328bcc65b39e145e213d8b74d32defb067ea"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_ASS2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_ASS2.png.gz",
+      "size": 157325,
+      "sha256": "6a3e2bdc79f63c41d267ae97f1b3a553ea02a4cdfd39dbf3578860dbdd5f3b91"
+    },
+    {
+      "path": "DataTable/KeyMap_NKM.dat",
+      "url": "https://cdn.x2game.net/update/DataTable/KeyMap_NKM.dat.gz",
+      "size": 731,
+      "sha256": "a8d4e078ce9b705a5d2abc9caf41ace2c2697340c6189b6db5d9ef61c4fab20c"
+    },
+    {
+      "path": "DataTable/en-ph/ndstore.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-ph/ndstore.edf.gz",
+      "size": 154522,
+      "sha256": "de6b9d2952d5bc2a00c2faded024dd63713b5735acddb3eedc87d93b5852dafe"
+    },
+    {
+      "path": "DataTable/en-gb/cw.scp",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/cw.scp.gz",
+      "size": 9096,
+      "sha256": "7d76b3d3e305d549e3b0e32f858d33e7d54a28ed577cdb4e5c8a132e01ef1a8b"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_ASS1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_ASS1.png.gz",
+      "size": 166633,
+      "sha256": "21630d5ae6b681486b3872e46af77bac92c5bf7be63a3c840f1d3bf53f6a3e1b"
+    },
+    {
+      "path": "DataTable/KeyMap.dat",
+      "url": "https://cdn.x2game.net/update/DataTable/KeyMap.dat.gz",
+      "size": 786,
+      "sha256": "2cea6065939aacb9f20d6971b2bc2e8cdcf2336f1d064e78e03c72a5d307699b"
+    },
+    {
+      "path": "DataTable/BoxItemOut.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/BoxItemOut.edf.gz",
+      "size": 33242,
+      "sha256": "8cd84e0aa6ea55a869dda91b0e465d932169d644c0ce77605f61f2713887192d"
+    },
+    {
+      "path": "DataTable/en-ph/ndskillforce.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-ph/ndskillforce.edf.gz",
+      "size": 95629,
+      "sha256": "7750d7c64bb81e2b60aed749e4a4feeb911a629f5bb48b88a9e643dbfd9a951e"
+    },
+    {
+      "path": "DataTable/en-gb/Csua.txt",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/Csua.txt.gz",
+      "size": 1031,
+      "sha256": "e057d47ac90e6b195364b6e156f1fbce7b4a4da3dd12552a6a86e9b42545b556"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_ASF1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_ASF1.png.gz",
+      "size": 151474,
+      "sha256": "31af2e4f7b7db8f1aa02f93130f4e065755179158f0b247649dac991b306bbbe"
+    },
+    {
+      "path": "DataTable/en-ph/ndquest.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-ph/ndquest.edf.gz",
+      "size": 708908,
+      "sha256": "b7d310d5b37aea8ca9cf876d81ba173ce80d8ac36f5852a74ec5bde90102454a"
+    },
+    {
+      "path": "DataTable/en-gb/Cska.txt",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/Cska.txt.gz",
+      "size": 1015,
+      "sha256": "2631eb01c3caaf70ddc52edca0a9114bf86ef7ce84359d54f383b14312e18592"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_ARS3.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_ARS3.png.gz",
+      "size": 224490,
+      "sha256": "a4dbd0f660c84ef88dc4c5753cb194355e062cdd29a872cdeaed22e3ab6f8a4f"
+    },
+    {
+      "path": "DataTable/en-ph/ndmap.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-ph/ndmap.edf.gz",
+      "size": 11786,
+      "sha256": "daf68e382629809bf4c9cb3a8e2954eaee3dd85162234c15b0b19a3497e74808"
+    },
+    {
+      "path": "DataTable/en-gb/cs.scp",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/cs.scp.gz",
+      "size": 9007,
+      "sha256": "67247c2f3fa4c04e8f6dd1f9dfeceffec49ee4f88fe10526a37a1279522fb40f"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_ARS2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_ARS2.png.gz",
+      "size": 209594,
+      "sha256": "db17e89d087651de3f85aa031c3b4113dbe6e067a162af50fc5a7460a9f95d06"
+    },
+    {
+      "path": "DataTable/en-gb/KeyMap_NKM.dat",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/KeyMap_NKM.dat.gz",
+      "size": 731,
+      "sha256": "a8d4e078ce9b705a5d2abc9caf41ace2c2697340c6189b6db5d9ef61c4fab20c"
+    },
+    {
+      "path": "DataTable/ItemSetEffect.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ItemSetEffect.edf.gz",
+      "size": 46929,
+      "sha256": "3c50a14af011f389a57beb0ab68b90c02c705175fc46c152539ee711526b32bf"
+    },
+    {
+      "path": "DataTable/Character.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/Character.edf.gz",
+      "size": 159655,
+      "sha256": "39c5d773f8bb52a947c6d9b4ebae33e697bb320ff6053c105eb92c61ace86f39"
+    },
+    {
+      "path": "DataTable/ItemPremium.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ItemPremium.edf.gz",
+      "size": 20828,
+      "sha256": "3cad920a9eecf7c61ad0bcd3759472c6a5f03dd08ef5a2d39c0e6c8ce1749fa6"
+    },
+    {
+      "path": "DataTable/en-ph/nditemcash.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-ph/nditemcash.edf.gz",
+      "size": 335,
+      "sha256": "1e558678b9bc6017584f874e07866b3116d1b113e09330463d93b65aafc394e8"
+    },
+    {
+      "path": "DataTable/BlockData.dat",
+      "url": "https://cdn.x2game.net/update/DataTable/BlockData.dat.gz",
+      "size": 38,
+      "sha256": "df3f619804a92fdb4057192dc43dd748ea778adc52bc498ce80524c014b81119"
+    },
+    {
+      "path": "DataTable/en-gb/cr.scp",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/cr.scp.gz",
+      "size": 9568,
+      "sha256": "d56f50c41e6a1b08c17f77b70b738b894340aeaa5c0b3da91b68934f112abf3b"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_ARS1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_ARS1.png.gz",
+      "size": 219552,
+      "sha256": "c687d52b86c166d68113a54943b9bfa0c549a2874a0123e0a6e9c40c67d86717"
+    },
+    {
+      "path": "DataTable/SkillForce.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/SkillForce.edf.gz",
+      "size": 221886,
+      "sha256": "159c4a269996239f6d15a8338156fb35a0762762d2150cdeddeceb52bac02c5a"
+    },
+    {
+      "path": "DataTable/en-gb/ChatCommand.ini",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/ChatCommand.ini.gz",
+      "size": 746,
+      "sha256": "d80154ff9d1b709690309512c8d8f9f4641c0c9dd8cf0817bce3e8c560a9c1fe"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_ARF2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_ARF2.png.gz",
+      "size": 194977,
+      "sha256": "44775c302c2651033afca4f08c832542e153a3a087b6faa2f4f7da833f326012"
+    },
+    {
+      "path": "DataTable/en-ph/ndcharacter.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-ph/ndcharacter.edf.gz",
+      "size": 42914,
+      "sha256": "7143cc8747e1c8f836e31980e236f0dff29696be4afb7da238be2711704da6da"
+    },
+    {
+      "path": "DataTable/en-gb/cf.scp",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/cf.scp.gz",
+      "size": 9470,
+      "sha256": "71ecb98d3943d2dabe477c3f3c59fde352d1c4c12ed5700feb458b1a1bd482be"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_ARF1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_ARF1.png.gz",
+      "size": 206317,
+      "sha256": "dc1c76b316cbb0862118b25623ccc5e6c58c80d06c5fc6bc778ad6a78cead1e0"
+    },
+    {
+      "path": "DataTable/en-id/ndstore.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-id/ndstore.edf.gz",
+      "size": 156517,
+      "sha256": "81b035d718f6433f3a2586bdcdf5130767768642b23da667ce03ab7047fff59d"
+    },
+    {
+      "path": "DataTable/en-gb/Ceua.env",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/Ceua.env.gz",
+      "size": 128,
+      "sha256": "ea6da1ed8ad57522d81cf82166df9ac027cc64a71aa85bd0d82a81fb33bc7514"
+    },
+    {
+      "path": "DataTable/TrunkExted.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/TrunkExted.edf.gz",
+      "size": 691,
+      "sha256": "98432b7f1751725055f83525f2060a84e34918159d0300ae8f3accf7e26870f7"
+    },
+    {
+      "path": "DataTable/en-id/ndskillforce.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-id/ndskillforce.edf.gz",
+      "size": 93278,
+      "sha256": "493cae7b559e76b514ee2e327fcb963c0add38a773a75bad0f3b13a723492962"
+    },
+    {
+      "path": "DataTable/SpecialStore.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/SpecialStore.edf.gz",
+      "size": 37881,
+      "sha256": "bafc0db0a11801aab7b78b2e7fa83d32a5082eb484377c2f83cf38ef1bf00b97"
+    },
+    {
+      "path": "DataTable/en-gb/Ceka.env",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/Ceka.env.gz",
+      "size": 129,
+      "sha256": "fb2435df7afddf5f8cd97292996326120ee9cc8012f5f898973dbca8336d38a5"
+    },
+    {
+      "path": "Chef/Monster.ini",
+      "url": "https://cdn.x2game.net/update/Chef/Monster.ini.gz",
+      "size": 7249,
+      "sha256": "002563ea05f5d1688dfb3ecb82353731212b835679cb93bb775a3778a13aaee7"
+    },
+    {
+      "path": "DataTable/en-id/ndquest.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-id/ndquest.edf.gz",
+      "size": 708955,
+      "sha256": "a6a6134f5c11d7d742f630a17a9d0ac38186a08c5dfa95d114170dbf207527ee"
+    },
+    {
+      "path": "DataTable/en-gb/bw.scp",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/bw.scp.gz",
+      "size": 9210,
+      "sha256": "1a6066976d9ab58ff849f96b741c3693e6b4da2377bf4f587cceae5f2015184c"
+    },
+    {
+      "path": "DataTable/ItemCollection.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ItemCollection.edf.gz",
+      "size": 366254,
+      "sha256": "6120770b72d2971b22b6a36da409e4d7aca5aba82879e0816f5784969993c90b"
+    },
+    {
+      "path": "DataTable/en-id/ndmap.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-id/ndmap.edf.gz",
+      "size": 11781,
+      "sha256": "9c7e29bfea52b3a29daa74261a6d9def0226036c01e94084306cd2f11c4cf91d"
+    },
+    {
+      "path": "DataTable/en-gb/bs.scp",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/bs.scp.gz",
+      "size": 9224,
+      "sha256": "1eb908ad5d79a3760f119f697e320b795950317d5d7034a9087a54114ff19ad4"
+    },
+    {
+      "path": "System/GUI/Data/ARIAL.TTF",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/ARIAL.TTF.gz",
+      "size": 538546,
+      "sha256": "c9b76220a5be42ead4733611e417cd65c5fd8aeaa33eb56576ac378a37d130a1"
+    },
+    {
+      "path": "DataTable/en-gb/ar.scp",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/ar.scp.gz",
+      "size": 10157,
+      "sha256": "7c56fdb1da20c1370f90cb6b6d384ab6aaeb39ceed55e5c69c75d5d12d7411e9"
+    },
+    {
+      "path": "DataTable/Quest.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/Quest.edf.gz",
+      "size": 186695,
+      "sha256": "dbf7e8e65882a111029e72d49f1ba11bef7ba207af4d9df2f636cff22629b7d3"
+    },
+    {
+      "path": "DataTable/en-id/nditemcash.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-id/nditemcash.edf.gz",
+      "size": 335,
+      "sha256": "a9856eb0fbc72e227252070474948621ef1a963dcfef4d5c0e19f5374c3c38b4"
+    },
+    {
+      "path": "DataTable/en-gb/br.scp",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/br.scp.gz",
+      "size": 9116,
+      "sha256": "eb2c0bf6a9dd12a25e1762f763cb16e9a7875549647410649ddf1d860879155a"
+    },
+    {
+      "path": "DataTable/en-gb/bf.scp",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/bf.scp.gz",
+      "size": 9208,
+      "sha256": "0cb64161190bbff1ffcca20934f656f02b0a62d0b571ab661d6a59681874d1ea"
+    },
+    {
+      "path": "System/sun.dds",
+      "url": "https://cdn.x2game.net/update/System/sun.dds.gz",
+      "size": 48152,
+      "sha256": "f70290eae5954cbde36936698ba9048fbd05d9caa66376c19807ba515ecdf589"
+    },
+    {
+      "path": "DataTable/en-id/ndcharacter.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-id/ndcharacter.edf.gz",
+      "size": 45492,
+      "sha256": "77c5a4bb2f78d68155e9b8ae695dce080e46800599118a4c7ccbcf0dc6bd13dd"
+    },
+    {
+      "path": "DataTable/MsgEvent.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/MsgEvent.edf.gz",
+      "size": 716,
+      "sha256": "ddae129950afb89436438cf552077333c01eaebe1be89582400e96e930fad91d"
+    },
+    {
+      "path": "DataTable/en-gb/WorldMapData.dat",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/WorldMapData.dat.gz",
+      "size": 3283,
+      "sha256": "49d7295395b9c6acaf02ba40626770561523ce06ad269058deae5515ca881637"
+    },
+    {
+      "path": "DataTable/ItemCash_1.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ItemCash_1.edf.gz",
+      "size": 7073,
+      "sha256": "d6f34cf98ac6d2f0ac4d12cab13522f8afa05c08dfcbf48beb6781dbc9b65783"
+    },
+    {
+      "path": "DataTable/Quest_3.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/Quest_3.edf.gz",
+      "size": 186895,
+      "sha256": "2cce1fbda94ace872b305c31771af4114096a80ad4e9d7e043ee4bfb48144e45"
+    },
+    {
+      "path": "DataTable/en-gb/UIHelp.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/UIHelp.edf.gz",
+      "size": 8089,
+      "sha256": "3c6ca43667a2af91960a84125df6466a52bb1b424a64a482fa183420157244c7"
+    },
+    {
+      "path": "DataTable/ru-ru/ndskillforce.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ru-ru/ndskillforce.edf.gz",
+      "size": 111102,
+      "sha256": "fb1961118641542549452cd3fff9f71ae6c29f3ddcf58218249249fe0c2eea1d"
+    },
+    {
+      "path": "DataTable/en-gb/aw.scp",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/aw.scp.gz",
+      "size": 8374,
+      "sha256": "68257a2dab191738bf904ca0bc0bb58c2cae899cbe7f6241af758000efc84338"
+    },
+    {
+      "path": "DataTable/en-gb/RF_WebURL.dat",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/RF_WebURL.dat.gz",
+      "size": 967,
+      "sha256": "231f3c7380e0f2e03d6d91562fbe678a41bad01522c7c90eccf821b8008182ef"
+    },
+    {
+      "path": "./UltralightCore.dll",
+      "url": "https://cdn.x2game.net/update/./UltralightCore.dll.gz",
+      "size": 1121216,
+      "sha256": "ac782df832b528e030a1e8ae25ce6c66abc52888a0fbeff6191e0d76c21edfff"
+    },
+    {
+      "path": "DataTable/ru-ru/ndquest.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ru-ru/ndquest.edf.gz",
+      "size": 706986,
+      "sha256": "d834674c887dc9353cd7874377d1337ddd9488b126fac344557ec61adf874f71"
+    },
+    {
+      "path": "DataTable/EventSound.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/EventSound.edf.gz",
+      "size": 399,
+      "sha256": "f5238cc55dc6e472bf32a4da80f323025f0419e735fe42685abb1fc13016cf68"
+    },
+    {
+      "path": "DataTable/en-gb/NDStore.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/NDStore.edf.gz",
+      "size": 154747,
+      "sha256": "a1098a4f3dd58b218efaac6c23e42f28253418f2b3b488053a9ca91d7096a861"
+    },
+    {
+      "path": "DataTable/ru-ru/ndmap.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ru-ru/ndmap.edf.gz",
+      "size": 11126,
+      "sha256": "c9bac3bdf220413de13a4a448ff79e35fe014e951fe90e5c50f4e8adab6947b9"
+    },
+    {
+      "path": "DataTable/ItemCash.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ItemCash.edf.gz",
+      "size": 333,
+      "sha256": "7ae76ef69bacabaabf39115cfcfa97a6bcad0fca4652fba77e32bc4efa0de804"
+    },
+    {
+      "path": "DataTable/en-gb/NDSkillForce.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/NDSkillForce.edf.gz",
+      "size": 101088,
+      "sha256": "8058c7dda646f80bd410019499a9ea12d8f3b2734da0d654dd98998b2fb6e8a3"
+    },
+    {
+      "path": "DataTable/ru-ru/nditemcash.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ru-ru/nditemcash.edf.gz",
+      "size": 335,
+      "sha256": "a9856eb0fbc72e227252070474948621ef1a963dcfef4d5c0e19f5374c3c38b4"
+    },
+    {
+      "path": "DataTable/MAPDATA.DAT",
+      "url": "https://cdn.x2game.net/update/DataTable/MAPDATA.DAT.gz",
+      "size": 28588,
+      "sha256": "a1fcc7ba735a4fa7dbc91c0d917e306a10c9a1946a97bb7fd7baba3a6102adf1"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BRS2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BRS2.png.gz",
+      "size": 227397,
+      "sha256": "662aff6cbcc1a9221497970505366ceb72810d65fb97ed5883f6cd8537c46746"
+    },
+    {
+      "path": "DataTable/en-gb/NDQuest.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/NDQuest.edf.gz",
+      "size": 708965,
+      "sha256": "6c69a87474836c053dddf1adfa86f412f4ab87fe18dc5419beeaf89a88fdae9b"
+    },
+    {
+      "path": "DataTable/en-gb/Aua.dic",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/Aua.dic.gz",
+      "size": 927,
+      "sha256": "2eeae5496142e015de6b8e2acd965df600391793c047faa8276fac92d48436f3"
+    },
+    {
+      "path": "DataTable/en-gb/NDMsgMonster.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/NDMsgMonster.edf.gz",
+      "size": 48306,
+      "sha256": "92f749be276d274a2e6f554860ce934a5178f6d5bde0913666de0c59b40c58a1"
+    },
+    {
+      "path": "DataTable/ru-ru/ndcharacter.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ru-ru/ndcharacter.edf.gz",
+      "size": 60952,
+      "sha256": "f7b1fe3bf2b3cb225577417a2f85895d609aeda72b6b081788ad8b9e7876b62b"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BRF2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BRF2.png.gz",
+      "size": 205785,
+      "sha256": "d5fcc3f1f2a6d655e91989651e7ccc9ed0fb1c5960cfac813950c3f5982771c5"
+    },
+    {
+      "path": "DataTable/en-gb/NDMsgEvent.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/NDMsgEvent.edf.gz",
+      "size": 881,
+      "sha256": "e54421bedea9efd2ad1f72dec7c42dedd64b49bd8a018a2fa81887699cd04fb1"
+    },
+    {
+      "path": "DataTable/QuestData/QuestTextCat.pak",
+      "url": "https://cdn.x2game.net/update/DataTable/QuestData/QuestTextCat.pak.gz",
+      "size": 1767,
+      "sha256": "68b2e5723bad01fc8b0b5ef95abaa530a6f1dd90e418c81202ec739cf1a0c3ca"
+    },
+    {
+      "path": "DataTable/en-gb/NDMap.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/NDMap.edf.gz",
+      "size": 11781,
+      "sha256": "9c7e29bfea52b3a29daa74261a6d9def0226036c01e94084306cd2f11c4cf91d"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BRF1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BRF1.png.gz",
+      "size": 202320,
+      "sha256": "835030c778c1b195685cfeec00c792d27cb4d13ee054774bad9d4f562550c11d"
+    },
+    {
+      "path": "DataTable/Map.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/Map.edf.gz",
+      "size": 142760,
+      "sha256": "cfec182ebe896fa0f28bed30a2b2c1d74d2a25c17bb5dcb82019bdeebbac4dba"
+    },
+    {
+      "path": "DataTable/en-gb/as.scp",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/as.scp.gz",
+      "size": 10114,
+      "sha256": "2ae575bcf59b206abeffd49bfb0e75978a4174ae88e51ce366918ce2665d1f21"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BFS3.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BFS3.png.gz",
+      "size": 241736,
+      "sha256": "69560c4742b2da02d48be7bfbe2cc0ea3e26bb4be3adca1d33b950fd8ff6784d"
+    },
+    {
+      "path": "DataTable/en-gb/NDItemCash.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/NDItemCash.edf.gz",
+      "size": 335,
+      "sha256": "a9856eb0fbc72e227252070474948621ef1a963dcfef4d5c0e19f5374c3c38b4"
+    },
+    {
+      "path": "DataTable/pt-br/ndstore.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/pt-br/ndstore.edf.gz",
+      "size": 165081,
+      "sha256": "02a0757251450d2a2ab28e001d566a660b802f68e5ff12b2401fd0b3d9405b9d"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BFS2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BFS2.png.gz",
+      "size": 260336,
+      "sha256": "8951b2cc14923281ec82271aa889d0a2dafa89e5173ce65e35b767363dadcb0f"
+    },
+    {
+      "path": "DataTable/pt-br/ndskillforce.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/pt-br/ndskillforce.edf.gz",
+      "size": 95015,
+      "sha256": "5401305f94212c77e74fa2878dc5f0d1a7bf9f0ca7e735277cd9fc04fef35426"
+    },
+    {
+      "path": "DataTable/EventShip.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/EventShip.edf.gz",
+      "size": 14266,
+      "sha256": "d07864412b61588f2052e6e432e2512a370c73a6c966f9d9ca4bf79e3528ffdf"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BFS1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BFS1.png.gz",
+      "size": 273720,
+      "sha256": "7051e837b7b333912ad542c17dfc526e06f9de44e5cba2c2ea69643c2a2d0b3b"
+    },
+    {
+      "path": "DataTable/en-gb/NDEventShip.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/NDEventShip.edf.gz",
+      "size": 11847,
+      "sha256": "07cfdc9dbf484c55056c732e849cfaa13a93324c1599dda3a6c8cc499007b930"
+    },
+    {
+      "path": "DataTable/pt-br/ndquest.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/pt-br/ndquest.edf.gz",
+      "size": 711504,
+      "sha256": "459755fab3506892bed0cd3966853102335245ca57642d189919d2d33db5dfff"
+    },
+    {
+      "path": "DataTable/en-gb/NDCharacter.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/NDCharacter.edf.gz",
+      "size": 42955,
+      "sha256": "1716729c9b2085794c2caa4afb6f9d19de43f3a537b3e3705b3668301957a6d7"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BFF2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BFF2.png.gz",
+      "size": 181322,
+      "sha256": "cce4ba92e30a5e31dc30e4085a495474fea533175417f1969d5b61185eaebb80"
+    },
+    {
+      "path": "./AppCore.dll",
+      "url": "https://cdn.x2game.net/update/./AppCore.dll.gz",
+      "size": 104027,
+      "sha256": "3e3cac95297470699811070fc0248712aeb3dc3cc3788d8347bab42ce76ea239"
+    },
+    {
+      "path": "DataTable/pt-br/ndmap.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/pt-br/ndmap.edf.gz",
+      "size": 11781,
+      "sha256": "9c7e29bfea52b3a29daa74261a6d9def0226036c01e94084306cd2f11c4cf91d"
+    },
+    {
+      "path": "DataTable/KeyMap_NKM_Default.json",
+      "url": "https://cdn.x2game.net/update/DataTable/KeyMap_NKM_Default.json.gz",
+      "size": 900,
+      "sha256": "7ee49df80b0f0a2740f0a26989a32828bae338442a38b2183a4fcf4cd5f8f8a0"
+    },
+    {
+      "path": "./Ultralight.dll",
+      "url": "https://cdn.x2game.net/update/./Ultralight.dll.gz",
+      "size": 159899,
+      "sha256": "9c319e18b2f69cf12e2bf992b076079a6e4ffae482634dff3f61343d2c3919a7"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BFF1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BFF1.png.gz",
+      "size": 204539,
+      "sha256": "0ee1e6b210480f6b4122b09ec47712b2873c8eeade9139206a8317ccc74c7182"
+    },
+    {
+      "path": "DataTable/en-gb/MAPDATA.DAT",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/MAPDATA.DAT.gz",
+      "size": 21907,
+      "sha256": "6edb25de036573a15878f7adf91b80553ba9526d65457cb91dc39bdf15864c72"
+    },
+    {
+      "path": "DataTable/pt-br/nditemcash.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/pt-br/nditemcash.edf.gz",
+      "size": 335,
+      "sha256": "a9856eb0fbc72e227252070474948621ef1a963dcfef4d5c0e19f5374c3c38b4"
+    },
+    {
+      "path": "DataTable/ItemTimer.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ItemTimer.edf.gz",
+      "size": 26607,
+      "sha256": "b3e75d8c4c14adffa1bc7b8cb519cabd968257830579614fd1c25f50514c6581"
+    },
+    {
+      "path": "DataTable/ChatCommand.json",
+      "url": "https://cdn.x2game.net/update/DataTable/ChatCommand.json.gz",
+      "size": 726,
+      "sha256": "691e81ec652bf76589f39dd2075865a659ef96cf33a600314f8dd48092c6a50d"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BRS1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BRS1.png.gz",
+      "size": 232517,
+      "sha256": "983357293368df7c66977597f3759d5389fbc08194fe9edd845d4a6555187f84"
+    },
+    {
+      "path": "./fmod.dll",
+      "url": "https://cdn.x2game.net/update/./fmod.dll.gz",
+      "size": 865697,
+      "sha256": "eb52264b6a8d565ecf9b7c3cd9d5bb5fce26e449a4bee951298f356cae475eed"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BRS3.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BRS3.png.gz",
+      "size": 236508,
+      "sha256": "7620a4d91f756dd675f31f259abbbba9b6b6e191da435322748a672b9bc10415"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BSF1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BSF1.png.gz",
+      "size": 199111,
+      "sha256": "d7369f175724951d2ea201346d362ced7bc5fe59e58871237c645558a17023e3"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BSF2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BSF2.png.gz",
+      "size": 200767,
+      "sha256": "8e5b19e92d2e95810aa2a9ed9bd2f04afbd86e9fdedd3acac20d08836e1f3c22"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BSS2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BSS2.png.gz",
+      "size": 214786,
+      "sha256": "4c840039dfbcf0d00e3a671fd769ba7f64093a837b00487768502157c1ae6fe8"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BSS1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BSS1.png.gz",
+      "size": 212103,
+      "sha256": "14ec37ae371ddfa5ac8b5b6bdc63219de35564b9f7afffd5d0593c6bc0641ee6"
+    },
+    {
+      "path": "DataTable/ru-ru/ndstore.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ru-ru/ndstore.edf.gz",
+      "size": 277495,
+      "sha256": "41f0ccff3bd2b6b801ec0250bb6f3c9c5da5a48e19709dbc23674b88d0fb1be0"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BWF1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BWF1.png.gz",
+      "size": 253404,
+      "sha256": "9226bb8d9064fec0a7b671405cc659eed7b6079a3a0ba7ea8426f93a99e90ad6"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BWF2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BWF2.png.gz",
+      "size": 251461,
+      "sha256": "788d28de1335f85353cdc878fceaf10f9d5af770db8a7f3881f5cd905664ef54"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BWS2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BWS2.png.gz",
+      "size": 229992,
+      "sha256": "1d1b1bac98db9a83bdc049e4b4fd9fb70c2ed4182f2106452ef6f21700ca58e1"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CFF1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CFF1.png.gz",
+      "size": 204704,
+      "sha256": "15d647064e07ce431fd18b56290eb797a896267d7ca6231ca194f7e887d9e737"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BWS3.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BWS3.png.gz",
+      "size": 251607,
+      "sha256": "f0071fb61d6382d283b5b52b3eca7a91afd8ddcfd52419ab06f603c2e60ce058"
+    },
+    {
+      "path": "DataTable/Store_3.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/Store_3.edf.gz",
+      "size": 216214,
+      "sha256": "412c8b8672b8433f415bd68db1d55e44d248467254ef78e9470fa7989f2e0da8"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_BWS1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_BWS1.png.gz",
+      "size": 261950,
+      "sha256": "56bcc234d71154ecc7b95d7eb5eaef7a3639748f6dbe24daadf38f5ed0a51d7d"
+    },
+    {
+      "path": "DataTable/Store.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/Store.edf.gz",
+      "size": 216329,
+      "sha256": "827b0f68ef754a0b8c5b0aaaa690ab8c9e7f5015f9627daf68a36cedf499e592"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CFS2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CFS2.png.gz",
+      "size": 217505,
+      "sha256": "37daf7fc555fb2c1795bb79192008071a729c6cc8168fa4b78d510c39897d726"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CFS3.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CFS3.png.gz",
+      "size": 205916,
+      "sha256": "f2c38a26e6d7c2939a9ed7d1554e30123753b833f9e9bec82d866ddb131b3f03"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CFF2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CFF2.png.gz",
+      "size": 202286,
+      "sha256": "63c1ab6cd053a0a9b2d82fc56353978fee7cffe5acad62e0fc839eb874e5feff"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CFS1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CFS1.png.gz",
+      "size": 227265,
+      "sha256": "0f3174c3b8213a44d6d8d1ffccce68d86aff525aa0aab8bb66c2fd11bd768c4e"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CRF2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CRF2.png.gz",
+      "size": 199047,
+      "sha256": "db2fefdc9cb54d7819cfdaa0ffd34e79ced33e76e9136f92850815792615082c"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CRS1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CRS1.png.gz",
+      "size": 211493,
+      "sha256": "99f69e73bfd63a992aa7656281b62eb2775f15495ff672773f077ee57eecb456"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CRF1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CRF1.png.gz",
+      "size": 190839,
+      "sha256": "5a62423f9977cda54681155807130bf637223cd793e2bbb88df8d8ce06b0424a"
+    },
+    {
+      "path": "DataTable/translations.json",
+      "url": "https://cdn.x2game.net/update/DataTable/translations.json.gz",
+      "size": 747788,
+      "sha256": "927b13c9e8c3409885e8d3de7208a278cace81a26a70c85b3697e40cf28246ee"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CRS2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CRS2.png.gz",
+      "size": 229512,
+      "sha256": "ee279043d77b8a6279cc7763b760635e40fd43a865bd90e6da34200c63a271e1"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CWF1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CWF1.png.gz",
+      "size": 207012,
+      "sha256": "5dc852d22db087e620a965828569d275ad73ad8e72a4f43df79439b947459e0d"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CRS3.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CRS3.png.gz",
+      "size": 238039,
+      "sha256": "9ef77ca423579c65e2a0f312231ef69b8b312b70b7603ecbbc44c49717e9cbfc"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CSF1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CSF1.png.gz",
+      "size": 180696,
+      "sha256": "473f3d9be93913f0165183ecb7c341e11bb677829aa248776a71cc59d0caeae5"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CWF2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CWF2.png.gz",
+      "size": 198029,
+      "sha256": "08d6bc44f0bb6a785674f3aa41d43d38091912dd00c5023c1511df10ca100cad"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CSS1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CSS1.png.gz",
+      "size": 225103,
+      "sha256": "e4b5ba395db623cb9aa0961bec45f3941e7268ae07162215b6232503687d2620"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-10.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-10.dds.gz",
+      "size": 6870,
+      "sha256": "b70a1b3bc03effbbc36dc7c81033376a6eeaf12c264a4ae232607002e825bb64"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CWS1.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CWS1.png.gz",
+      "size": 227508,
+      "sha256": "1530edf7e33d13584dfb692e8da519154da5ed666ee3101b6e906d90fde2a872"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-12.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-12.dds.gz",
+      "size": 6330,
+      "sha256": "6edeca33a7c4a8d0c6d1ddef7c1cb6b65999d1f18cfebb785709c2e3e2b69f4b"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CWS2.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CWS2.png.gz",
+      "size": 218793,
+      "sha256": "6ca03c139defa0e985edc51deb2e15bdc75eb1622345461636a6b14df1281c71"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-11.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-11.dds.gz",
+      "size": 10816,
+      "sha256": "938282e26318ed1bf4a9d3beaf4406a55c85afaa25720846d305276e69134de6"
+    },
+    {
+      "path": "System/GUI/Data/classImage/classImage_CWS3.png",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/classImage/classImage_CWS3.png.gz",
+      "size": 225978,
+      "sha256": "00652055eb410ec34ec53e69fd65b437ecd30d4c967edae295ac25795bdafe52"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-23.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-23.dds.gz",
+      "size": 6379,
+      "sha256": "c3e9e4291a38c6853b7fea5d6e75ab5bdc04ac03e4ab6d6b7849130735bda914"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-21.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-21.dds.gz",
+      "size": 3747,
+      "sha256": "28e3b8b3a7d8bac3cce7f9df6d93fb47d22d84183fa21ec7148020941984d7ae"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-24.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-24.dds.gz",
+      "size": 5704,
+      "sha256": "b0400cf61e9e161359c1e28bcf588c8976bd0970f288189d3c019a30051155ea"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-25.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-25.dds.gz",
+      "size": 11311,
+      "sha256": "d8fcd61418983ee1bffda5707d5a1cdc3570d6b53c67bd6abdd8c65751bf0abd"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-22.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-22.dds.gz",
+      "size": 52151,
+      "sha256": "f8133682a924ad288882efe4f39d831b65b80625b8224d8944743c1ec256f183"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-26.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-26.dds.gz",
+      "size": 9684,
+      "sha256": "01e08eea58fc7c8932febdc03f3a9cdec972fa68480435d8fe2f32ae185b4ac3"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-19.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-19.dds.gz",
+      "size": 62222,
+      "sha256": "1e2fed97e6f3411a15eeaf5448b2007d52882894fca5f2425d801aaa85a0e229"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-28.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-28.dds.gz",
+      "size": 25169,
+      "sha256": "905fbf3ca91e2a7926d15b20dfb4ddcdd5efc42481dc34fa0e74ea62cec4daea"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-32.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-32.dds.gz",
+      "size": 1342,
+      "sha256": "6eec97e071fbf33762332daafffaa3b78a318982cb04b1f9c486d3b664eb4679"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-30.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-30.dds.gz",
+      "size": 9889,
+      "sha256": "6d30a18f476e4cff78f300ae942ca949f3e14e5dd2fbb4183a0e31e1069095ed"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-3.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-3.dds.gz",
+      "size": 114218,
+      "sha256": "c0eae23e215901771d695f96c0a18ceef2f2a8c05b5288bc0c5eb533b7ab8f93"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-34.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-34.dds.gz",
+      "size": 8789,
+      "sha256": "0c52873877b7818ea88ae59a69b61f95ed9552235d2f127a542643d2b469787f"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-27.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-27.dds.gz",
+      "size": 319388,
+      "sha256": "0d523a82d4b8386161d516bebc4929748e41fb419876a0e134fdb5ef35f81c85"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-35.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-35.dds.gz",
+      "size": 4605,
+      "sha256": "99fd2d27cb6f3590fe677d6ee97eac1415408674de4819c52fcc0de6f68885f2"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-33.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-33.dds.gz",
+      "size": 4890,
+      "sha256": "e651df4d7473a88f6d8af51d29d585f0c18c385f3865550d07af97ef7ac2281a"
+    },
+    {
+      "path": "DataTable/QuestData/QuestText.pak",
+      "url": "https://cdn.x2game.net/update/DataTable/QuestData/QuestText.pak.gz",
+      "size": 342621,
+      "sha256": "71e9bc0d6a833f645381c8f86c99cd423ec9b45b66c0c9e038e5ee966cdaa426"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-29.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-29.dds.gz",
+      "size": 313532,
+      "sha256": "24768a965b97201c360e4bbbe9c4412139e973bdc8bca2ea38205735e49c408e"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-36.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-36.dds.gz",
+      "size": 38165,
+      "sha256": "932cfb19f326ca985e47fd2f454444daf900954a4c284005ffa62b4f65af4694"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-37.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-37.dds.gz",
+      "size": 16893,
+      "sha256": "0deb13f9d98d59cda03190b7c1119a8cdf2a5e4a7fad59e9c4a84edefd8bab8c"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-4.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-4.dds.gz",
+      "size": 33296,
+      "sha256": "7c96e3413c10fc1796078438f26d8b7a8bfa7afd19038e5c4345ac8e5e614575"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-7.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-7.dds.gz",
+      "size": 4005,
+      "sha256": "7e6e33c92c26779d90b50814e75564f9cb286add8ee5cdc16a12a4578f63d67f"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-8.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-8.dds.gz",
+      "size": 26321,
+      "sha256": "fa250f30db50de86292db2047c937397df9484bae2396032528a0d5fee4bd0e8"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-1.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-1.dds.gz",
+      "size": 629472,
+      "sha256": "1c981c07eba8a746d6865ae55bd5d8267cb7cd0eebe6aaa0bb0fdb334f1ae947"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-13.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-13.dds.gz",
+      "size": 559745,
+      "sha256": "cd992942fe06d01936f83590db0c9b8c19f3f298e0b11eb77de7ee9c967d3574"
+    },
+    {
+      "path": "System/GUI/Data/Header_NHN_SW_FTTP-KafuTechno.ttf",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Header_NHN_SW_FTTP-KafuTechno.ttf.gz",
+      "size": 1359588,
+      "sha256": "3b01cdf0b2d36b7d7e1b0a0eb23815fdcd591462757113e06b10ac4801749a22"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-14.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-14.dds.gz",
+      "size": 294189,
+      "sha256": "4d9be7504b2a7e5a204f5b1cf10d3078b9b084c12294e49dc354160d5c653032"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-18.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-18.dds.gz",
+      "size": 463846,
+      "sha256": "1541d04f5e4c99aa898c06d1ba115468ac5b5b5b2e6150201debb73a507f8da1"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-17.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-17.dds.gz",
+      "size": 459071,
+      "sha256": "f1844e143ebf1bf895d1c13bd3fe654f1a27aba410687f8706c6625876026c73"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-16.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-16.dds.gz",
+      "size": 455007,
+      "sha256": "d4985cb301fd0689294baa012ea54141b13346641a71ff5908ded1f6a5d2fbdc"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-5.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-5.dds.gz",
+      "size": 209364,
+      "sha256": "ccc09acc07c647c291e61cab6ed13014651f5ebc72e51c10967717e911401d3e"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-2.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-2.dds.gz",
+      "size": 126643,
+      "sha256": "a6e40a9cad7bcec741452916676c263a98586600ea5014f542faf4ee86e0c56c"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-20.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-20.dds.gz",
+      "size": 463499,
+      "sha256": "52284c6acf6b9b8eda160f9819a0d6e3c5834344b350e8f7fc970a52f6b2780e"
+    },
+    {
+      "path": "System/GUI/Data/5_NanumGothic.ttf",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/5_NanumGothic.ttf.gz",
+      "size": 2265722,
+      "sha256": "4569ec609c5c46eedcf7a5920c950cc553f31fa6e9637c640a15d51c3d54bbf5"
+    },
+    {
+      "path": "System/GUI/Data/Malgun Gothic.ttf",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Malgun Gothic.ttf.gz",
+      "size": 1013328,
+      "sha256": "c589d9b5a5a7ccd1859845391bcb7697f1d06e6c4e67c7f50cab1793c9ebcb69"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-9.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-9.dds.gz",
+      "size": 244074,
+      "sha256": "be897bfa9180e1c05efe0559e157da0abfa54faa12f3e4b316c263d0af3232ba"
+    },
+    {
+      "path": "System/GUI/Data/Malgun Gothic Bold.ttf",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Malgun Gothic Bold.ttf.gz",
+      "size": 1027687,
+      "sha256": "c50de902928df441e24988f836fcfc0131d75b49428dd8fdfbbf862bbe5d92b7"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-31.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-31.dds.gz",
+      "size": 43826,
+      "sha256": "dabb71f911f7007278ca203c79de3c96a4ab003dd097ef75a693f9d3565acaa0"
+    },
+    {
+      "path": "System/GUI/Data/Loading/001.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/001.dds.gz",
+      "size": 369701,
+      "sha256": "b00643030d385666bbf1adae9c15f90633f4b4469d60553e5de6ca6923890def"
+    },
+    {
+      "path": "System/GUI/Data/Loading/004.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/004.dds.gz",
+      "size": 349566,
+      "sha256": "169195031b97c454e0d8e7f6b1e176e3dd6fe60afa1f98a56f9f242b0bba07d5"
+    },
+    {
+      "path": "System/GUI/Data/Loading/002.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/002.dds.gz",
+      "size": 343717,
+      "sha256": "a96cbc40e9e2577ccc0bb94ede897d7358d04addb82663069fd8bf51409aa267"
+    },
+    {
+      "path": "System/GUI/Data/Loading/006.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/006.dds.gz",
+      "size": 343868,
+      "sha256": "ce65d1d42e852c0c33c863c8d90523c1b4ef35cbe913a607a2882065fc97cc8e"
+    },
+    {
+      "path": "System/GUI/Data/Loading/003.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/003.dds.gz",
+      "size": 354831,
+      "sha256": "d017b5537d6e9efc727f23d80198e5c9e6f00714b84f35719ea605aad7472ecc"
+    },
+    {
+      "path": "System/GUI/Data/Loading/008.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/008.dds.gz",
+      "size": 348077,
+      "sha256": "dd21cb6c68eb77b3d9210daa0f5da3ea48c51d7ccde8554f1e5578e5c475479e"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-39.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-39.dds.gz",
+      "size": 52271,
+      "sha256": "5377207d457176686def15071fffbaaeb5d04ed70618fc442c41922980e360a2"
+    },
+    {
+      "path": "System/GUI/Data/Loading/005.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/005.dds.gz",
+      "size": 344576,
+      "sha256": "8cb839845db7fa09e3874c6a76ef900f09a7c92f35a66e97dc88885d0fcb042f"
+    },
+    {
+      "path": "System/GUI/Data/Loading/007.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/007.dds.gz",
+      "size": 326677,
+      "sha256": "1a1fd95c17874aee85f26d661fb6ebc24d0f5eb562ddd1adeb4ef8de3f138a52"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-38.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-38.dds.gz",
+      "size": 708381,
+      "sha256": "2669c5ec54ff7bd6cf81de9a581f4f333525808771056b90b90507782f4695c3"
+    },
+    {
+      "path": "System/GUI/Data/Loading/009.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/009.dds.gz",
+      "size": 326557,
+      "sha256": "c3ea5b41c42869ea802d10b3b3a02ab218f50818e80420b4b0becc4436c4e4d4"
+    },
+    {
+      "path": "System/GUI/Data/Loading/010.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/010.dds.gz",
+      "size": 302147,
+      "sha256": "ee8f26608f99fba69436b672c8f48d6c3c841dffc341441b21f844e96f8e6043"
+    },
+    {
+      "path": "System/GUI/Data/Loading/011.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/011.dds.gz",
+      "size": 339487,
+      "sha256": "b956da07926f2d2d26787a46c93db5792107656dfba26c51983cddc459ee3189"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-40.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-40.dds.gz",
+      "size": 351019,
+      "sha256": "841a905f4288ed9430ed589069d86760d99ffe8cd9e2b004496838101230a547"
+    },
+    {
+      "path": "System/GUI/Data/Loading/012.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/012.dds.gz",
+      "size": 313228,
+      "sha256": "0eb0d36c83acd79a168c521537b1ca5f3e1d08214378d285f7176a9b488be47d"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-6.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-6.dds.gz",
+      "size": 786785,
+      "sha256": "46c878cfa98b54b57a0c52a4c86735aa6117dd56f39cbf414de0c4388b213c06"
+    },
+    {
+      "path": "System/GUI/Data/Loading/013.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/013.dds.gz",
+      "size": 335353,
+      "sha256": "10de12e0bfbdfa17dba1a8711e139d129e30673c3b389bcd6ebe797f254cd183"
+    },
+    {
+      "path": "System/GUI/Data/Loading/015.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/015.dds.gz",
+      "size": 377132,
+      "sha256": "e0b6817b735bff2980a921a9070db96e69b3c260e0791354254751b8db8754b7"
+    },
+    {
+      "path": "System/GUI/Data/Loading/014.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/014.dds.gz",
+      "size": 344977,
+      "sha256": "0aefad8de74006662358d5c4888a2c6a41acb7007d3b44fa964342d0c4914c1b"
+    },
+    {
+      "path": "System/GUI/Data/Loading/016.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/016.dds.gz",
+      "size": 351944,
+      "sha256": "ea100c51b7104c9d8a8d9291ee581ab3de765927b6009b1cb9f5fff2e5d000cf"
+    },
+    {
+      "path": "DataTable/Resource.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/Resource.edf.gz",
+      "size": 920715,
+      "sha256": "53743cb834f3d5ad113112da9a11c53502c0c593fff6d73df8b6f1e2329cfacb"
+    },
+    {
+      "path": "System/GUI/Data/Loading/017.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/017.dds.gz",
+      "size": 250991,
+      "sha256": "bf23a86620d248b255474afd7fc8ce43b00d9fff4eb9cbfc065ad5bb84fa1937"
+    },
+    {
+      "path": "System/GUI/Data/item_spr/item-1-15.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/item_spr/item-1-15.dds.gz",
+      "size": 570066,
+      "sha256": "cf750f7d1833f0bb3092aabc012c41c29ab5332241d677c8023727796a641601"
+    },
+    {
+      "path": "System/GUI/Data/Loading/020.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/020.dds.gz",
+      "size": 156578,
+      "sha256": "9bb354a3a7440590e1227755f007f7eab4740f4867c714e952d5017c38cd646c"
+    },
+    {
+      "path": "System/GUI/Data/Loading/018.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/018.dds.gz",
+      "size": 353892,
+      "sha256": "3fdb58c53902131f63cf944a3865cb2399bb3091d9b8c2ea1943ba27ed23b41f"
+    },
+    {
+      "path": "System/GUI/Data/Loading/019.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/019.dds.gz",
+      "size": 250847,
+      "sha256": "9ce9d05b1812e648238346b028d4a6808cdc7240545fdbba413b96c26ec3c96b"
+    },
+    {
+      "path": "System/GUI/Data/Loading/022.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/022.dds.gz",
+      "size": 225686,
+      "sha256": "83fbf90759a65aef7d7ac2c075f671044d1f223fb6ccca9a6416cde6d2507b4d"
+    },
+    {
+      "path": "System/GUI/Data/Loading/023.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/023.dds.gz",
+      "size": 303536,
+      "sha256": "e0ac42ee77f66e5adba2f74cc7f5a7e9c4ce32206f989083b4262aa12f6aa954"
+    },
+    {
+      "path": "System/GUI/Data/Loading/021.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/021.dds.gz",
+      "size": 269051,
+      "sha256": "1725f7625ebab94680c9ad2590cef8f79fca44a53a4981a2be4e1e16786c1607"
+    },
+    {
+      "path": "System/GUI/Data/Loading/024.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/024.dds.gz",
+      "size": 311734,
+      "sha256": "6ef207a70e3ff840a0efebf2384b5e661e4d1b214dbc482e22bd16625dc0d8a0"
+    },
+    {
+      "path": "System/GUI/Data/Loading/027.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/027.dds.gz",
+      "size": 261899,
+      "sha256": "25cbaa1405f854f5d13d1db782902fd7e48d92ba9ac932d6b8a4e538eaefd8fa"
+    },
+    {
+      "path": "System/GUI/Data/Loading/025.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/025.dds.gz",
+      "size": 243194,
+      "sha256": "423b1ab628f9e0254a42920dd69cff25f967adb5bf183cb23c0f607816587e8f"
+    },
+    {
+      "path": "System/GUI/Data/Loading/026.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/026.dds.gz",
+      "size": 325507,
+      "sha256": "00cd09516dd097d51783ecb362d4c7730ec3512d14cf8b6af6bd95ca11d83e1c"
+    },
+    {
+      "path": "System/GUI/Data/Loading/029.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/029.dds.gz",
+      "size": 310736,
+      "sha256": "e18d3d848cd4b67f55fc98cccba11e58256340e08817d2acb615601b85a1097e"
+    },
+    {
+      "path": "System/GUI/Data/Loading/028.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/028.dds.gz",
+      "size": 316773,
+      "sha256": "a9ac387a175cd4fd7a3eb6bf955a79b49061448819664bfdc92f41c971a93b89"
+    },
+    {
+      "path": "System/GUI/Data/Loading/030.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/030.dds.gz",
+      "size": 279094,
+      "sha256": "248372f298b3144e97d41462eb94a3ed5655f354fa3229850c1c237ae46e7757"
+    },
+    {
+      "path": "System/GUI/Data/Loading/032.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/032.dds.gz",
+      "size": 257087,
+      "sha256": "900e31b1f8881cfa51ac445a519ef3497a81978216be89a1b94973f78e2c7068"
+    },
+    {
+      "path": "System/GUI/Data/Loading/031.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/031.dds.gz",
+      "size": 290663,
+      "sha256": "9b5ea155535cc9057bdefcaeebbb42fac07b4b2e5ed3f419bf38a98e8072d68d"
+    },
+    {
+      "path": "System/GUI/Data/Loading/033.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/033.dds.gz",
+      "size": 385144,
+      "sha256": "5cc9c1be6f276b8596eebfbacf9b79cc2829b89b377b95f3d2b771379a46908b"
+    },
+    {
+      "path": "System/GUI/Data/Loading/035.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/035.dds.gz",
+      "size": 339929,
+      "sha256": "648565bd8d848f90a68e631359b5db16e466c13abead1646f47458a2053c04c3"
+    },
+    {
+      "path": "System/GUI/Data/Loading/034.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/034.dds.gz",
+      "size": 349440,
+      "sha256": "f794a30849cc1d0308566e7db828fe34575de8e19e13acdef96c143444b33440"
+    },
+    {
+      "path": "System/GUI/Data/Loading/037.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/037.dds.gz",
+      "size": 360767,
+      "sha256": "515f62d96cc69e3786b7c4a58ea28df6e83394c77abeb7babde21a9f6c747d70"
+    },
+    {
+      "path": "System/GUI/Data/Loading/036.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/036.dds.gz",
+      "size": 338251,
+      "sha256": "2c08dd6a034a644764a2df15571775a2a29c0517c3db4dda70efdbe8df4da3c3"
+    },
+    {
+      "path": "System/GUI/Data/Loading/039.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/039.dds.gz",
+      "size": 308217,
+      "sha256": "6cf09356f4cd9d4beff63bb13fc5651b3f7c5a2f9b5e8aeff5eccb753c3e417a"
+    },
+    {
+      "path": "System/GUI/Data/Loading/042.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/042.dds.gz",
+      "size": 324873,
+      "sha256": "21e0c1072881c5d671929d9e355c31075e057bcd19a8f5bd3b31a60a0aebe6ed"
+    },
+    {
+      "path": "System/GUI/Data/Loading/041.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/041.dds.gz",
+      "size": 364294,
+      "sha256": "7f19241ba01009ea4e2a422c887d40767a1d40e3897886ae729b6ebaecd39429"
+    },
+    {
+      "path": "System/GUI/Data/Loading/040.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/040.dds.gz",
+      "size": 327774,
+      "sha256": "5d7f434763b42387494ac85ab4b1120cd546047f2020159ff7b17403301121b5"
+    },
+    {
+      "path": "System/GUI/Data/Loading/038.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/038.dds.gz",
+      "size": 329186,
+      "sha256": "e6b5c4ffa1ab7375883454d0408c7628fd9d89de39b76d7afbca095aee5daf5b"
+    },
+    {
+      "path": "System/GUI/Data/Loading/046.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/046.dds.gz",
+      "size": 301275,
+      "sha256": "47b9311771030bf35d64f5a0f31b1e03438dadbd8a924f45904f95d6d6d99e9b"
+    },
+    {
+      "path": "System/GUI/Data/Loading/043.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/043.dds.gz",
+      "size": 263942,
+      "sha256": "c347a804b0bc4c74fed0adbd50bc6ac8e050e0fbc9ed248c3616c9a805658af8"
+    },
+    {
+      "path": "System/GUI/Data/Loading/044.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/044.dds.gz",
+      "size": 347965,
+      "sha256": "4aca07ea75b21b61e8b3bbe72a601fc558b9767ca20744719ee60e2ca03501a7"
+    },
+    {
+      "path": "System/GUI/Data/Loading/047.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/047.dds.gz",
+      "size": 323688,
+      "sha256": "74b7549ace6742c5c6a7bd5db712aa8af28d76596df1014e35f6777e3d4a0ed4"
+    },
+    {
+      "path": "System/GUI/Data/Loading/045.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/045.dds.gz",
+      "size": 379575,
+      "sha256": "c42ebb55470d9d693e91af5e35dc860c221d39d4357c524fd7c4a042788c062a"
+    },
+    {
+      "path": "System/GUI/Data/Loading/050.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/050.dds.gz",
+      "size": 344026,
+      "sha256": "f0d5d9b7e05efa57d925ce3533e4bbadacabb05936dd9382c05941db38357dbc"
+    },
+    {
+      "path": "System/GUI/Data/Loading/048.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/048.dds.gz",
+      "size": 340188,
+      "sha256": "fda98666cdb92ff270882247f2b492113fbe202ada67f7ce2debd048ace5428e"
+    },
+    {
+      "path": "System/GUI/Data/Loading/049.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/049.dds.gz",
+      "size": 339830,
+      "sha256": "6736fcc4eabcdf20525e2c34f9f8a421b71be77f4077bae84f5af02a86424b23"
+    },
+    {
+      "path": "System/GUI/Data/Loading/051.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/051.dds.gz",
+      "size": 343402,
+      "sha256": "2440cedebf6b4b5d63d1469926aec8222232dd0163b49ec1acd61751844e93fd"
+    },
+    {
+      "path": "System/GUI/Data/Loading/052.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/052.dds.gz",
+      "size": 338581,
+      "sha256": "69b9cbd422d49b7d8d6c69ce9f3f3c6feeed87447fa1859e0a0f98b467e6c1d2"
+    },
+    {
+      "path": "System/GUI/Data/Loading/054.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/054.dds.gz",
+      "size": 346197,
+      "sha256": "2504bedf379d758284c09fc78ebc0121a43a9ef213d122a8e7dbfe175a6ba6ba"
+    },
+    {
+      "path": "System/GUI/Data/Loading/055.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/055.dds.gz",
+      "size": 336762,
+      "sha256": "77d20f39f0bb5d817d8bcb17d8c9d2ea17ee15c88a1ca0dbd243d0b1447e473b"
+    },
+    {
+      "path": "System/GUI/Data/Loading/053.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/053.dds.gz",
+      "size": 343836,
+      "sha256": "cef1b70799cd80162ca6652bea51020434045940921de50292bdb50e91d3a733"
+    },
+    {
+      "path": "System/GUI/Data/Loading/057.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/057.dds.gz",
+      "size": 389375,
+      "sha256": "89295d9e6c66ffda0cb77c23de5e29b177c753b84e9b5ebab682c7b284e158ea"
+    },
+    {
+      "path": "System/GUI/Data/Loading/056.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/056.dds.gz",
+      "size": 331712,
+      "sha256": "48eb4f0deb3daf83c9c0a8de34ba80fb199174b58b7d3ea543ab1c8c1ae4313d"
+    },
+    {
+      "path": "System/GUI/Data/Loading/059.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/059.dds.gz",
+      "size": 340377,
+      "sha256": "6c04db2f3b56b4d3ab0a422d1a3368e9bc4c7e93e61e7e6bd59e6116694225cc"
+    },
+    {
+      "path": "System/GUI/Data/Loading/058.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/058.dds.gz",
+      "size": 350834,
+      "sha256": "0e6fa44ded5ab67b534946d64f573520631da73e6212513ccf1f339940d7f152"
+    },
+    {
+      "path": "System/GUI/Data/Loading/061.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/061.dds.gz",
+      "size": 373998,
+      "sha256": "755f61d0d2966fe37831dd1c7dea2f5253a647925376891b895b8a6bc2af36ee"
+    },
+    {
+      "path": "System/GUI/Data/Loading/060.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/060.dds.gz",
+      "size": 363685,
+      "sha256": "fa7a9aecb8931d75835cffdfa87512ee984f3b1cdde002f19a76bed342edab4c"
+    },
+    {
+      "path": "System/GUI/Data/Loading/063.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/063.dds.gz",
+      "size": 345753,
+      "sha256": "d38861d7080f83ec41a5334e098f1340f0a0ff91df740710c2eea1d1d1389b4a"
+    },
+    {
+      "path": "System/GUI/Data/Loading/064.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/064.dds.gz",
+      "size": 352295,
+      "sha256": "cad94b6704c05afc995ab0f3c947ff222a9b3e9d320dffc59378f157c784c5b0"
+    },
+    {
+      "path": "System/GUI/Data/Loading/062.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/062.dds.gz",
+      "size": 307108,
+      "sha256": "74fdbe593d625f3cbb09262f101bbf95c33c69fd1fb79527fc45eb7019f17fb7"
+    },
+    {
+      "path": "System/GUI/Data/Loading/067.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/067.dds.gz",
+      "size": 336590,
+      "sha256": "5a3e9c79f60d2ef8c6704e43526dd3b8e1d17f5b3ac58e6693f7f6329db6df80"
+    },
+    {
+      "path": "System/GUI/Data/Loading/066.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/066.dds.gz",
+      "size": 344175,
+      "sha256": "8b7f0f403ff2c6e7aec1c4d2e7c14915c93ae60938614bc9705031902a78fdaa"
+    },
+    {
+      "path": "System/GUI/Data/Loading/065.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/065.dds.gz",
+      "size": 301541,
+      "sha256": "1bd6dd97c4335d59e0859e7733faec40244eee13b179e8a6017b0efbc53a9d00"
+    },
+    {
+      "path": "System/GUI/Data/Loading/068.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/068.dds.gz",
+      "size": 320439,
+      "sha256": "8945aaf467306855b8bbab8948b9558994078f40810317787cdd6dc6f7b5c078"
+    },
+    {
+      "path": "System/GUI/Data/Loading/070.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/070.dds.gz",
+      "size": 345733,
+      "sha256": "1bb3688d6e5171df2eb5a89334e8fff9a2151b459a551cec7adf2540a05de788"
+    },
+    {
+      "path": "System/GUI/Data/Loading/071.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/071.dds.gz",
+      "size": 317219,
+      "sha256": "0e4e1637b03a11554eee06fb6c359f8f288fd3d211935412cc05898c4008e7a5"
+    },
+    {
+      "path": "System/GUI/Data/Loading/069.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/069.dds.gz",
+      "size": 353651,
+      "sha256": "9f8831a4f42f17a515b472d0782b923efc2f89be461a7672a358b9afea67e34f"
+    },
+    {
+      "path": "System/GUI/Data/Loading/073.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/073.dds.gz",
+      "size": 306108,
+      "sha256": "dc09f7a448782403ee4a5b1a4772cc65d6d81605f0058102dfbe1538a3905972"
+    },
+    {
+      "path": "System/GUI/Data/Loading/072.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/072.dds.gz",
+      "size": 339124,
+      "sha256": "21280e15dc5281e33ac79578470dd1a03c3b13ca3582a1d51f582912193acb9e"
+    },
+    {
+      "path": "System/GUI/Data/Loading/074.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/074.dds.gz",
+      "size": 229969,
+      "sha256": "e2dcdca6fe5878d51288d595530b1fcdf2f24b86d1ef2817e2ced5a9dc1843d3"
+    },
+    {
+      "path": "System/GUI/Data/Loading/075.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/075.dds.gz",
+      "size": 335877,
+      "sha256": "a294c8913a3f1c8cc551501d1a795366db3bc40fcbe7bc9a5fbe22e5b713f778"
+    },
+    {
+      "path": "System/GUI/Data/Loading/076.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/076.dds.gz",
+      "size": 321711,
+      "sha256": "3365f15804a2d416eea8dc4d7f33e1af22f7e1c17aa05b54208064fbabcbc8d8"
+    },
+    {
+      "path": "System/GUI/Data/Loading/077.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/077.dds.gz",
+      "size": 353328,
+      "sha256": "624cca28c6c31ddfe28b47ba29d3bbbc100758ae8f26da5ede70d3e7aca88f9d"
+    },
+    {
+      "path": "System/GUI/Data/Loading/081.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/081.dds.gz",
+      "size": 386891,
+      "sha256": "ca3292ac2d1e18d4bcbb2aabe60dc3469b24f31e60e879fa58cbae15ed598e75"
+    },
+    {
+      "path": "System/GUI/Data/Loading/078.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/078.dds.gz",
+      "size": 354816,
+      "sha256": "5a92d6b8108332275a085dfd2d8909127a4c75cd2a64fcf2fbb325aee8096a91"
+    },
+    {
+      "path": "System/GUI/Data/Loading/080.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/080.dds.gz",
+      "size": 273726,
+      "sha256": "285bc97b9fbdb42a5ff3fbdac613a95af5e347a732521a4a38b9dbd41da21ad3"
+    },
+    {
+      "path": "System/GUI/Data/Loading/079.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/079.dds.gz",
+      "size": 326952,
+      "sha256": "ce25ef6d406a4a0599c6b78abce80fa942973502c18cbd7f1ce74946e88ee1c3"
+    },
+    {
+      "path": "System/GUI/Data/Loading/083.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/083.dds.gz",
+      "size": 334386,
+      "sha256": "8ec9e7a8b6bd28c79e248e0e9cc10874b7fa463d211b58821fa3c1851046dc37"
+    },
+    {
+      "path": "System/GUI/Data/Loading/085.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/085.dds.gz",
+      "size": 340592,
+      "sha256": "87ca8c5870b9cd184410157219991e12d04369f59879ec461e232e6f39860400"
+    },
+    {
+      "path": "System/GUI/Data/Loading/082.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/082.dds.gz",
+      "size": 277655,
+      "sha256": "834bccadadd2faf53b3abf6db92126b88a856878a2724c5d2558b39e34f4af7a"
+    },
+    {
+      "path": "System/GUI/Data/Loading/084.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/084.dds.gz",
+      "size": 381328,
+      "sha256": "26ee247e950cc35cf897e6fadf58a1df4a6bd86045eb0cd1686087c0b3c1d59c"
+    },
+    {
+      "path": "System/GUI/Data/Loading/087.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/087.dds.gz",
+      "size": 312147,
+      "sha256": "f422aef64c21d1b5925b608b828f3cf15a165c2c1c1d47207b709f158e6f395e"
+    },
+    {
+      "path": "System/GUI/Data/Loading/086.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/086.dds.gz",
+      "size": 267815,
+      "sha256": "f0c004c927359ba879ffa74b5528134353e1a84d6282cfc15cb0d3740e0a4fb1"
+    },
+    {
+      "path": "System/GUI/Data/Loading/088.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/088.dds.gz",
+      "size": 336952,
+      "sha256": "3be6d4a3a42359f8e0362e00ac813443a9f95d8f316e2341686bae18381f1b53"
+    },
+    {
+      "path": "System/GUI/Data/Loading/089.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/089.dds.gz",
+      "size": 316691,
+      "sha256": "294a691271f8850725c18d11e644b88893d8eacb1cbc1363073eeaf205a22975"
+    },
+    {
+      "path": "System/GUI/Data/Loading/090.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/090.dds.gz",
+      "size": 287560,
+      "sha256": "9aeb98f225b6558169e9f5e8f1ec1c6de20b6d50c217721e795ac32d01513aad"
+    },
+    {
+      "path": "System/GUI/Data/Loading/091.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/091.dds.gz",
+      "size": 332220,
+      "sha256": "da538e1f0eab15ce28a6a845dcdccf93c1e3aa6de0faa4b6ac1a637906c7b590"
+    },
+    {
+      "path": "DataTable/en-id/nditem.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-id/nditem.edf.gz",
+      "size": 4927162,
+      "sha256": "9836a221d0e4bfc739fbc4d4c0401c5323cd6b572046a724d40527b7bdf7edc9"
+    },
+    {
+      "path": "System/GUI/Data/Loading/094.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/094.dds.gz",
+      "size": 328823,
+      "sha256": "83bdc41476e3524b8fd1358ad3f46cfa2d4fad6730844779ee8c34941381fb2a"
+    },
+    {
+      "path": "System/GUI/Data/Loading/092.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/092.dds.gz",
+      "size": 369010,
+      "sha256": "79f72f43cdc37429360382035681128c5d50cc07f17e1e12aea2d9ae9a932823"
+    },
+    {
+      "path": "System/GUI/Data/Loading/093.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/093.dds.gz",
+      "size": 304908,
+      "sha256": "0cf86500ef6f13fe7e543c94c6192eb0e25c2001a747565e63baae0b32343c2d"
+    },
+    {
+      "path": "System/GUI/Data/Loading/095.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/095.dds.gz",
+      "size": 309032,
+      "sha256": "64d21710ac45e70c012a5b56bfacb0e18b1a4df8a2680078462e385f31ef9923"
+    },
+    {
+      "path": "DataTable/en-gb/NDItem.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-gb/NDItem.edf.gz",
+      "size": 5002009,
+      "sha256": "cbf7cee7b4d51ea9fe4eda4d38b15095958e62273917f633949850f69de074e3"
+    },
+    {
+      "path": "System/GUI/Data/map/avatarIcon.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/avatarIcon.dds.gz",
+      "size": 741,
+      "sha256": "6e72f3e5c3e0b7fa24bb3ab42ae4867f36c29e042ce65e6c1fcb9b52bfed364e"
+    },
+    {
+      "path": "System/GUI/Data/Loading/099.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/099.dds.gz",
+      "size": 333526,
+      "sha256": "d50ae107ae4cfeb05ad06dc11a353cae4455bb6a755e1912a999407368a86a63"
+    },
+    {
+      "path": "System/GUI/Data/Loading/096.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/096.dds.gz",
+      "size": 274422,
+      "sha256": "193243ee6250d6894ee30e56fd44f4ee1a07a118dc20884fe89d35a66137c5f9"
+    },
+    {
+      "path": "System/GUI/Data/Loading/097.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/097.dds.gz",
+      "size": 318179,
+      "sha256": "cc18e0206dc5b60264f5e08c94a320ee11ef540e07673e3be2fb9e0ce6b2e24a"
+    },
+    {
+      "path": "System/GUI/Data/Loading/098.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/098.dds.gz",
+      "size": 340078,
+      "sha256": "478e180e07a098b544514d9e8280381242da27b5c1045fe668f123140de8cc16"
+    },
+    {
+      "path": "System/GUI/Data/Loading/100.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/100.dds.gz",
+      "size": 343259,
+      "sha256": "b6dd8a4c0e72ad24959ec87ac61dae458a83614b945f0dce268ea4f68f157068"
+    },
+    {
+      "path": "System/GUI/Data/map/QuestIcon.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/QuestIcon.dds.gz",
+      "size": 1682,
+      "sha256": "4e7921b48768f4fd6d3d0ec7e2a113cf2299a6fb9f539a1dbd79e5bc99d6921d"
+    },
+    {
+      "path": "System/GUI/Data/map/radarEnemyIcon.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/radarEnemyIcon.dds.gz",
+      "size": 114,
+      "sha256": "25f16f3d683dd9daa28cfdf2a4c7827b8f5f78250513ffc02e7bfc3269e60393"
+    },
+    {
+      "path": "DataTable/en-ph/nditem.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/en-ph/nditem.edf.gz",
+      "size": 5003799,
+      "sha256": "77145a086fb62c7dca7f3ca86f9f55329deb5e0de514745a7045f7ef6f4952d0"
+    },
+    {
+      "path": "System/GUI/Data/Loading/101.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/101.dds.gz",
+      "size": 319793,
+      "sha256": "f403810d3ff4abdec44c0073f8043b2fd0234cff5a22f48a47308433fa203cf7"
+    },
+    {
+      "path": "System/GUI/Data/map/QuestTrackIcon.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/QuestTrackIcon.dds.gz",
+      "size": 1656,
+      "sha256": "f72f406a47d308fe24888b8197975af69303548802ca5c8b9d4040abf9eb4f45"
+    },
+    {
+      "path": "System/GUI/Data/Loading/103.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/103.dds.gz",
+      "size": 248840,
+      "sha256": "e5a111b073db81f830f21fdaddc1de29cd40082cfa3497bb1b7942a0fbccc69a"
+    },
+    {
+      "path": "DataTable/pt-br/nditem.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/pt-br/nditem.edf.gz",
+      "size": 5024076,
+      "sha256": "444430baef4926d58418408bf60165d50438f993e440f307af5cdd2eb904ea3d"
+    },
+    {
+      "path": "System/Shader/Font_FP.fxo",
+      "url": "https://cdn.x2game.net/update/System/Shader/Font_FP.fxo.gz",
+      "size": 367,
+      "sha256": "503fe81076dc3507f27704ecfad57ef886f29c7874c6b691234a0a6dba93e9d9"
+    },
+    {
+      "path": "System/Shader/PCFShadows.h",
+      "url": "https://cdn.x2game.net/update/System/Shader/PCFShadows.h.gz",
+      "size": 33,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "System/Shader/Font_VP.fxo",
+      "url": "https://cdn.x2game.net/update/System/Shader/Font_VP.fxo.gz",
+      "size": 200,
+      "sha256": "7a5e941760132d184759bd400b6cd62f7b72b51ccdbecbd79ef10aeb761f3d39"
+    },
+    {
+      "path": "System/GUI/Data/Loading/104.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/104.dds.gz",
+      "size": 324426,
+      "sha256": "de499def69ca3423fff3564bd71a3a4daa2397d1e0571fd954230e57d410efa3"
+    },
+    {
+      "path": "System/GUI/Data/Loading/102.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/102.dds.gz",
+      "size": 267176,
+      "sha256": "8002812c8260580cd8161d723fa1bb5e8559b42a44c76e2f72e1ea1d0d3713cf"
+    },
+    {
+      "path": "System/GUI/Data/Loading/106.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/106.dds.gz",
+      "size": 168519,
+      "sha256": "698cb33291ecf612ccb5ac39fd56e139c51767b4c2c1d476a85c7d8fdc54eed6"
+    },
+    {
+      "path": "System/GUI/Data/map/radarIcons.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/radarIcons.dds.gz",
+      "size": 382,
+      "sha256": "2795c433eaa85f863ad329107084c9904cff31e0557a993f3fa6dbce5959762f"
+    },
+    {
+      "path": "System/Shader/Character.obj",
+      "url": "https://cdn.x2game.net/update/System/Shader/Character.obj.gz",
+      "size": 5046,
+      "sha256": "5ab7c4cd470437e4a6254cc846196099e851d282a77b3206617c75a7335190c8"
+    },
+    {
+      "path": "System/Shader/Grass.vso",
+      "url": "https://cdn.x2game.net/update/System/Shader/Grass.vso.gz",
+      "size": 525,
+      "sha256": "2fb7dab6b78c14972ab4e7f053d88df8e765f5caa73b6ad7a4e8db1556a83670"
+    },
+    {
+      "path": "System/GUI/Data/Loading/105.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/105.dds.gz",
+      "size": 257019,
+      "sha256": "06efebb49060d16c5e6abd33bb44462eea12d5c3a826253709ebb8aa07122aed"
+    },
+    {
+      "path": "System/Shader/Reflection.vso",
+      "url": "https://cdn.x2game.net/update/System/Shader/Reflection.vso.gz",
+      "size": 177,
+      "sha256": "a81742b15b5da18f9d4ef42cf3ba5db8c1224f4a67718437f5f6533955f586d7"
+    },
+    {
+      "path": "System/Shader/Scatter.vso",
+      "url": "https://cdn.x2game.net/update/System/Shader/Scatter.vso.gz",
+      "size": 287,
+      "sha256": "eee9e9786da4201d5c4d2dd58d9bc9af7ef81f3cc5dbae326d6de291fc8a60af"
+    },
+    {
+      "path": "System/Shader/Reflection.vsh",
+      "url": "https://cdn.x2game.net/update/System/Shader/Reflection.vsh.gz",
+      "size": 694,
+      "sha256": "5083d669989b749a3faa22a358a2cc03853ccf278aa5846208c393f555305d77"
+    },
+    {
+      "path": "System/GUI/Data/Loading/107.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/107.dds.gz",
+      "size": 194649,
+      "sha256": "44750ee37dd87340972d55b630dbaf40b0ed9b9a9abd59a3aa4574858c9d749d"
+    },
+    {
+      "path": "System/Shader/transition.psh",
+      "url": "https://cdn.x2game.net/update/System/Shader/transition.psh.gz",
+      "size": 99,
+      "sha256": "51bfa22725cb4524cd0bb753088d273e877811509f81de2935009865f1e063ad"
+    },
+    {
+      "path": "System/Shader/Util.obj",
+      "url": "https://cdn.x2game.net/update/System/Shader/Util.obj.gz",
+      "size": 1310,
+      "sha256": "a5105288ec471cd669291d7b9c6824aebaa234b404a514f221588f6b84b7fc44"
+    },
+    {
+      "path": "System/GUI/Data/Loading/110.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/110.dds.gz",
+      "size": 359387,
+      "sha256": "69ef5d33303b915c91b7e0ea52598114336fda2ca8cd115672dbb2ade2f2659f"
+    },
+    {
+      "path": "System/GUI/Data/Loading/109.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/109.dds.gz",
+      "size": 169712,
+      "sha256": "61ff9ab63d8f25167edf2e080b83bbdc8e95f5bb7c17338d9bb718e2ab07e7e0"
+    },
+    {
+      "path": "System/GUI/Data/Loading/108.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/108.dds.gz",
+      "size": 176573,
+      "sha256": "56b5ab81ea7b95058c208549e14ef0f222b8a1e79e3342fed6a30a411b800ed8"
+    },
+    {
+      "path": "System/Shader/Scatter.vsh",
+      "url": "https://cdn.x2game.net/update/System/Shader/Scatter.vsh.gz",
+      "size": 1153,
+      "sha256": "7a4e233746b1792668360784ececccd6a349d79518c6f884a36c2d5b301b4df6"
+    },
+    {
+      "path": "System/GUI/Data/map/Acc_Field.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/Acc_Field.dds.gz",
+      "size": 1746451,
+      "sha256": "add9a6c3cba74f859c576090ac913aeaaaabcde6c11c1839ce2127321cf3a647"
+    },
+    {
+      "path": "System/GUI/Data/map/Ncs1_Field.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/Ncs1_Field.dds.gz",
+      "size": 1626047,
+      "sha256": "19d78f48c81d7acdf3545862cedf92f1345e72a6cf8f1a54749422def33ad6c5"
+    },
+    {
+      "path": "DataTable/ItemCombine.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ItemCombine.edf.gz",
+      "size": 911543,
+      "sha256": "348ed758d455a763ee467fc294c8deb5128e2d8b66ba9a8ee451636d52e8d596"
+    },
+    {
+      "path": "System/GUI/Data/map/Nbs2_Field.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/Nbs2_Field.dds.gz",
+      "size": 1694737,
+      "sha256": "6246bc9eb8e8a56d4298cb19303fac147c7e973c16e93053409d309b090db93a"
+    },
+    {
+      "path": "System/GUI/Data/map/Nbs1_Field-1-1.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/Nbs1_Field-1-1.dds.gz",
+      "size": 1820019,
+      "sha256": "2162bb46bbb1f4a89e420c8d363c03771a285e3aa3426a0e280270a164ad5099"
+    },
+    {
+      "path": "DataTable/item.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/item.edf.gz",
+      "size": 5806049,
+      "sha256": "6ffce40c85c3f4dc07cbfa3c82de7db545cf09d0552a07818ac18bfb92e9248e"
+    },
+    {
+      "path": "DataTable/ru-ru/nditem.edf",
+      "url": "https://cdn.x2game.net/update/DataTable/ru-ru/nditem.edf.gz",
+      "size": 9240403,
+      "sha256": "54b11d666d235566e8f011d4f44ae0ce73ccfa744187098f3a531d68ede69ce2"
+    },
+    {
+      "path": "System/GUI/Data/Loading/Intro.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/Loading/Intro.dds.gz",
+      "size": 2142704,
+      "sha256": "9985b8d5c8ef013700f42d3ed0f5a86dec196b07e53de4a3a66fc68b91e34f15"
+    },
+    {
+      "path": "System/GUI/Data/map/Bel_Field.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/Bel_Field.dds.gz",
+      "size": 8064674,
+      "sha256": "43cfce78d15b914690c3cc0cedb72ffe16662463f7bd4ae4db574bc11879930b"
+    },
+    {
+      "path": "System/GUI/Data/map/Cauldron01_Field.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/Cauldron01_Field.dds.gz",
+      "size": 10720444,
+      "sha256": "436218952c96581276affea980932a3a222470274dfd1d3c5cd65ca314e68fb8"
+    },
+    {
+      "path": "System/GUI/Data/map/Pla01_Field.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/Pla01_Field.dds.gz",
+      "size": 7065571,
+      "sha256": "5e0b01117ad414c6e02d60199ba94a97d6f8acd72f4309ea3c8cc461c41e5cb7"
+    },
+    {
+      "path": "System/GUI/Data/map/Cor_Field.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/Cor_Field.dds.gz",
+      "size": 10278263,
+      "sha256": "b30ee1024adafb8291280f8f9254400bfc3d55e05791f3c8a32cbdb622ac705d"
+    },
+    {
+      "path": "System/GUI/Data/map/Sette_Field.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/Sette_Field.dds.gz",
+      "size": 10977713,
+      "sha256": "541d39871dc32c80db32c455a472dc79d7da7d77cda269c992376aac4463ef73"
+    },
+    {
+      "path": "System/GUI/Data/map/Resource_Field.dds",
+      "url": "https://cdn.x2game.net/update/System/GUI/Data/map/Resource_Field.dds.gz",
+      "size": 10291377,
+      "sha256": "225c2891d8c4a5bae596fac5ceff5eb8dc8685cc49c51723f87e4a85f93fade4"
+    },
+    {
+      "path": "./WebCore.dll",
+      "url": "https://cdn.x2game.net/update/./WebCore.dll.gz",
+      "size": 15923212,
+      "sha256": "d62ecca4226f5ecbeb5dc13fa095b48be7336304fc24376da9329b906448436e"
+    },
+    {
+      "path": "System/gui.dll",
+      "url": "https://cdn.x2game.net/update/System/gui.dll.gz",
+      "size": 38484426,
+      "sha256": "e68e7bce2b7f4c521e5c022a69be54e867914ca78b05eff9059702db9ae234b8"
+    },
+    {
+      "path": "./game.bin",
+      "url": "https://cdn.x2game.net/update/./game.bin.gz",
+      "size": 12613925,
+      "sha256": "d8648c7a406a9021a8f365166b452457336d3c00cb6cbff960d6371471091ed7"
+    },
+    {
+      "path": "Game.exe",
+      "url": "https://cdn.x2game.net/update/Game.exe.gz",
+      "size": 2425421,
+      "sha256": "6ea34ad90ff743d364ca74b9849f223b2968dd8ec936e62d2d182b00de183169"
+    }
+  ]
+}

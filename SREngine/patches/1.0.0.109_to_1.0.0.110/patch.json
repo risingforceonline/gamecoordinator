@@ -1,0 +1,26 @@
+{
+    "schemaVersion":  1,
+    "product":  "RFClient",
+    "type":  "patch",
+    "fromVersion":  "1.0.0.109",
+    "toVersion":  "1.0.0.110",
+    "files":  [
+                  {
+                      "path":  "Manifest_NonUFSFiles_Win64.txt",
+                      "size":  26567,
+                      "sha256":  "64db60de354851bff3abb046d149d4588113c9220f41f92870c45781fb698173",
+                      "blob":  "64db60de354851bff3abb046d149d4588113c9220f41f92870c45781fb698173"
+                  },
+                  {
+                      "path":  "Manifest_UFSFiles_Win64.txt",
+                      "size":  16253080,
+                      "sha256":  "512cabfd273e65fc383e9e57b1cccdefd56cba6b00bfdc21abb577184129de5a",
+                      "blob":  "3055dc56f3ca8c76998d8c65e8a733bbc02405a8162903bba6721c678b00dba5",
+                      "compression":  "gzip",
+                      "compressedSize":  732394
+                  }
+              ],
+    "deleted":  [
+
+                ]
+}

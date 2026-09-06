@@ -1,0 +1,75 @@
+{
+    "schemaVersion":  1,
+    "product":  "RFClient",
+    "version":  "1.0.0.120",
+    "releaseUrl":  "http://cdn.x2game.net/SREngine/releases/1.0.0.120/",
+    "manifestUrl":  "http://cdn.x2game.net/SREngine/manifests/1.0.0.120.json",
+    "blobBaseUrl":  "http://cdn.x2game.net/SREngine/blobs/",
+    "launcher":  {
+                     "version":  "1.0.0.120",
+                     "size":  9672192,
+                     "sha256":  "a40f8610f61266d320f9c2eb1408482506cdb410754afc949c6fe79a96d4f9e6",
+                     "blob":  "5a7709fb71929ead59e168ae86da92372476ef5b10a8ac78f2ba31ebc6daaced",
+                     "url":  "http://cdn.x2game.net/SREngine/blobs/5a7709fb71929ead59e168ae86da92372476ef5b10a8ac78f2ba31ebc6daaced",
+                     "compression":  "gzip",
+                     "compressedSize":  3698371
+                 },
+    "launcherUrl":  "http://cdn.x2game.net/SREngine/blobs/5a7709fb71929ead59e168ae86da92372476ef5b10a8ac78f2ba31ebc6daaced",
+    "patches":  [
+                    {
+                        "fromVersion":  "1.0.0.109",
+                        "toVersion":  "1.0.0.110",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.109_to_1.0.0.110/"
+                    },
+                    {
+                        "fromVersion":  "1.0.0.110",
+                        "toVersion":  "1.0.0.111",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.110_to_1.0.0.111/"
+                    },
+                    {
+                        "fromVersion":  "1.0.0.111",
+                        "toVersion":  "1.0.0.112",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.111_to_1.0.0.112/"
+                    },
+                    {
+                        "fromVersion":  "1.0.0.112",
+                        "toVersion":  "1.0.0.113",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.112_to_1.0.0.113/"
+                    },
+                    {
+                        "fromVersion":  "1.0.0.113",
+                        "toVersion":  "1.0.0.114",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.113_to_1.0.0.114/"
+                    },
+                    {
+                        "fromVersion":  "1.0.0.114",
+                        "toVersion":  "1.0.0.115",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.114_to_1.0.0.115/"
+                    },
+                    {
+                        "fromVersion":  "1.0.0.115",
+                        "toVersion":  "1.0.0.116",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.115_to_1.0.0.116/"
+                    },
+                    {
+                        "fromVersion":  "1.0.0.116",
+                        "toVersion":  "1.0.0.117",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.116_to_1.0.0.117/"
+                    },
+                    {
+                        "fromVersion":  "1.0.0.117",
+                        "toVersion":  "1.0.0.118",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.117_to_1.0.0.118/"
+                    },
+                    {
+                        "fromVersion":  "1.0.0.118",
+                        "toVersion":  "1.0.0.119",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.118_to_1.0.0.119/"
+                    },
+                    {
+                        "fromVersion":  "1.0.0.119",
+                        "toVersion":  "1.0.0.120",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.119_to_1.0.0.120/"
+                    }
+                ]
+}

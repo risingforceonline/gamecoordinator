@@ -1,0 +1,40 @@
+{
+    "schemaVersion":  1,
+    "product":  "RFClient",
+    "type":  "patch",
+    "fromVersion":  "1.0.0.113",
+    "toVersion":  "1.0.0.114",
+    "files":  [
+                  {
+                      "path":  "Manifest_NonUFSFiles_Win64.txt",
+                      "size":  26567,
+                      "sha256":  "f512b5de5fc6436315f1279c277775f283869592d839f4f987eda46745eaf574",
+                      "blob":  "f512b5de5fc6436315f1279c277775f283869592d839f4f987eda46745eaf574"
+                  },
+                  {
+                      "path":  "Manifest_UFSFiles_Win64.txt",
+                      "size":  16253080,
+                      "sha256":  "76c8485f702fc390685368cbc260c2e3a1a21d75d3759f327ae9fcde4d69292f",
+                      "blob":  "4a326008db4b25dc5f06cf74f5fd27ff5873a48e3c1726e77f9a70e8fe2008a0",
+                      "compression":  "gzip",
+                      "compressedSize":  706682
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/RFClient-Win64-Shipping.exe",
+                      "size":  171616256,
+                      "sha256":  "3c03a373d3c72e6b1096c20bab16a2b1b5c8b41ce6b159e9f8d735ad6e8ce676",
+                      "blob":  "f47fc09242b3e91bb2b0cecf602452ccdc8120bad4e4f8abe2b37996dd1b0e32",
+                      "compression":  "gzip",
+                      "compressedSize":  68601961
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/pakchunk0-Windows.pak",
+                      "size":  14065928,
+                      "sha256":  "1806ef54808f17120b58c65231ba81dae9d3d7323b17cce419bf633ad574c328",
+                      "blob":  "1806ef54808f17120b58c65231ba81dae9d3d7323b17cce419bf633ad574c328"
+                  }
+              ],
+    "deleted":  [
+
+                ]
+}
