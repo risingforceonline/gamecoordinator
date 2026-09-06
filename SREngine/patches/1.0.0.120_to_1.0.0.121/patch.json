@@ -1,0 +1,62 @@
+{
+    "schemaVersion":  1,
+    "product":  "RFClient",
+    "type":  "patch",
+    "fromVersion":  "1.0.0.120",
+    "toVersion":  "1.0.0.121",
+    "files":  [
+                  {
+                      "path":  "Manifest_NonUFSFiles_Win64.txt",
+                      "size":  26771,
+                      "sha256":  "30fb3ad5dbaaae23c298505a33e56a26afb7a245bb5496f032dce2284f37ffba",
+                      "blob":  "30fb3ad5dbaaae23c298505a33e56a26afb7a245bb5496f032dce2284f37ffba"
+                  },
+                  {
+                      "path":  "Manifest_UFSFiles_Win64.txt",
+                      "size":  19836030,
+                      "sha256":  "ed1dcad67e1a35c2d7435cd93b1adb911a0e23adc3bb69e287215d52058d3b2a",
+                      "blob":  "bc26416a5414afe38ddec32e8b2cfef107f5d7fe2bab3df434b629110d25a4ca",
+                      "compression":  "gzip",
+                      "compressedSize":  851683
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/RFClient-Win64-Shipping.exe",
+                      "size":  172131840,
+                      "sha256":  "cd8b7c273d80324b8bd38c9b3a1b79ff4270a0127792126f422688ef3435e9d2",
+                      "blob":  "ab62faed0a330729c3171b0e7d65bf0f35d952bf15df2291679dc3c22ce84005",
+                      "compression":  "gzip",
+                      "compressedSize":  68831038
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Quests/catalog.en.json",
+                      "size":  1691031,
+                      "sha256":  "a18cbce2fac9fe622487db7c32906966fd5a0af56913cf5fe4eef7823e1d3941",
+                      "blob":  "8e628322b1c43bfc00fb6b0e804c8d86be6b75bc806459aaa2b3ff6d32032fea",
+                      "compression":  "gzip",
+                      "compressedSize":  201952
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Quests/catalog.pt.json",
+                      "size":  8211,
+                      "sha256":  "cf19fcf8fb4c153b8495e7f81785c39ac1c367a899764def119639632ece40d3",
+                      "blob":  "cf19fcf8fb4c153b8495e7f81785c39ac1c367a899764def119639632ece40d3"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Quests/catalog.ru.json",
+                      "size":  12721,
+                      "sha256":  "573667c2e10eebe5d61047fa82ff6b030bd3b920a7d57e707068831bb6285032",
+                      "blob":  "573667c2e10eebe5d61047fa82ff6b030bd3b920a7d57e707068831bb6285032"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/translations.json",
+                      "size":  3166281,
+                      "sha256":  "7b8bd04942c09bedd8903a709765f979ce946613f28934f8fb950df6b845ea7d",
+                      "blob":  "a306be3fde602296605ec5983b6f96ce11bae9610aeb0483b1f6e31adcc377cb",
+                      "compression":  "gzip",
+                      "compressedSize":  773668
+                  }
+              ],
+    "deleted":  [
+
+                ]
+}

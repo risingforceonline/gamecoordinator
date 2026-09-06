@@ -1,12 +1,12 @@
 {
     "schemaVersion":  1,
     "product":  "RFClient",
-    "version":  "1.0.0.120",
-    "releaseUrl":  "http://cdn.x2game.net/SREngine/releases/1.0.0.120/",
-    "manifestUrl":  "http://cdn.x2game.net/SREngine/manifests/1.0.0.120.json",
+    "version":  "1.0.0.121",
+    "releaseUrl":  "http://cdn.x2game.net/SREngine/releases/1.0.0.121/",
+    "manifestUrl":  "http://cdn.x2game.net/SREngine/manifests/1.0.0.121.json",
     "blobBaseUrl":  "http://cdn.x2game.net/SREngine/blobs/",
     "launcher":  {
-                     "version":  "1.0.0.120",
+                     "version":  "1.0.0.121",
                      "size":  9672192,
                      "sha256":  "a40f8610f61266d320f9c2eb1408482506cdb410754afc949c6fe79a96d4f9e6",
                      "blob":  "5a7709fb71929ead59e168ae86da92372476ef5b10a8ac78f2ba31ebc6daaced",
@@ -70,6 +70,11 @@
                         "fromVersion":  "1.0.0.119",
                         "toVersion":  "1.0.0.120",
                         "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.119_to_1.0.0.120/"
+                    },
+                    {
+                        "fromVersion":  "1.0.0.120",
+                        "toVersion":  "1.0.0.121",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.120_to_1.0.0.121/"
                     }
                 ]
 }
