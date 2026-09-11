@@ -1,0 +1,94 @@
+{
+    "schemaVersion":  1,
+    "product":  "RFClient",
+    "type":  "patch",
+    "fromVersion":  "1.0.0.124",
+    "toVersion":  "1.0.0.125",
+    "files":  [
+                  {
+                      "path":  "Manifest_NonUFSFiles_Win64.txt",
+                      "size":  30001,
+                      "sha256":  "0e39ac8d0edf1c1e720e0b8f56a607f4f1c2d52608125e80880efaecd206f1d3",
+                      "blob":  "0e39ac8d0edf1c1e720e0b8f56a607f4f1c2d52608125e80880efaecd206f1d3"
+                  },
+                  {
+                      "path":  "Manifest_UFSFiles_Win64.txt",
+                      "size":  19940844,
+                      "sha256":  "63c4dd5ab6453a2d4787274982d69bc9435b6a8654ca44bce6087990874e8c73",
+                      "blob":  "a391dc4b9151934ade051ce5d9d97242f43014d6f9c3cb3f846f28c0076fa1d9",
+                      "compression":  "gzip",
+                      "compressedSize":  900649
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/RFClient-Win64-Shipping.exe",
+                      "size":  172374528,
+                      "sha256":  "a5740d23aea306562d9ecae533fc1a50807adfe7bdb8fa68c4f10099f4f7f687",
+                      "blob":  "f6ebbfb363b67d893ed8046863d433d603261239a22e72295b944ba881316252",
+                      "compression":  "gzip",
+                      "compressedSize":  68942283
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/global.ucas",
+                      "size":  3255760,
+                      "sha256":  "d67862e8d08fb158d75ea8fa60ba408b312482316c9d2dbf54db2d94e605014a",
+                      "blob":  "d67862e8d08fb158d75ea8fa60ba408b312482316c9d2dbf54db2d94e605014a"
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/global.utoc",
+                      "size":  794,
+                      "sha256":  "1d4e1853ee2089db1a22ea2d544857e548a87cd251476b062268556f2fed7207",
+                      "blob":  "1d4e1853ee2089db1a22ea2d544857e548a87cd251476b062268556f2fed7207"
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/pakchunk0_s365-Windows.pak",
+                      "size":  9814,
+                      "sha256":  "3ca160614dda70099e7a62c80f3048cfdbf2cb6631adfbf16303c15fc858b7cb",
+                      "blob":  "3ca160614dda70099e7a62c80f3048cfdbf2cb6631adfbf16303c15fc858b7cb"
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/pakchunk0_s365-Windows.ucas",
+                      "size":  36021552,
+                      "sha256":  "fd3b9146396fae8c19df29845217d840b3a72947159aca7628fbb83bfb4a9842",
+                      "blob":  "fd3b9146396fae8c19df29845217d840b3a72947159aca7628fbb83bfb4a9842"
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/pakchunk0_s365-Windows.utoc",
+                      "size":  87803,
+                      "sha256":  "9c6c69ef8dae1fe1d6b1f59a2cbe65a1ee0c1b084353bf889de06d98f85364fe",
+                      "blob":  "9c6c69ef8dae1fe1d6b1f59a2cbe65a1ee0c1b084353bf889de06d98f85364fe"
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/pakchunk0_s77-Windows.ucas",
+                      "size":  14661280,
+                      "sha256":  "6504552600d7db2ba2676fa9b96f1bf7ba310ef0bdae106b43c2a7bc90c26e13",
+                      "blob":  "6504552600d7db2ba2676fa9b96f1bf7ba310ef0bdae106b43c2a7bc90c26e13"
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/pakchunk0_s77-Windows.utoc",
+                      "size":  873083,
+                      "sha256":  "7c369793b21c35fec9de0e01b9ee7126aaccf2236662c6d5bc2a4b32e0cd6d03",
+                      "blob":  "7c369793b21c35fec9de0e01b9ee7126aaccf2236662c6d5bc2a4b32e0cd6d03"
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/pakchunk0-Windows.pak",
+                      "size":  14746276,
+                      "sha256":  "e72baaace0b023273666ba05f0398f4f586e935ab981a21fcac4aa4ef015861a",
+                      "blob":  "e72baaace0b023273666ba05f0398f4f586e935ab981a21fcac4aa4ef015861a"
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/pakchunk0-Windows.ucas",
+                      "size":  110661472,
+                      "sha256":  "d755a9555db8faf1ecd0813a3402049255cab0c7e538a24a190635254d66bb1e",
+                      "blob":  "d755a9555db8faf1ecd0813a3402049255cab0c7e538a24a190635254d66bb1e"
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/pakchunk0-Windows.utoc",
+                      "size":  114733,
+                      "sha256":  "58f3683ee1849468691e8a6a55ee43edd77e5494ec5120cfc87448e5716e1cbf",
+                      "blob":  "58f3683ee1849468691e8a6a55ee43edd77e5494ec5120cfc87448e5716e1cbf"
+                  }
+              ],
+    "deleted":  [
+
+                ]
+}
