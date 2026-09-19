@@ -1,0 +1,74 @@
+{
+    "schemaVersion":  1,
+    "product":  "RFClient",
+    "type":  "patch",
+    "fromVersion":  "1.0.0.128",
+    "toVersion":  "1.0.0.129",
+    "files":  [
+                  {
+                      "path":  "Manifest_NonUFSFiles_Win64.txt",
+                      "size":  30539,
+                      "sha256":  "a57872e84f1b9e75042172c32110badfa49f13cb6cc2815d382fad5260802393",
+                      "blob":  "a57872e84f1b9e75042172c32110badfa49f13cb6cc2815d382fad5260802393"
+                  },
+                  {
+                      "path":  "Manifest_UFSFiles_Win64.txt",
+                      "size":  21937472,
+                      "sha256":  "f405f168e9eb9ca4ce825234fcad410713ab5a4dc42bc8463bb066b2166724b6",
+                      "blob":  "beef162bdfd0547b86a7f82b566863685f1895bb37501de47b41a00758e92685",
+                      "compression":  "gzip",
+                      "compressedSize":  970083
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/RFClient-Win64-Shipping.exe",
+                      "size":  172564480,
+                      "sha256":  "952715bf5b99e4a738d9459525954a23e166fc30fa21f5b151770b69efac0adc",
+                      "blob":  "79e1ff40d9fe91bacbef1cab21cfa0eb53677d776638c7f3e43b4b55a0e79537",
+                      "compression":  "gzip",
+                      "compressedSize":  69025211
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/UI/Nameplate/Fonts/RFNameplate-Bold.ttf",
+                      "size":  180740,
+                      "sha256":  "6c4a4b643461def5411e0217b74a625dcf2fb681252ef5da1db0af4eae80aa7e",
+                      "blob":  "a0b9a5b76baf4073e6a7b1b634010cd25a8e6c3fa851a5148b3c9001f53301a3",
+                      "compression":  "gzip",
+                      "compressedSize":  91376
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/UI/Nameplate/Fonts/RFNameplate-Regular.ttf",
+                      "size":  175956,
+                      "sha256":  "cad552553cf2a75afca01955751aaa115e2a64fd6c6eea42e1fbd236630b7e0a",
+                      "blob":  "b20da3a02728ea1b0071eccd5c70adad035f97a3cff0f1d97a53ed6a09270313",
+                      "compression":  "gzip",
+                      "compressedSize":  90813
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/UI/Nameplate/RF_Nameplate_HPRed.png",
+                      "size":  95,
+                      "sha256":  "b97cf9a3be53537c42027a8452e04e06c63cfb6907e9cbc5eea18dc8932d8347",
+                      "blob":  "b97cf9a3be53537c42027a8452e04e06c63cfb6907e9cbc5eea18dc8932d8347"
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/UI/Nameplate/RF_Nameplate_HPTrack.png",
+                      "size":  102,
+                      "sha256":  "756376b2021fa7e4ebfa0899e8635c29c2f3bd3bbf1a7d3ad85e2338ea585c0b",
+                      "blob":  "756376b2021fa7e4ebfa0899e8635c29c2f3bd3bbf1a7d3ad85e2338ea585c0b"
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/UI/Nameplate/RF_Nameplate_PartyDown.png",
+                      "size":  207,
+                      "sha256":  "79ff7bc2f0fd87d73f36e07e454c4d898df5e05b3b46364799bb0da488e75321",
+                      "blob":  "79ff7bc2f0fd87d73f36e07e454c4d898df5e05b3b46364799bb0da488e75321"
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/UI/Nameplate/RF_Nameplate_TargetDown.png",
+                      "size":  206,
+                      "sha256":  "eae6b60bc84a11913fca2a7f0e4da43820e1b1f3d2c47c1bd6cf0276ec46ee49",
+                      "blob":  "eae6b60bc84a11913fca2a7f0e4da43820e1b1f3d2c47c1bd6cf0276ec46ee49"
+                  }
+              ],
+    "deleted":  [
+
+                ]
+}
