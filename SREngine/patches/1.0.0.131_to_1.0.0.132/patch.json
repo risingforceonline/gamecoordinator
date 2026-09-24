@@ -1,0 +1,906 @@
+{
+    "schemaVersion":  2,
+    "product":  "RFClient",
+    "type":  "patch",
+    "signaturesRequired":  false,
+    "fromVersion":  "1.0.0.131",
+    "toVersion":  "1.0.0.132",
+    "files":  [
+                  {
+                      "path":  "Manifest_NonUFSFiles_Win64.txt",
+                      "size":  32814,
+                      "sha256":  "b18576ba37405ed30f89b8132b63a5dedeb2105a7260a8a69f48f7cf0d1c1a1b",
+                      "blob":  "b18576ba37405ed30f89b8132b63a5dedeb2105a7260a8a69f48f7cf0d1c1a1b"
+                  },
+                  {
+                      "path":  "Manifest_UFSFiles_Win64.txt",
+                      "size":  38502733,
+                      "sha256":  "5a96894a6e32a72150b191475672957f561e93fbcd48412019d504492313dd4f",
+                      "blob":  "82c040cd5034849deac17030a1da5fd526abbd438bd05688d4523d1f08ec63ca",
+                      "compression":  "gzip",
+                      "compressedSize":  2206282
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/RFClient-Win64-Shipping.exe",
+                      "size":  172625408,
+                      "sha256":  "582574b7f78a8bec4a4e6c66a9554216d51780a638fc87032207c85d4f1122fe",
+                      "blob":  "845a87f0232970c5ec35e962ae5ebb33e50d61fb1d321262debc75852cda8bfc",
+                      "compression":  "gzip",
+                      "compressedSize":  69053121
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/global.ucas",
+                      "size":  3257200,
+                      "sha256":  "eba8fdd869e82df0ba4bf0d73cd73fe335b81acaff1cd074160351bad1631f93",
+                      "blob":  "eba8fdd869e82df0ba4bf0d73cd73fe335b81acaff1cd074160351bad1631f93"
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/global.utoc",
+                      "size":  794,
+                      "sha256":  "01f65fa2908e7b1c7884457ecdbae575afdb0493ea233486fa1ce2280b9ae23e",
+                      "blob":  "01f65fa2908e7b1c7884457ecdbae575afdb0493ea233486fa1ce2280b9ae23e"
+                  },
+                  {
+                      "Count":  4,
+                      "IsReadOnly":  false,
+                      "Keys":  [
+                                   "path",
+                                   "size",
+                                   "sha256",
+                                   "blob"
+                               ],
+                      "Values":  [
+                                     "RFClient/Content/Paks/pakchunk0-Windows.pak",
+                                     15011001,
+                                     "44c174d5e65e8fc28a706b5810e323adfeabcd62053c536e0f727e890a6df117",
+                                     "44c174d5e65e8fc28a706b5810e323adfeabcd62053c536e0f727e890a6df117"
+                                 ],
+                      "IsFixedSize":  false,
+                      "SyncRoot":  {
+
+                                   },
+                      "IsSynchronized":  false,
+                      "transfer":  "blockdelta",
+                      "baseSha256":  "12b24a714232337b55d7e433edefd82e0f117282bbb37c0e2c681bee71b73ee9",
+                      "blockSize":  1048576,
+                      "blocks":  [
+                                     {
+                                         "offset":  10485760,
+                                         "size":  1048576,
+                                         "sha256":  "ef4d827c0d4c638a1a9f5553c185ed51e59af399a16163070e75911de076c8cd",
+                                         "blob":  "ef4d827c0d4c638a1a9f5553c185ed51e59af399a16163070e75911de076c8cd"
+                                     },
+                                     {
+                                         "offset":  13631488,
+                                         "size":  1048576,
+                                         "sha256":  "18d56aa73cd20509321a905a15f42b3c957d44023500d315c3d11ec84a58e0db",
+                                         "blob":  "18d56aa73cd20509321a905a15f42b3c957d44023500d315c3d11ec84a58e0db"
+                                     },
+                                     {
+                                         "offset":  14680064,
+                                         "size":  330937,
+                                         "sha256":  "6c1e2bc274c08ce758490203e0ef1b1c4090c175cb5a3c836f24aea7488e947c",
+                                         "blob":  "6c1e2bc274c08ce758490203e0ef1b1c4090c175cb5a3c836f24aea7488e947c"
+                                     }
+                                 ]
+                  },
+                  {
+                      "Count":  4,
+                      "IsReadOnly":  false,
+                      "Keys":  [
+                                   "path",
+                                   "size",
+                                   "sha256",
+                                   "blob"
+                               ],
+                      "Values":  [
+                                     "RFClient/Content/Paks/pakchunk1_s165-Windows.ucas",
+                                     14564272,
+                                     "27a74ec1d3fdf785460e577f38832538cb89333741df0b7ca452dd7c3a0c607e",
+                                     "27a74ec1d3fdf785460e577f38832538cb89333741df0b7ca452dd7c3a0c607e"
+                                 ],
+                      "IsFixedSize":  false,
+                      "SyncRoot":  {
+
+                                   },
+                      "IsSynchronized":  false,
+                      "transfer":  "blockdelta",
+                      "baseSha256":  "e1e36621f4fe4381e335e739330cebf048e5e392351cdee0a44ba596410636cf",
+                      "blockSize":  1048576,
+                      "blocks":  [
+                                     {
+                                         "offset":  6291456,
+                                         "size":  1048576,
+                                         "sha256":  "aa39a116bb94c804b686124fecbab28558d66e05a3c7eb233dbf53debcad5ec6",
+                                         "blob":  "aa39a116bb94c804b686124fecbab28558d66e05a3c7eb233dbf53debcad5ec6"
+                                     }
+                                 ]
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/pakchunk1_s165-Windows.utoc",
+                      "size":  102053,
+                      "sha256":  "bd55aa9bec11b499e32101c990af093b0214c1aa61f7897c59fff292a540748d",
+                      "blob":  "bd55aa9bec11b499e32101c990af093b0214c1aa61f7897c59fff292a540748d"
+                  },
+                  {
+                      "Count":  4,
+                      "IsReadOnly":  false,
+                      "Keys":  [
+                                   "path",
+                                   "size",
+                                   "sha256",
+                                   "blob"
+                               ],
+                      "Values":  [
+                                     "RFClient/Content/Paks/pakchunk1_s183-Windows.ucas",
+                                     32659152,
+                                     "83f4ccb0be2167938a77ab70f7cd5167dabf20177c343bfb017747e2dbda9623",
+                                     "83f4ccb0be2167938a77ab70f7cd5167dabf20177c343bfb017747e2dbda9623"
+                                 ],
+                      "IsFixedSize":  false,
+                      "SyncRoot":  {
+
+                                   },
+                      "IsSynchronized":  false,
+                      "transfer":  "blockdelta",
+                      "baseSha256":  "4e42bedeef42d40dc7af29225ede6f58ff17f472cda02d63e16f42f14e48ea47",
+                      "blockSize":  1048576,
+                      "blocks":  [
+                                     {
+                                         "offset":  5242880,
+                                         "size":  1048576,
+                                         "sha256":  "9df50e2d66896ff880610a5aeea938d509ed4edc8f4b4b0c5834cd1eb84a746d",
+                                         "blob":  "9df50e2d66896ff880610a5aeea938d509ed4edc8f4b4b0c5834cd1eb84a746d"
+                                     }
+                                 ]
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/pakchunk1_s183-Windows.utoc",
+                      "size":  88933,
+                      "sha256":  "71fa9d6086e97a252f069eaeda1db4cea125d45132f18a2cc9d0312c53484bbf",
+                      "blob":  "71fa9d6086e97a252f069eaeda1db4cea125d45132f18a2cc9d0312c53484bbf"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/index.json",
+                      "size":  2117,
+                      "sha256":  "b13ded3436fb21fe6498ea49965c4287dfbe072298b94eed3923aaca8c20812e",
+                      "blob":  "b13ded3436fb21fe6498ea49965c4287dfbe072298b94eed3923aaca8c20812e"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/000_Bellato_HQ.json",
+                      "size":  17608,
+                      "sha256":  "659fadc2375a2afa0595aceaa265273cb0e22ab18aaa71d7683468b145434ddc",
+                      "blob":  "659fadc2375a2afa0595aceaa265273cb0e22ab18aaa71d7683468b145434ddc"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/001_Cora_HQ.json",
+                      "size":  17018,
+                      "sha256":  "10b438f2f830f200ffff4496c65b3cd4d23563e1e3284ca8d700744ab5568317",
+                      "blob":  "10b438f2f830f200ffff4496c65b3cd4d23563e1e3284ca8d700744ab5568317"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/002_Crag_Mine_Field.json",
+                      "size":  15112,
+                      "sha256":  "74e8a14ac6c4c6c8e833dc67b95b2b849c5b4bf94125d7ee8969794c2f499871",
+                      "blob":  "74e8a14ac6c4c6c8e833dc67b95b2b849c5b4bf94125d7ee8969794c2f499871"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/003_Accretia_HQ.json",
+                      "size":  18171,
+                      "sha256":  "d76b0aaadf7b7d953b4bbe2ece7f6274e3d9deda8417c392f6f45448b12d103f",
+                      "blob":  "d76b0aaadf7b7d953b4bbe2ece7f6274e3d9deda8417c392f6f45448b12d103f"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/004_Solus.json",
+                      "size":  10714,
+                      "sha256":  "361d833688b431b886fe644609addd0f58eaee62d6099d0a1ab3bd16cf0478a8",
+                      "blob":  "361d833688b431b886fe644609addd0f58eaee62d6099d0a1ab3bd16cf0478a8"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/005_Anacaade.json",
+                      "size":  8324,
+                      "sha256":  "187864abfd83eeb2e669b4f50a6db38961355007fd4b6d10099a993e540ee0c6",
+                      "blob":  "187864abfd83eeb2e669b4f50a6db38961355007fd4b6d10099a993e540ee0c6"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/006_Haram.json",
+                      "size":  14207,
+                      "sha256":  "8a4768342cf26f1e4ee649f8764456364641cbecbb29ca81052e151614019b98",
+                      "blob":  "8a4768342cf26f1e4ee649f8764456364641cbecbb29ca81052e151614019b98"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/007_Numerus.json",
+                      "size":  12319,
+                      "sha256":  "364d6e7d40c33c2edfd206ccf9a5f70b5165183c2d4f26bd57557904399a566d",
+                      "blob":  "364d6e7d40c33c2edfd206ccf9a5f70b5165183c2d4f26bd57557904399a566d"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/008_Armory_213.json",
+                      "size":  12024,
+                      "sha256":  "fd82b381882ef3a0440c853c34efe222c056692c1b9ae632f9751b73ae90ce4b",
+                      "blob":  "fd82b381882ef3a0440c853c34efe222c056692c1b9ae632f9751b73ae90ce4b"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/009_Armory_117.json",
+                      "size":  11500,
+                      "sha256":  "32107b907d828125b2fcf30d23d771e005805f549cbf06c42d78de93fb6da828",
+                      "blob":  "32107b907d828125b2fcf30d23d771e005805f549cbf06c42d78de93fb6da828"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/010_Ether__Ch.1_.json",
+                      "size":  13755,
+                      "sha256":  "5b5a64965930e4a91c2798236b422aa8c8b33a274e34a77858ceeac13c29401b",
+                      "blob":  "5b5a64965930e4a91c2798236b422aa8c8b33a274e34a77858ceeac13c29401b"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/011_Sette_Desert__Ch.1_.json",
+                      "size":  10217,
+                      "sha256":  "dd62ceccffa36912d5e56f4990027e13b395b3992757ac94ba81a78a9d594899",
+                      "blob":  "dd62ceccffa36912d5e56f4990027e13b395b3992757ac94ba81a78a9d594899"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/012_Volcanic_Cauldron_Area__Ch.1_.json",
+                      "size":  8717,
+                      "sha256":  "870196a15c5b8e6a7ae9954e021f4ac835d31cd4fc3334bfca95346fff8aab8b",
+                      "blob":  "870196a15c5b8e6a7ae9954e021f4ac835d31cd4fc3334bfca95346fff8aab8b"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/013_Elan_Plateau__Ch.1_.json",
+                      "size":  8918,
+                      "sha256":  "15df5e75a39afcb2390e7604f83f27466a7e997c0113d3ba214ddf9089107312",
+                      "blob":  "15df5e75a39afcb2390e7604f83f27466a7e997c0113d3ba214ddf9089107312"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/014_Battle_Dungeon.json",
+                      "size":  1448,
+                      "sha256":  "d09d48611a95134be4f410f580d7528bdd87e6c9459cb7c00369523f341a9a87",
+                      "blob":  "d09d48611a95134be4f410f580d7528bdd87e6c9459cb7c00369523f341a9a87"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/015_Cartella_Ship.json",
+                      "size":  5751,
+                      "sha256":  "a0ab7666b0b804754605e19492132ed264fd125a76ed8c2d4edd4a9b30af8b9f",
+                      "blob":  "a0ab7666b0b804754605e19492132ed264fd125a76ed8c2d4edd4a9b30af8b9f"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/016_Darkhole.json",
+                      "size":  13776,
+                      "sha256":  "911d31dc61ec3b9f0d55ce2302fa5e51fe78325b703f9b4b4dcd0fd001217929",
+                      "blob":  "911d31dc61ec3b9f0d55ce2302fa5e51fe78325b703f9b4b4dcd0fd001217929"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/017_Accretia_Guildroom_SD.json",
+                      "size":  1684,
+                      "sha256":  "6fdac08a51e9e3d78d8902a9870f870f53cbdeaacfcd0bbc72e6b1e3ecce03ff",
+                      "blob":  "6fdac08a51e9e3d78d8902a9870f870f53cbdeaacfcd0bbc72e6b1e3ecce03ff"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/018_Bellato_Guildroom_SD.json",
+                      "size":  1673,
+                      "sha256":  "e5539300c37010f22f51484311630d6a0d4fbdaf3e6755e5538f560207d24188",
+                      "blob":  "e5539300c37010f22f51484311630d6a0d4fbdaf3e6755e5538f560207d24188"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/019_Cora_Guildroom_SD.json",
+                      "size":  1651,
+                      "sha256":  "7c5b92d19f14eafbaf6ace42956360a6f7c24bf02d605abea9042a8a48b8d379",
+                      "blob":  "7c5b92d19f14eafbaf6ace42956360a6f7c24bf02d605abea9042a8a48b8d379"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/020_Accretia_Guildroom_SP.json",
+                      "size":  1683,
+                      "sha256":  "cc715040a565d3fba32a0d0150ffdf149c4d8fb2516ed23f998895db25122b98",
+                      "blob":  "cc715040a565d3fba32a0d0150ffdf149c4d8fb2516ed23f998895db25122b98"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/021_Bellato_Guildroom_SP.json",
+                      "size":  1673,
+                      "sha256":  "20d622acd2c8872f1ea5b14c7506fde0c8e6a2f1eab3413b9b18c2f47f6ab7d3",
+                      "blob":  "20d622acd2c8872f1ea5b14c7506fde0c8e6a2f1eab3413b9b18c2f47f6ab7d3"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/022_Cora_Guildroom_SP.json",
+                      "size":  1653,
+                      "sha256":  "3a52f161afc0252994d6e7c67c2badc5233540addba86865638c2adf253e6c5d",
+                      "blob":  "3a52f161afc0252994d6e7c67c2badc5233540addba86865638c2adf253e6c5d"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/023_Hora_Darkhole.json",
+                      "size":  13830,
+                      "sha256":  "6b927c5faeb7ecac600f572b9a10dc5c719469138759a4eb13d57f5a9bfa1c9b",
+                      "blob":  "6b927c5faeb7ecac600f572b9a10dc5c719469138759a4eb13d57f5a9bfa1c9b"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/024_Outcast_Land__Ch.1_.json",
+                      "size":  5246,
+                      "sha256":  "9c4b46c2b0448d4cf6a70633c5f8e7cdc0eb4ce8f3385c0d1b05a9461e2cc66a",
+                      "blob":  "9c4b46c2b0448d4cf6a70633c5f8e7cdc0eb4ce8f3385c0d1b05a9461e2cc66a"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/025_Beast_Mountain__Ch.1_.json",
+                      "size":  5541,
+                      "sha256":  "90a122d08c3c8ea96f7affcf2d17fc1bb95a77f482a7757a470cbb667d051866",
+                      "blob":  "90a122d08c3c8ea96f7affcf2d17fc1bb95a77f482a7757a470cbb667d051866"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/026_Cartella_Bio_Lab__Ch.1_.json",
+                      "size":  4498,
+                      "sha256":  "c8dadf213426516a61d3b1a52c373debda9c94845f62000183becef19fb2dae9",
+                      "blob":  "c8dadf213426516a61d3b1a52c373debda9c94845f62000183becef19fb2dae9"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/027_Cora.json",
+                      "size":  1735,
+                      "sha256":  "af6a09623b98ac41e34d7106045814c4bb7e22848ce4fea61f6843bfa50aece8",
+                      "blob":  "af6a09623b98ac41e34d7106045814c4bb7e22848ce4fea61f6843bfa50aece8"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/028_Chaos_Hole.json",
+                      "size":  11847,
+                      "sha256":  "1bf3b1801162d9e829a04866fef2cb6e308cd8c69b9901a9a8d188d3155a3fe9",
+                      "blob":  "1bf3b1801162d9e829a04866fef2cb6e308cd8c69b9901a9a8d188d3155a3fe9"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/029_Cartella_Bio_Lab_2F__Ch.1_.json",
+                      "size":  2671,
+                      "sha256":  "c7aac8491070185d8e226c1c73765d643194115e3248a2b7e9708df9685f01b0",
+                      "blob":  "c7aac8491070185d8e226c1c73765d643194115e3248a2b7e9708df9685f01b0"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/030_Instant_Dungeon.json",
+                      "size":  1485,
+                      "sha256":  "183be594555ca3c635f4703e9b1d900715927f89c706fb1dac76a2f8ebc0fb45",
+                      "blob":  "183be594555ca3c635f4703e9b1d900715927f89c706fb1dac76a2f8ebc0fb45"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/031_Destroyed_Novazan_Fortress__Ch.1_.json",
+                      "size":  5935,
+                      "sha256":  "afe697ae703371cc86a9d1e9546a5792d69df0e67c5bdc9a05b50bb28f4676d3",
+                      "blob":  "afe697ae703371cc86a9d1e9546a5792d69df0e67c5bdc9a05b50bb28f4676d3"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/032_Jetso_Island_Bellato___Ch.1_.json",
+                      "size":  3684,
+                      "sha256":  "f31db140e24f1ca47ed2a22bee881a09be252d2ff6c8b7b2a4c4f5785946d356",
+                      "blob":  "f31db140e24f1ca47ed2a22bee881a09be252d2ff6c8b7b2a4c4f5785946d356"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/033_Jetso_Island_Cora___Ch.1_.json",
+                      "size":  3678,
+                      "sha256":  "f0f6d1fe217e13095b946f0fb0a015ec3c63c78326b6df7934141331fecc1daf",
+                      "blob":  "f0f6d1fe217e13095b946f0fb0a015ec3c63c78326b6df7934141331fecc1daf"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/034_Jetso_Island_Accretia___Ch.1_.json",
+                      "size":  3666,
+                      "sha256":  "1ea7a30594c409a27c87d77b4ba211ff9c90029941a494466374ac304fc92622",
+                      "blob":  "1ea7a30594c409a27c87d77b4ba211ff9c90029941a494466374ac304fc92622"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/035_Caravan_s_Time_and_Space__Ch.1_.json",
+                      "size":  12030,
+                      "sha256":  "747ac119d0178435a48f9f2a504964cbe79fe0bb7561663bad9773af69b23aa5",
+                      "blob":  "747ac119d0178435a48f9f2a504964cbe79fe0bb7561663bad9773af69b23aa5"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/036_Elite_Training_School__Ch.1_.json",
+                      "size":  22580,
+                      "sha256":  "da1c40006bbc259f1206a15e0efee7569b54c96abbb21f1d717cacc4140a0fde",
+                      "blob":  "da1c40006bbc259f1206a15e0efee7569b54c96abbb21f1d717cacc4140a0fde"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/037_Hidden_Elf_Land__Ch.1_.json",
+                      "size":  6390,
+                      "sha256":  "3bf4bab5e8125df49c6fc034d8f1c033639e421a4f1b6c25a7d2e4bffab8d24d",
+                      "blob":  "3bf4bab5e8125df49c6fc034d8f1c033639e421a4f1b6c25a7d2e4bffab8d24d"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/038_Translation.json",
+                      "size":  1451,
+                      "sha256":  "f67832c297c9ab66b241d50ac9048185c65568143405bd6d625e48f9319927d1",
+                      "blob":  "f67832c297c9ab66b241d50ac9048185c65568143405bd6d625e48f9319927d1"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/039_Translation.json",
+                      "size":  2329,
+                      "sha256":  "ed5e0fd5021ad3d8692cc6aded4471c5c6a0e6d067b3bc2621f46cefef322c6b",
+                      "blob":  "ed5e0fd5021ad3d8692cc6aded4471c5c6a0e6d067b3bc2621f46cefef322c6b"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/040_Elite_Training_School__Ch.1_.json",
+                      "size":  11351,
+                      "sha256":  "26eeb2ea29e8776949776e67bc6a3a20010ff85eee577665ddfd194be2134703",
+                      "blob":  "26eeb2ea29e8776949776e67bc6a3a20010ff85eee577665ddfd194be2134703"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/041_Infernal_Dragon_Tower__A_.json",
+                      "size":  2002,
+                      "sha256":  "99f39ee585fc04fd7547ed6344db5db4b10b094c75dd0df381ec9b0cde465db7",
+                      "blob":  "99f39ee585fc04fd7547ed6344db5db4b10b094c75dd0df381ec9b0cde465db7"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/042_Infernal_Dragon_Tower___B_.json",
+                      "size":  2045,
+                      "sha256":  "165a368618106ee84bf6166791fc834848b3d59e54dcbc921c75f06abab16846",
+                      "blob":  "165a368618106ee84bf6166791fc834848b3d59e54dcbc921c75f06abab16846"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/043_Infernal_Dragon_Tower__C_.json",
+                      "size":  2038,
+                      "sha256":  "90f03ed91fabaeb207891a552d75d7bafa4f2b80f5ae500e1b3f3bcca3403d7f",
+                      "blob":  "90f03ed91fabaeb207891a552d75d7bafa4f2b80f5ae500e1b3f3bcca3403d7f"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Map/maps/044_Holiday_Event.json",
+                      "size":  11373,
+                      "sha256":  "b214b0f351909415f66a167ad268e85b4bf2acf095a71241ab5fa14c2c583ce2",
+                      "blob":  "b214b0f351909415f66a167ad268e85b4bf2acf095a71241ab5fa14c2c583ce2"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDCharacter/ndaction.json",
+                      "size":  9033,
+                      "sha256":  "30ce3d034c13c02e7dab5ded4b3941b0a4e016fa994361c3401ebebf2e1743cb",
+                      "blob":  "30ce3d034c13c02e7dab5ded4b3941b0a4e016fa994361c3401ebebf2e1743cb"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDCharacter/ndclass.json",
+                      "size":  134310,
+                      "sha256":  "7f087a32ee3516d2f9209576721e2586082acaf5c74afcfd9b26483b77cd9420",
+                      "blob":  "2d807632aea6b8f625c2c7c7e5715fd03ccf6adc2d65550ac98792f7bf4c01d4",
+                      "compression":  "gzip",
+                      "compressedSize":  26643
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDCharacter/ndgrade.json",
+                      "size":  4345,
+                      "sha256":  "cbfc06d82cbef88d99e76cd75d79a81e2dac4778e138d826d697d61ea7a15aea",
+                      "blob":  "cbfc06d82cbef88d99e76cd75d79a81e2dac4778e138d826d697d61ea7a15aea"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDCharacter/ndmonname.json",
+                      "size":  600236,
+                      "sha256":  "7f6d7f1bee5ee4949ea7be627a077bf48b8c4d1dc94741c1a15c905b0f5cce0d",
+                      "blob":  "caa347ad22e307e83c223e4ea96458a7f9ac32f006c1d6d043404c9f8f912191",
+                      "compression":  "gzip",
+                      "compressedSize":  57206
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/00_FaceItem.json",
+                      "size":  21055,
+                      "sha256":  "01eea35a7e7cc557d2a7b3d6821610f14d75c3f22b90dd0766a15d6e64b85867",
+                      "blob":  "01eea35a7e7cc557d2a7b3d6821610f14d75c3f22b90dd0766a15d6e64b85867"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/01_UpperItem.json",
+                      "size":  6299576,
+                      "sha256":  "e3ad9c09a166c067f10e3bc26ef3bcf5ca3b46e73fa845758958c0f2aa151362",
+                      "blob":  "be8e67961b270395b120f568525a9d8a90e58d2b3d4de9adb632c70e1b629696",
+                      "compression":  "gzip",
+                      "compressedSize":  227862
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/02_LowerItem.json",
+                      "size":  6412532,
+                      "sha256":  "645ac49c0277f97645c8e7192800d7a7d639036127152ce1284021b895d20c1c",
+                      "blob":  "340f7d6729aa306ca521bd777c283e7c6a111b1515b1553439b72f54120fadef",
+                      "compression":  "gzip",
+                      "compressedSize":  231106
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/03_GauntletItem.json",
+                      "size":  6302223,
+                      "sha256":  "2258e67ca1535ba72fc21cee10f06a9e68da43668d82a6b0149be6cce7163e7d",
+                      "blob":  "8dfe6950ea270116246ef39600e58bc9cf9d112d06f01391c54e902c9aacfef0",
+                      "compression":  "gzip",
+                      "compressedSize":  236282
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/04_ShoeItem.json",
+                      "size":  6260770,
+                      "sha256":  "defc3249d7e34834388fed2808ce05fc26fa499d3e7a696915d71c9938a79056",
+                      "blob":  "a8ca7d0f810c44e8dab7413d687670a08bcbe7871cfc11cfe1efd5fcce28d991",
+                      "compression":  "gzip",
+                      "compressedSize":  232276
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/05_HelmetItem.json",
+                      "size":  7095996,
+                      "sha256":  "0d1bf0fd46d8abe77cdd99078f2759aa7835fb55ebd7d892e95535d0fb29ae42",
+                      "blob":  "19b4b46ed05f55aae03605b9848c42861f4eb9c275acf78a4a888ce93f81f032",
+                      "compression":  "gzip",
+                      "compressedSize":  260434
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/06_WeaponItem.json",
+                      "size":  10048192,
+                      "sha256":  "7131d2a4f9b0531dfcc9d9b039c8f7844591ae7bb9dacfe8edd14b001aa12d71",
+                      "blob":  "d9da4f9b22277fe1c2a371e79c6510295f9e8f5e00dd62b1bc3ef0cbac706f37",
+                      "compression":  "gzip",
+                      "compressedSize":  462126
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/07_ShieldItem.json",
+                      "size":  1173130,
+                      "sha256":  "4aef787cfde59fddb91ff3bd908a4e81bfdce6b49e0c12ea24dc051cefc690cc",
+                      "blob":  "0115088a5005b012f3d532fabc87ce6e59adcbe1150b5ff8ff8821d9924f1919",
+                      "compression":  "gzip",
+                      "compressedSize":  65298
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/08_CloakItem.json",
+                      "size":  2174687,
+                      "sha256":  "2ed74a97066217f732d516e85b9cc0b6de786efec26a22bb3b55d7dcd9eb7f03",
+                      "blob":  "30fc8401ea1f41423b865ddaa1f24abc2027584c62c890580a590d972d4ae6de",
+                      "compression":  "gzip",
+                      "compressedSize":  86703
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/09_RingItem.json",
+                      "size":  1660241,
+                      "sha256":  "ae0734a01c2310939efdecf50185d9d722a1ce5d641a5f29ec18cc1dae23fcfe",
+                      "blob":  "4c3aed353ab00d12e9bed600a2eb53ca9fb39c3b4a0b3a36f120844434ecad74",
+                      "compression":  "gzip",
+                      "compressedSize":  78477
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/10_AmuletItem.json",
+                      "size":  1527096,
+                      "sha256":  "5d6ebf2790a285c7898a534260c5202204f8920037be3eaa192a6dee7e61e7af",
+                      "blob":  "0012345ab7ce4b458ae2321d759624095469a6778d1766f79fda2dfe4f7332c4",
+                      "compression":  "gzip",
+                      "compressedSize":  73827
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/11_BulletItem.json",
+                      "size":  598299,
+                      "sha256":  "77427d311766bcba8441163691504ebb1cec26d67f8cd2907c5e0b18cc322f41",
+                      "blob":  "6b0458fd420160d7ccc2d57d4bbb491e246047cdfa194e9bde26391d9d00be43",
+                      "compression":  "gzip",
+                      "compressedSize":  35479
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/12_MakeToolItem.json",
+                      "size":  6940,
+                      "sha256":  "ff98b81072e9941f2f56a92084355e5f7151702fe0977b7f8652780c3cc227d0",
+                      "blob":  "ff98b81072e9941f2f56a92084355e5f7151702fe0977b7f8652780c3cc227d0"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/13_PotionItem.json",
+                      "size":  600639,
+                      "sha256":  "05bc14c0931e1dbfd84bfc70bd107b5da3ffcee029a434de8c69ade57c732d11",
+                      "blob":  "c0dfaba0b24e0a398a1e76b7a8c0847a0fc84f7955e1a92b375e4efd6264016a",
+                      "compression":  "gzip",
+                      "compressedSize":  54745
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/14_BagItem.json",
+                      "size":  4729,
+                      "sha256":  "c5b8a8832645571b38c3fa93fe8cbd8f148ee08fe10d1adf79aca770bcab1e5a",
+                      "blob":  "c5b8a8832645571b38c3fa93fe8cbd8f148ee08fe10d1adf79aca770bcab1e5a"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/15_BatteryItem.json",
+                      "size":  6822,
+                      "sha256":  "9b033cb60df008405abb860444b2eac028da9cc9d9e5be6d2a2692f5cc101594",
+                      "blob":  "9b033cb60df008405abb860444b2eac028da9cc9d9e5be6d2a2692f5cc101594"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/16_OreItem.json",
+                      "size":  19760,
+                      "sha256":  "9efe004ff488175b5513cabb75009498e343e23353d8e6e24d0b8fb115655d0b",
+                      "blob":  "9efe004ff488175b5513cabb75009498e343e23353d8e6e24d0b8fb115655d0b"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/17_ResourceItem.json",
+                      "size":  628938,
+                      "sha256":  "7edc95951e456067e895ead8ea8a83a05fbdf2c873a556e59f5c0d34feebd258",
+                      "blob":  "ba953d79f1bc7e8b2dd8fc3b721a9d1c3e444f05a1ac02a4a6e571592aefabf6",
+                      "compression":  "gzip",
+                      "compressedSize":  47313
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/18_ForceItem.json",
+                      "size":  63712,
+                      "sha256":  "823907abe911afcd7cd603fee52fa90ba82c1f87b5016f97a4b6191d31f775f0",
+                      "blob":  "823907abe911afcd7cd603fee52fa90ba82c1f87b5016f97a4b6191d31f775f0"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/19_UnitKeyItem.json",
+                      "size":  4808,
+                      "sha256":  "4b124bb178a0865a07c105622aaff46b5156a998152bf3f167c2f2c9a075b394",
+                      "blob":  "4b124bb178a0865a07c105622aaff46b5156a998152bf3f167c2f2c9a075b394"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/20_BootyItem.json",
+                      "size":  13685133,
+                      "sha256":  "4123db17fe77b1d0e8fbfa0623edcb3c42fd76d34f3f3ef708d47759b4d57274",
+                      "blob":  "2acb9d1965e9ee9d7dc33c703561c169ba373f9c98ab38e5b554f50adefc6b5a",
+                      "compression":  "gzip",
+                      "compressedSize":  485987
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/21_MapItem.json",
+                      "size":  10608,
+                      "sha256":  "ba9925e43b328a83372faf7e2d2f8bd9dc978df1d9ccc09dbfc0e6c2752fa710",
+                      "blob":  "ba9925e43b328a83372faf7e2d2f8bd9dc978df1d9ccc09dbfc0e6c2752fa710"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/22_TownItem.json",
+                      "size":  302099,
+                      "sha256":  "f11e2e5c044071b8d4e6fdadc1b956001ca80fa6bf53b3e185c49d3991429e0b",
+                      "blob":  "be893c18e718bd15148eeafe5f96ad87d0084cbdf84500a136de6835137f163f",
+                      "compression":  "gzip",
+                      "compressedSize":  16802
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/23_BattleDungeonItem.json",
+                      "size":  42190,
+                      "sha256":  "5376a949cf86b22845fd46e90221f09e22b6b66b49004caec9e90e2b2d211704",
+                      "blob":  "5376a949cf86b22845fd46e90221f09e22b6b66b49004caec9e90e2b2d211704"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/24_AnimusItem.json",
+                      "size":  8031,
+                      "sha256":  "e7251084f7bedee2b754fd587b25fc6e8014b290ed2d1f07a31ce4455882317e",
+                      "blob":  "e7251084f7bedee2b754fd587b25fc6e8014b290ed2d1f07a31ce4455882317e"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/25_GuardTowerItem.json",
+                      "size":  54339,
+                      "sha256":  "de558a93fa28f5288a7500f74af007b32fb67af8a29ea906de1ceb0b89b5b709",
+                      "blob":  "de558a93fa28f5288a7500f74af007b32fb67af8a29ea906de1ceb0b89b5b709"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/26_TrapItem.json",
+                      "size":  33188,
+                      "sha256":  "6eb383bbe770a4af180a30f481511d25c8866ba5e1839cd7cf70f84793a6c845",
+                      "blob":  "6eb383bbe770a4af180a30f481511d25c8866ba5e1839cd7cf70f84793a6c845"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/27_SiegeKitItem.json",
+                      "size":  19254,
+                      "sha256":  "a6ee195bdabbae0e8929781ffce431a12a55dc7e69e50d21335f801e6fe1e396",
+                      "blob":  "a6ee195bdabbae0e8929781ffce431a12a55dc7e69e50d21335f801e6fe1e396"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/28_TicketItem.json",
+                      "size":  11733,
+                      "sha256":  "8905a19f52aa1eb5af6ca598b673b4a13e2aabccc08f99f04babb6bb3b32959b",
+                      "blob":  "8905a19f52aa1eb5af6ca598b673b4a13e2aabccc08f99f04babb6bb3b32959b"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/29_EventItem.json",
+                      "size":  846,
+                      "sha256":  "b5c70f31865720287698525d4bdb31f1661a19fc44460abce868a4a257718d7c",
+                      "blob":  "b5c70f31865720287698525d4bdb31f1661a19fc44460abce868a4a257718d7c"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/30_RecoveryItem.json",
+                      "size":  9658,
+                      "sha256":  "0a08e07416710c4336dd14c3a536b6f085b9cf1f4571c06a5f4c8c4f542cd4d7",
+                      "blob":  "0a08e07416710c4336dd14c3a536b6f085b9cf1f4571c06a5f4c8c4f542cd4d7"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/31_BoxItem.json",
+                      "size":  3022662,
+                      "sha256":  "9eb30b8502e3ca86a4fafbfc9730a594f31fcc73fe61b51ed7479a18fac72711",
+                      "blob":  "bf188873d3acc8840aa3814aa81bdb8a40fdf3432c866445e780273e92607a75",
+                      "compression":  "gzip",
+                      "compressedSize":  120277
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/32_Firecracker.json",
+                      "size":  5202,
+                      "sha256":  "4b25f786325ca0ad6f0f9eeb635114ccaf1df439a3bd74ae9777bf104ad1e513",
+                      "blob":  "4b25f786325ca0ad6f0f9eeb635114ccaf1df439a3bd74ae9777bf104ad1e513"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/33_Unmannedminer.json",
+                      "size":  191198,
+                      "sha256":  "c3c6c7d6af1a9d71dddb1d22f238ff446ac0bcc8aa94b8164c12cc74e8341118",
+                      "blob":  "b9bea01bc4a8a84a1d6e0608cadff2d36d2208bdf5d7b6eadf8e2faec5b0a7ca",
+                      "compression":  "gzip",
+                      "compressedSize":  7257
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/34_RadarItem.json",
+                      "size":  4326,
+                      "sha256":  "91165affbde51cfa011bc6ea46c0882b8d363c23f33f8b76115b6da553f9ab2b",
+                      "blob":  "91165affbde51cfa011bc6ea46c0882b8d363c23f33f8b76115b6da553f9ab2b"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/35_NPCLinkItem.json",
+                      "size":  566180,
+                      "sha256":  "98ff8d8f9a3ed55c35bac9bd60de2ea83c97e2c9934edae63c8bfa190091ea55",
+                      "blob":  "f6359aeda1dba28038aa796b6a03243bb632234b5216af61073daa2cc5829231",
+                      "compression":  "gzip",
+                      "compressedSize":  10751
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/36_CouponItem.json",
+                      "size":  22816,
+                      "sha256":  "6895c5d13d9f08042e22a14676a9da4606d4e83e6c850c2af458bc799726e417",
+                      "blob":  "6895c5d13d9f08042e22a14676a9da4606d4e83e6c850c2af458bc799726e417"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/37_UnitHead.json",
+                      "size":  36730,
+                      "sha256":  "ba038229c73b113266fd5672ebd59056ab1dd962ec6af453afa42e2f44ac7412",
+                      "blob":  "ba038229c73b113266fd5672ebd59056ab1dd962ec6af453afa42e2f44ac7412"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/38_UnitUpper.json",
+                      "size":  36796,
+                      "sha256":  "ed69b904dc27ce92a5e38a7337448653fd6871a828d65550bf1e5928c7e1e8a8",
+                      "blob":  "ed69b904dc27ce92a5e38a7337448653fd6871a828d65550bf1e5928c7e1e8a8"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/39_UnitLower.json",
+                      "size":  37504,
+                      "sha256":  "9712487de956f049f21c228c567a4f265183aae4e87f982c184de0b8f1f82744",
+                      "blob":  "9712487de956f049f21c228c567a4f265183aae4e87f982c184de0b8f1f82744"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/40_UnitArms.json",
+                      "size":  37991,
+                      "sha256":  "86eb5244f3ba5cc328799b35135e0e507d1239230b3af5134a254f51159f4962",
+                      "blob":  "86eb5244f3ba5cc328799b35135e0e507d1239230b3af5134a254f51159f4962"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/41_UnitShoulder.json",
+                      "size":  40614,
+                      "sha256":  "88f098bc48fa1c9f6baf5331dd066d280295641d67a2452be4c6ea6257fdfb34",
+                      "blob":  "88f098bc48fa1c9f6baf5331dd066d280295641d67a2452be4c6ea6257fdfb34"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/42_UnitBack.json",
+                      "size":  39229,
+                      "sha256":  "54a9b5bd97107c7262d279892bdf8946337b2f36f9846fc775b99ecceb85658d",
+                      "blob":  "54a9b5bd97107c7262d279892bdf8946337b2f36f9846fc775b99ecceb85658d"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/43_UnitBullet.json",
+                      "size":  19951,
+                      "sha256":  "0272b85a41f38a061251c6819e00c19bcf2d537873f3b8b6f3e5f7e4c9f9ee79",
+                      "blob":  "0272b85a41f38a061251c6819e00c19bcf2d537873f3b8b6f3e5f7e4c9f9ee79"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/46_MountItem.json",
+                      "size":  198556,
+                      "sha256":  "1b1fa58f9681b0d1fc506bd8631298c3c96f9be1acd762adc12a4821202ad4ce",
+                      "blob":  "8e92150a87522345620e8aca9ad93c5382dd9312701e4fc787f43c8576637712",
+                      "compression":  "gzip",
+                      "compressedSize":  4888
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDItem/47_RideKeyItem.json",
+                      "size":  1180964,
+                      "sha256":  "914a4204bde699cd13e6a26131218339ec655769fe1516ca4d6dfdfcd223e60e",
+                      "blob":  "183f1157ebd3e0a4e65b5ba86eafd242caf7279e86b56c12363f880a7e7fc28f",
+                      "compression":  "gzip",
+                      "compressedSize":  62977
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDSkillForce/ndbullet.json",
+                      "size":  25255,
+                      "sha256":  "355e6a48daaf0e8b75dd16f51da91f1c744f226ed2895794a8cd3a4d61b62c43",
+                      "blob":  "355e6a48daaf0e8b75dd16f51da91f1c744f226ed2895794a8cd3a4d61b62c43"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDSkillForce/ndclassskill.json",
+                      "size":  241186,
+                      "sha256":  "081180460d721d5dec8580a55cf1100359aff247bc02db137637b927633b226c",
+                      "blob":  "ad6b6746ba55aedda11512179bd90e89e50676ef4e9b46850f0e75ec3963baa0",
+                      "compression":  "gzip",
+                      "compressedSize":  26055
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDSkillForce/ndforce.json",
+                      "size":  60656,
+                      "sha256":  "5c24e4d6e840448dae8aba029dd3062072855b466e21b37f93f6d3b26e095c74",
+                      "blob":  "5c24e4d6e840448dae8aba029dd3062072855b466e21b37f93f6d3b26e095c74"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDSkillForce/ndpotion.json",
+                      "size":  953470,
+                      "sha256":  "4b89ffffdd718e54f19a921a86d812e59aab2299247cba9c78ccd3f918c706e9",
+                      "blob":  "176019f4bba030a16ccd8dc1db4e6ad2efff7a4c5cf4d51bdd94ba507deac8a9",
+                      "compression":  "gzip",
+                      "compressedSize":  43544
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDSkillForce/ndskill.json",
+                      "size":  61171,
+                      "sha256":  "336784eba8e0307bea152ec02e9ce0556bac63b80dd9332d07c660319d75e75f",
+                      "blob":  "336784eba8e0307bea152ec02e9ce0556bac63b80dd9332d07c660319d75e75f"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/NDStore/ndstore.json",
+                      "size":  2053006,
+                      "sha256":  "d2c6ccdc025fa9658370a8b18cf5a2a953493c7f3b53b44ad58fd469d5d67334",
+                      "blob":  "e31be484fa198de13c3507aef6e149cb7dd24a55d8c907e3d54954814f103429",
+                      "compression":  "gzip",
+                      "compressedSize":  90624
+                  },
+                  {
+                      "path":  "RFClient/DataTable/PlayerCharacter.edf",
+                      "size":  657,
+                      "sha256":  "9ca80da04e1f350caf0cbd2bd108e1466121609b418ce4866affa05127474245",
+                      "blob":  "9ca80da04e1f350caf0cbd2bd108e1466121609b418ce4866affa05127474245"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/Runtime/ItemVisualCatalog.json",
+                      "size":  2013822,
+                      "sha256":  "731dad5ae4a2414495ee4610d9f5d724234b9bbe557599c89bb927f8225d8de1",
+                      "blob":  "96f9bdfd79d6cff3ad737ffe31e48823cf4d17f4ecddfe0dad40cdf70d1671cd",
+                      "compression":  "gzip",
+                      "compressedSize":  116544
+                  }
+              ],
+    "deleted":  [
+                    "RFClient/DataTable/en-gb/NDCharacter.edf",
+                    "RFClient/DataTable/en-gb/NDItem.edf",
+                    "RFClient/DataTable/en-id/ndcharacter.edf",
+                    "RFClient/DataTable/en-id/nditem.edf",
+                    "RFClient/DataTable/en-ph/ndcharacter.edf",
+                    "RFClient/DataTable/en-ph/nditem.edf",
+                    "RFClient/DataTable/Generated/animus_import_results.json",
+                    "RFClient/DataTable/Generated/audio_asset_import_results.json",
+                    "RFClient/DataTable/Generated/audio_import_results.json",
+                    "RFClient/DataTable/Generated/audio_source_manifest.json",
+                    "RFClient/DataTable/Generated/ItemVisualCatalog.json",
+                    "RFClient/DataTable/Generated/map_audio_hints.json",
+                    "RFClient/DataTable/item.edf",
+                    "RFClient/DataTable/MapJson/index.json",
+                    "RFClient/DataTable/MapJson/maps/000_Bellato_HQ.json",
+                    "RFClient/DataTable/MapJson/maps/001_Cora_HQ.json",
+                    "RFClient/DataTable/MapJson/maps/002_Crag_Mine_Field.json",
+                    "RFClient/DataTable/MapJson/maps/003_Accretia_HQ.json",
+                    "RFClient/DataTable/MapJson/maps/004_Solus.json",
+                    "RFClient/DataTable/MapJson/maps/005_Anacaade.json",
+                    "RFClient/DataTable/MapJson/maps/006_Haram.json",
+                    "RFClient/DataTable/MapJson/maps/007_Numerus.json",
+                    "RFClient/DataTable/MapJson/maps/008_Armory_213.json",
+                    "RFClient/DataTable/MapJson/maps/009_Armory_117.json",
+                    "RFClient/DataTable/MapJson/maps/010_Ether__Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/011_Sette_Desert__Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/012_Volcanic_Cauldron_Area__Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/013_Elan_Plateau__Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/014_Battle_Dungeon.json",
+                    "RFClient/DataTable/MapJson/maps/015_Cartella_Ship.json",
+                    "RFClient/DataTable/MapJson/maps/016_Darkhole.json",
+                    "RFClient/DataTable/MapJson/maps/017_Accretia_Guildroom_SD.json",
+                    "RFClient/DataTable/MapJson/maps/018_Bellato_Guildroom_SD.json",
+                    "RFClient/DataTable/MapJson/maps/019_Cora_Guildroom_SD.json",
+                    "RFClient/DataTable/MapJson/maps/020_Accretia_Guildroom_SP.json",
+                    "RFClient/DataTable/MapJson/maps/021_Bellato_Guildroom_SP.json",
+                    "RFClient/DataTable/MapJson/maps/022_Cora_Guildroom_SP.json",
+                    "RFClient/DataTable/MapJson/maps/023_Hora_Darkhole.json",
+                    "RFClient/DataTable/MapJson/maps/024_Outcast_Land__Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/025_Beast_Mountain__Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/026_Cartella_Bio_Lab__Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/027_Cora.json",
+                    "RFClient/DataTable/MapJson/maps/028_Chaos_Hole.json",
+                    "RFClient/DataTable/MapJson/maps/029_Cartella_Bio_Lab_2F__Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/030_Instant_Dungeon.json",
+                    "RFClient/DataTable/MapJson/maps/031_Destroyed_Novazan_Fortress__Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/032_Jetso_Island_Bellato___Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/033_Jetso_Island_Cora___Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/034_Jetso_Island_Accretia___Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/035_Caravan_s_Time_and_Space__Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/036_Elite_Training_School__Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/037_Hidden_Elf_Land__Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/038_Translation.json",
+                    "RFClient/DataTable/MapJson/maps/039_Translation.json",
+                    "RFClient/DataTable/MapJson/maps/040_Elite_Training_School__Ch.1_.json",
+                    "RFClient/DataTable/MapJson/maps/041_Infernal_Dragon_Tower__A_.json",
+                    "RFClient/DataTable/MapJson/maps/042_Infernal_Dragon_Tower___B_.json",
+                    "RFClient/DataTable/MapJson/maps/043_Infernal_Dragon_Tower__C_.json",
+                    "RFClient/DataTable/MapJson/maps/044_Holiday_Event.json",
+                    "RFClient/DataTable/pt-br/ndcharacter.edf",
+                    "RFClient/DataTable/pt-br/nditem.edf",
+                    "RFClient/DataTable/Resource.edf",
+                    "RFClient/DataTable/ru-ru/ndcharacter.edf",
+                    "RFClient/DataTable/ru-ru/nditem.edf"
+                ]
+}

@@ -1,0 +1,35 @@
+{
+    "schemaVersion":  2,
+    "product":  "RFClient",
+    "type":  "patch",
+    "signaturesRequired":  false,
+    "fromVersion":  "1.0.0.132",
+    "toVersion":  "1.0.0.133",
+    "files":  [
+                  {
+                      "path":  "Manifest_NonUFSFiles_Win64.txt",
+                      "size":  32814,
+                      "sha256":  "19bea42af7011f8eec870f3c36c8772e11bcabf7b8a9e6f8a048e83e47736ab0",
+                      "blob":  "19bea42af7011f8eec870f3c36c8772e11bcabf7b8a9e6f8a048e83e47736ab0"
+                  },
+                  {
+                      "path":  "Manifest_UFSFiles_Win64.txt",
+                      "size":  38502733,
+                      "sha256":  "9158850110c93c3b91d65d49820b2d273f74f3e8b9d2ce518dc6f2e0e643ddba",
+                      "blob":  "4b365244272d97becad672371f99178dd7c489887c6ebe0b63c8d4cb0dfb5272",
+                      "compression":  "gzip",
+                      "compressedSize":  2154907
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/RFClient-Win64-Shipping.exe",
+                      "size":  172628480,
+                      "sha256":  "af87f04bba480ae96b69af71a8c04cdcc1d55b21a16181e20a44de6cfa8669b8",
+                      "blob":  "31b9a8641b8301fb28da98c7230f3801094d9e6878e8504f37ee3af997463752",
+                      "compression":  "gzip",
+                      "compressedSize":  69053803
+                  }
+              ],
+    "deleted":  [
+
+                ]
+}

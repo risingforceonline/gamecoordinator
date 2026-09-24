@@ -1,0 +1,239 @@
+{
+    "schemaVersion":  2,
+    "product":  "RFClient",
+    "type":  "patch",
+    "signaturesRequired":  false,
+    "fromVersion":  "1.0.0.133",
+    "toVersion":  "1.0.0.134",
+    "files":  [
+                  {
+                      "path":  "Manifest_NonUFSFiles_Win64.txt",
+                      "size":  32814,
+                      "sha256":  "3a61a120cb99433468406608f74ff7846bc7eb876a5a6379a0c74baf3cfa6c6d",
+                      "blob":  "3a61a120cb99433468406608f74ff7846bc7eb876a5a6379a0c74baf3cfa6c6d"
+                  },
+                  {
+                      "path":  "Manifest_UFSFiles_Win64.txt",
+                      "size":  38502733,
+                      "sha256":  "f8db025ef60e99d2ab6286a874c68db1f05192fd94e5cae6ad502a9b31cb1296",
+                      "blob":  "d37b087bf3244e9cd0ebe5792a072b265068809c11b6e49a38caafe07a14a1df",
+                      "compression":  "gzip",
+                      "compressedSize":  2153664
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/RFClient-Win64-Shipping.exe",
+                      "size":  172632576,
+                      "sha256":  "c84ba9566cea17d841f2efb294c468a9c00cc058223569668614845348d7923d",
+                      "blob":  "73429fee0c01d5a0427727bcd8385f03f8e90ba3754e04338da04237b5c8cc7a",
+                      "compression":  "gzip",
+                      "compressedSize":  69058760
+                  },
+                  {
+                      "Count":  4,
+                      "IsReadOnly":  false,
+                      "Keys":  [
+                                   "path",
+                                   "size",
+                                   "sha256",
+                                   "blob"
+                               ],
+                      "Values":  [
+                                     "RFClient/Content/Paks/pakchunk0-Windows.pak",
+                                     15011001,
+                                     "d93b5540a7d17fece702e4ad88d77f538ed274bbe912a5cbe054dacaed08e8a0",
+                                     "d93b5540a7d17fece702e4ad88d77f538ed274bbe912a5cbe054dacaed08e8a0"
+                                 ],
+                      "IsFixedSize":  false,
+                      "SyncRoot":  {
+
+                                   },
+                      "IsSynchronized":  false,
+                      "transfer":  "blockdelta",
+                      "baseSha256":  "44c174d5e65e8fc28a706b5810e323adfeabcd62053c536e0f727e890a6df117",
+                      "blockSize":  1048576,
+                      "blocks":  [
+                                     {
+                                         "offset":  10485760,
+                                         "size":  1048576,
+                                         "sha256":  "efc7fb068b42b88c43bbf8c103bb28202c7c406bc039e2e7c3572b9b613f92a9",
+                                         "blob":  "efc7fb068b42b88c43bbf8c103bb28202c7c406bc039e2e7c3572b9b613f92a9"
+                                     },
+                                     {
+                                         "offset":  12582912,
+                                         "size":  1048576,
+                                         "sha256":  "53a628e6915526978548be3d3e533fb7c6e1e05f0c99c1b46a03b257e9b6739d",
+                                         "blob":  "53a628e6915526978548be3d3e533fb7c6e1e05f0c99c1b46a03b257e9b6739d"
+                                     },
+                                     {
+                                         "offset":  13631488,
+                                         "size":  1048576,
+                                         "sha256":  "9eb7b99b4e32ebfe2278677f2f967f7bcfbd53a17c9bf2b5fc3108dbd3bda436",
+                                         "blob":  "9eb7b99b4e32ebfe2278677f2f967f7bcfbd53a17c9bf2b5fc3108dbd3bda436"
+                                     },
+                                     {
+                                         "offset":  14680064,
+                                         "size":  330937,
+                                         "sha256":  "2ae248dbfbcd36b484b2cb27a1832d726bc64332b1842239e18ef98beba34dee",
+                                         "blob":  "2ae248dbfbcd36b484b2cb27a1832d726bc64332b1842239e18ef98beba34dee"
+                                     }
+                                 ]
+                  },
+                  {
+                      "Count":  4,
+                      "IsReadOnly":  false,
+                      "Keys":  [
+                                   "path",
+                                   "size",
+                                   "sha256",
+                                   "blob"
+                               ],
+                      "Values":  [
+                                     "RFClient/Content/Paks/pakchunk1_s118-Windows.ucas",
+                                     18709808,
+                                     "b28544c04c964712e2ad76e74248069191239f2b68b67164810bc5b4fab954bd",
+                                     "b28544c04c964712e2ad76e74248069191239f2b68b67164810bc5b4fab954bd"
+                                 ],
+                      "IsFixedSize":  false,
+                      "SyncRoot":  {
+
+                                   },
+                      "IsSynchronized":  false,
+                      "transfer":  "blockdelta",
+                      "baseSha256":  "7401703799db3690e11f0a25e939fb7efe8294d3f1b7cbab021c090aa6ac2bc8",
+                      "blockSize":  1048576,
+                      "blocks":  [
+                                     {
+                                         "offset":  0,
+                                         "size":  1048576,
+                                         "sha256":  "6caf9c4816836ec2e750ec976d12ad5ed7aa935ce59626984bb1b65715a6b3db",
+                                         "blob":  "6caf9c4816836ec2e750ec976d12ad5ed7aa935ce59626984bb1b65715a6b3db"
+                                     },
+                                     {
+                                         "offset":  1048576,
+                                         "size":  1048576,
+                                         "sha256":  "dadff0fc7d54e1b45a6a60ab48b2c915f66a8c7b499729d582a4ce81f1cc27d2",
+                                         "blob":  "dadff0fc7d54e1b45a6a60ab48b2c915f66a8c7b499729d582a4ce81f1cc27d2"
+                                     }
+                                 ]
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/pakchunk1_s118-Windows.utoc",
+                      "size":  92392,
+                      "sha256":  "78842b3b085abe06c05ea483c64b9fe49dff2b28abe5553748cc9a492fc292f1",
+                      "blob":  "78842b3b085abe06c05ea483c64b9fe49dff2b28abe5553748cc9a492fc292f1"
+                  },
+                  {
+                      "Count":  4,
+                      "IsReadOnly":  false,
+                      "Keys":  [
+                                   "path",
+                                   "size",
+                                   "sha256",
+                                   "blob"
+                               ],
+                      "Values":  [
+                                     "RFClient/Content/Paks/pakchunk1_s119-Windows.ucas",
+                                     16849616,
+                                     "91e1af77466b4affe65b8593533b7563f83edd71f86ec81c7d2a52d3e91a7068",
+                                     "91e1af77466b4affe65b8593533b7563f83edd71f86ec81c7d2a52d3e91a7068"
+                                 ],
+                      "IsFixedSize":  false,
+                      "SyncRoot":  {
+
+                                   },
+                      "IsSynchronized":  false,
+                      "transfer":  "blockdelta",
+                      "baseSha256":  "bc4b40944d92b6499921c1e890a756a6e00c0c39502e90d1b9d92916c96793b3",
+                      "blockSize":  1048576,
+                      "blocks":  [
+                                     {
+                                         "offset":  4194304,
+                                         "size":  1048576,
+                                         "sha256":  "dc6177981b8098621208437f60bda404c9b7939add34a4d13746e1f82921d760",
+                                         "blob":  "dc6177981b8098621208437f60bda404c9b7939add34a4d13746e1f82921d760"
+                                     },
+                                     {
+                                         "offset":  5242880,
+                                         "size":  1048576,
+                                         "sha256":  "b441600cc0fc34af976d0bc4ca64b89628632a9afdf631b41708ed849f054ae7",
+                                         "blob":  "b441600cc0fc34af976d0bc4ca64b89628632a9afdf631b41708ed849f054ae7"
+                                     },
+                                     {
+                                         "offset":  6291456,
+                                         "size":  1048576,
+                                         "sha256":  "a3d828cc20123dcd7c825fc0e40cb46c79927501aed6007bc977184c3aba20a1",
+                                         "blob":  "a3d828cc20123dcd7c825fc0e40cb46c79927501aed6007bc977184c3aba20a1"
+                                     },
+                                     {
+                                         "offset":  7340032,
+                                         "size":  1048576,
+                                         "sha256":  "14525f465b67cfeb1bae91c27abfcdc8cd7403e6c0d3d7ee587f708f5bd72753",
+                                         "blob":  "14525f465b67cfeb1bae91c27abfcdc8cd7403e6c0d3d7ee587f708f5bd72753"
+                                     },
+                                     {
+                                         "offset":  8388608,
+                                         "size":  1048576,
+                                         "sha256":  "e7626cb7e0370816100ebe849997fbf638b72cfa8859d861c4c9a2ed0a9703cb",
+                                         "blob":  "e7626cb7e0370816100ebe849997fbf638b72cfa8859d861c4c9a2ed0a9703cb"
+                                     },
+                                     {
+                                         "offset":  9437184,
+                                         "size":  1048576,
+                                         "sha256":  "62888e12af77d3a6a89a5e3c0e54e9eb3df8add43101cfbaaf13bcd276a5154c",
+                                         "blob":  "62888e12af77d3a6a89a5e3c0e54e9eb3df8add43101cfbaaf13bcd276a5154c"
+                                     },
+                                     {
+                                         "offset":  10485760,
+                                         "size":  1048576,
+                                         "sha256":  "4276d8f2397762a65800a554b85bb9499396b11ebc6c4f18e0683b2f1cc3928e",
+                                         "blob":  "4276d8f2397762a65800a554b85bb9499396b11ebc6c4f18e0683b2f1cc3928e"
+                                     },
+                                     {
+                                         "offset":  11534336,
+                                         "size":  1048576,
+                                         "sha256":  "b9c3b92e2d476c8db1fe617891ed380c4e5dd47ac40733ed33fc6fb79e647b6c",
+                                         "blob":  "b9c3b92e2d476c8db1fe617891ed380c4e5dd47ac40733ed33fc6fb79e647b6c"
+                                     },
+                                     {
+                                         "offset":  12582912,
+                                         "size":  1048576,
+                                         "sha256":  "3f4cfa0a6bf6faabe9a27f7836031fe6639c13c14963ccffb211d58df65e2f52",
+                                         "blob":  "3f4cfa0a6bf6faabe9a27f7836031fe6639c13c14963ccffb211d58df65e2f52"
+                                     },
+                                     {
+                                         "offset":  13631488,
+                                         "size":  1048576,
+                                         "sha256":  "4932a520e850b1174c67a2c43305fda3470cb5514c4d6362e7dbda38ca2fa3ba",
+                                         "blob":  "4932a520e850b1174c67a2c43305fda3470cb5514c4d6362e7dbda38ca2fa3ba"
+                                     },
+                                     {
+                                         "offset":  14680064,
+                                         "size":  1048576,
+                                         "sha256":  "d958765171eaa435a5d071d025d5069f976ff9c27e4e66e2d67ffdbf8886f2ce",
+                                         "blob":  "d958765171eaa435a5d071d025d5069f976ff9c27e4e66e2d67ffdbf8886f2ce"
+                                     },
+                                     {
+                                         "offset":  15728640,
+                                         "size":  1048576,
+                                         "sha256":  "dfef858d9bafebc181fb655bee755fb602ea71d53b4bc9c22798048ace835476",
+                                         "blob":  "dfef858d9bafebc181fb655bee755fb602ea71d53b4bc9c22798048ace835476"
+                                     },
+                                     {
+                                         "offset":  16777216,
+                                         "size":  72400,
+                                         "sha256":  "f2a2b4b0a448515f828844535791b52573f2c6f5802f2bad8b98432e38d9d63c",
+                                         "blob":  "f2a2b4b0a448515f828844535791b52573f2c6f5802f2bad8b98432e38d9d63c"
+                                     }
+                                 ]
+                  },
+                  {
+                      "path":  "RFClient/Content/Paks/pakchunk1_s119-Windows.utoc",
+                      "size":  104575,
+                      "sha256":  "24ed084c03e5036ec255ea5a5eaced7486e508813a31f4531bffc0e394e32c17",
+                      "blob":  "24ed084c03e5036ec255ea5a5eaced7486e508813a31f4531bffc0e394e32c17"
+                  }
+              ],
+    "deleted":  [
+
+                ]
+}
