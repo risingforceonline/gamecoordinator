@@ -1,0 +1,44 @@
+{
+    "schemaVersion":  2,
+    "product":  "RFClient",
+    "type":  "patch",
+    "signaturesRequired":  false,
+    "fromVersion":  "1.0.0.136",
+    "toVersion":  "1.0.0.137",
+    "files":  [
+                  {
+                      "path":  "Manifest_NonUFSFiles_Win64.txt",
+                      "size":  41963,
+                      "sha256":  "14dbc2b318708b3039ceddb363eacb88e7c8eb4e3cdf47a5f81f5aaa693cd0ff",
+                      "blob":  "14dbc2b318708b3039ceddb363eacb88e7c8eb4e3cdf47a5f81f5aaa693cd0ff"
+                  },
+                  {
+                      "path":  "Manifest_UFSFiles_Win64.txt",
+                      "size":  43574230,
+                      "sha256":  "01d683fab271431db10e3f2e93631844eb1de9dc7a8dc858162c1da308dd7857",
+                      "blob":  "6c3df791b53f9579ab959351df25edf1c949d04a8ce643ed2f224a7c3741edfe",
+                      "compression":  "gzip",
+                      "compressedSize":  2398160
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/RFClient-Win64-Shipping.exe",
+                      "size":  173470208,
+                      "sha256":  "d7e0492b2ff228d335cf9ce733948df6e6067c0bc1a7b50c8debadd11cf18c3b",
+                      "blob":  "694ac4a91d08e7c65a8cb96c09257e5f475ad93146407579587870e95aa54870",
+                      "compression":  "gzip",
+                      "compressedSize":  69457648
+                  },
+                  {
+                      "path":  "RFClient/DataTable/translations.json",
+                      "size":  2946947,
+                      "sha256":  "1413bb05a993ddb5f8f2bf20a5c6af9d769136edfc8ac6573baf332f9d830b1f",
+                      "blob":  "89ce8f669087401ecdebc130f248c8375b5e1cce405bb9d21c41d6b9b62e8ae8",
+                      "compression":  "gzip",
+                      "compressedSize":  768826
+                  }
+              ],
+    "deleted":  [
+                    "Engine/Extras/Redist/en-us/vc_redist.arm64.exe",
+                    "Engine/Extras/Redist/en-us/vc_redist.x64.exe"
+                ]
+}
