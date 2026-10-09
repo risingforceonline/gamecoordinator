@@ -1,22 +1,22 @@
 {
     "schemaVersion":  1,
     "product":  "RFClient",
-    "version":  "1.0.0.138",
+    "version":  "1.0.0.139",
     "signaturesRequired":  false,
     "contentEncryption":  false,
-    "releaseUrl":  "http://cdn.x2game.net/SREngine/releases/1.0.0.138/",
-    "manifestUrl":  "http://cdn.x2game.net/SREngine/manifests/1.0.0.138.json",
+    "releaseUrl":  "http://cdn.x2game.net/SREngine/releases/1.0.0.139/",
+    "manifestUrl":  "http://cdn.x2game.net/SREngine/manifests/1.0.0.139.json",
     "blobBaseUrl":  "http://cdn.x2game.net/SREngine/blobs/",
     "launcher":  {
-                     "version":  "1.0.0.138",
-                     "size":  9689600,
-                     "sha256":  "f68da69eec35310e4659b5638b81e99fcdf28bd3f64bd6a846d6895ee0e91967",
-                     "blob":  "8aba6de38da06c60ffc3462bf1deb6287d407f9f2b5d4f2b51f9a11b681872f5",
-                     "url":  "http://cdn.x2game.net/SREngine/blobs/8aba6de38da06c60ffc3462bf1deb6287d407f9f2b5d4f2b51f9a11b681872f5",
+                     "version":  "1.0.0.139",
+                     "size":  9691136,
+                     "sha256":  "60ab56dfbec0bbd90ec30f080689936a906f593d9bda81e0d6d218a5cec3fdca",
+                     "blob":  "fe89a96ced0d29af30ae2f1fd3e03019685e14aabb3bde2f08ce9eec5e4cee7f",
+                     "url":  "http://cdn.x2game.net/SREngine/blobs/fe89a96ced0d29af30ae2f1fd3e03019685e14aabb3bde2f08ce9eec5e4cee7f",
                      "compression":  "gzip",
-                     "compressedSize":  3702945
+                     "compressedSize":  3703786
                  },
-    "launcherUrl":  "http://cdn.x2game.net/SREngine/blobs/8aba6de38da06c60ffc3462bf1deb6287d407f9f2b5d4f2b51f9a11b681872f5",
+    "launcherUrl":  "http://cdn.x2game.net/SREngine/blobs/fe89a96ced0d29af30ae2f1fd3e03019685e14aabb3bde2f08ce9eec5e4cee7f",
     "patches":  [
                     {
                         "fromVersion":  "1.0.0.136",
@@ -27,6 +27,11 @@
                         "fromVersion":  "1.0.0.137",
                         "toVersion":  "1.0.0.138",
                         "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.137_to_1.0.0.138/"
+                    },
+                    {
+                        "fromVersion":  "1.0.0.138",
+                        "toVersion":  "1.0.0.139",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.138_to_1.0.0.139/"
                     }
                 ]
 }

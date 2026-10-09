@@ -1,0 +1,103 @@
+{
+    "schemaVersion":  2,
+    "product":  "RFClient",
+    "type":  "patch",
+    "signaturesRequired":  false,
+    "fromVersion":  "1.0.0.138",
+    "toVersion":  "1.0.0.139",
+    "files":  [
+                  {
+                      "path":  "Manifest_NonUFSFiles_Win64.txt",
+                      "size":  42631,
+                      "sha256":  "29c14bcfcad6a22b78c0b70b4bf0edc0c48f0cb947c3ef48747608ac4238a8eb",
+                      "blob":  "29c14bcfcad6a22b78c0b70b4bf0edc0c48f0cb947c3ef48747608ac4238a8eb"
+                  },
+                  {
+                      "path":  "Manifest_UFSFiles_Win64.txt",
+                      "size":  43612855,
+                      "sha256":  "900a16c308722d6ce07f6cb8233e206eaf2a72caf4e903af3345464f4314af33",
+                      "blob":  "5e8ef4284f9260bbb33d556a268707fbb1952e0c9c11d76674595a417dd41ec5",
+                      "compression":  "gzip",
+                      "compressedSize":  2375199
+                  },
+                  {
+                      "path":  "RFClient/Binaries/Win64/RFClient-Win64-Shipping.exe",
+                      "size":  173592576,
+                      "sha256":  "4bac241e50ac030f45e5a7daaac2072fef4df8af36019e82359e42a4df9518b7",
+                      "blob":  "fd0abbb930dd67fa52dc4b52fac5479442faade1e36d852014d755b6cb08cb1c",
+                      "compression":  "gzip",
+                      "compressedSize":  69508267
+                  },
+                  {
+                      "path":  "RFClient/Content/UI/HudIcons/CashShop.svg",
+                      "size":  292,
+                      "sha256":  "6eb28ad12d3bffa2c7ed6d47d2795d3c6e68ad8b6b79c674bf1259cc8bd79d1d",
+                      "blob":  "6eb28ad12d3bffa2c7ed6d47d2795d3c6e68ad8b6b79c674bf1259cc8bd79d1d"
+                  },
+                  {
+                      "path":  "RFClient/Content/UI/HudIcons/Collection.svg",
+                      "size":  379,
+                      "sha256":  "d97d30f13eb4f2a0b9185fc58bd977f1918e058e75951b9dedd15038a7993c7e",
+                      "blob":  "d97d30f13eb4f2a0b9185fc58bd977f1918e058e75951b9dedd15038a7993c7e"
+                  },
+                  {
+                      "path":  "RFClient/Content/UI/HudIcons/Force.svg",
+                      "size":  286,
+                      "sha256":  "34105de8c3f4314552d5423760d0ea1bc28ad99130a7be1ddb3df6f9a0981bd3",
+                      "blob":  "34105de8c3f4314552d5423760d0ea1bc28ad99130a7be1ddb3df6f9a0981bd3"
+                  },
+                  {
+                      "path":  "RFClient/Content/UI/HudIcons/HudLayout.svg",
+                      "size":  338,
+                      "sha256":  "0873820116ec1191c538b2ca248fd4fca0e1f6ad128e65738a597e784b700d88",
+                      "blob":  "0873820116ec1191c538b2ca248fd4fca0e1f6ad128e65738a597e784b700d88"
+                  },
+                  {
+                      "path":  "RFClient/Content/UI/HudIcons/Map.svg",
+                      "size":  369,
+                      "sha256":  "159e727268167aa228e9e226b3b9d259d4a667489381baeb5096ee4afe9560c0",
+                      "blob":  "159e727268167aa228e9e226b3b9d259d4a667489381baeb5096ee4afe9560c0"
+                  },
+                  {
+                      "path":  "RFClient/Content/UI/HudIcons/Messenger.svg",
+                      "size":  270,
+                      "sha256":  "7f33912bd63075b644864b0aaf4852403e205fd60e5c77379159f49cb79ab5b8",
+                      "blob":  "7f33912bd63075b644864b0aaf4852403e205fd60e5c77379159f49cb79ab5b8"
+                  },
+                  {
+                      "path":  "RFClient/Content/UI/HudIcons/Party.svg",
+                      "size":  461,
+                      "sha256":  "c645b3de2b364f6271355dee10d14a8e32e02aa697c5a8a7ebcd0acfa3238bc5",
+                      "blob":  "c645b3de2b364f6271355dee10d14a8e32e02aa697c5a8a7ebcd0acfa3238bc5"
+                  },
+                  {
+                      "path":  "RFClient/Content/UI/HudIcons/Quest.svg",
+                      "size":  353,
+                      "sha256":  "345ff9c1f706497d22ffd068f34415486d131ae5c590ad9dccf14f914213efe7",
+                      "blob":  "345ff9c1f706497d22ffd068f34415486d131ae5c590ad9dccf14f914213efe7"
+                  },
+                  {
+                      "path":  "RFClient/Content/UI/HudIcons/RaceInfo.svg",
+                      "size":  312,
+                      "sha256":  "b8a03e8f17ecbc88469f06549beba6fbd4aa0ccc9f4cdf1795ae425dc4b8ef1f",
+                      "blob":  "b8a03e8f17ecbc88469f06549beba6fbd4aa0ccc9f4cdf1795ae425dc4b8ef1f"
+                  },
+                  {
+                      "path":  "RFClient/Content/UI/HudIcons/Skills.svg",
+                      "size":  307,
+                      "sha256":  "9e3ed8df96cf79b0ba9edee101578d919812052bcfc704f4de207353f7b595b8",
+                      "blob":  "9e3ed8df96cf79b0ba9edee101578d919812052bcfc704f4de207353f7b595b8"
+                  },
+                  {
+                      "path":  "RFClient/DataTable/translations.json",
+                      "size":  2950805,
+                      "sha256":  "63955c1cee072972e13794b4d7113e543ce96040179636e48f957cabbe327522",
+                      "blob":  "1e753d1b1132dd00f3d966fc195c7a2994f1f9ca625284e4bae38e3f84f6085a",
+                      "compression":  "gzip",
+                      "compressedSize":  769628
+                  }
+              ],
+    "deleted":  [
+
+                ]
+}
