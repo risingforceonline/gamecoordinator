@@ -1,14 +1,14 @@
 {
     "schemaVersion":  1,
     "product":  "RFClient",
-    "version":  "1.0.0.139",
+    "version":  "1.0.0.140",
     "signaturesRequired":  false,
     "contentEncryption":  false,
-    "releaseUrl":  "http://cdn.x2game.net/SREngine/releases/1.0.0.139/",
-    "manifestUrl":  "http://cdn.x2game.net/SREngine/manifests/1.0.0.139.json",
+    "releaseUrl":  "http://cdn.x2game.net/SREngine/releases/1.0.0.140/",
+    "manifestUrl":  "http://cdn.x2game.net/SREngine/manifests/1.0.0.140.json",
     "blobBaseUrl":  "http://cdn.x2game.net/SREngine/blobs/",
     "launcher":  {
-                     "version":  "1.0.0.139",
+                     "version":  "1.0.0.140",
                      "size":  9691136,
                      "sha256":  "60ab56dfbec0bbd90ec30f080689936a906f593d9bda81e0d6d218a5cec3fdca",
                      "blob":  "fe89a96ced0d29af30ae2f1fd3e03019685e14aabb3bde2f08ce9eec5e4cee7f",
@@ -32,6 +32,11 @@
                         "fromVersion":  "1.0.0.138",
                         "toVersion":  "1.0.0.139",
                         "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.138_to_1.0.0.139/"
+                    },
+                    {
+                        "fromVersion":  "1.0.0.139",
+                        "toVersion":  "1.0.0.140",
+                        "url":  "http://cdn.x2game.net/SREngine/patches/1.0.0.139_to_1.0.0.140/"
                     }
                 ]
 }

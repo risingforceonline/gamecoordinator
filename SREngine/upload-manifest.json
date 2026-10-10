@@ -1,95 +1,135 @@
 {
     "schemaVersion":  1,
     "product":  "RFClient",
-    "version":  "1.0.0.139",
+    "version":  "1.0.0.140",
     "mode":  "Patch",
-    "baseVersion":  "1.0.0.138",
+    "baseVersion":  "1.0.0.139",
     "uploadRoot":  "http://cdn.x2game.net/SREngine",
     "files":  [
                   {
-                      "path":  "blobs/0873820116ec1191c538b2ca248fd4fca0e1f6ad128e65738a597e784b700d88",
-                      "size":  338,
-                      "sha256":  "0873820116ec1191c538b2ca248fd4fca0e1f6ad128e65738a597e784b700d88"
+                      "path":  "blobs/06c08a05755c1c8d313a202d3df279d16a9a5028ae7de758e44fce4de6da3560",
+                      "size":  794,
+                      "sha256":  "06c08a05755c1c8d313a202d3df279d16a9a5028ae7de758e44fce4de6da3560"
                   },
                   {
-                      "path":  "blobs/159e727268167aa228e9e226b3b9d259d4a667489381baeb5096ee4afe9560c0",
-                      "size":  369,
-                      "sha256":  "159e727268167aa228e9e226b3b9d259d4a667489381baeb5096ee4afe9560c0"
+                      "path":  "blobs/2632c9ce5efb4f5dc3563fd0693d5b28b660b8812f1622c3ecad6b72e43b4e40",
+                      "size":  28110256,
+                      "sha256":  "2632c9ce5efb4f5dc3563fd0693d5b28b660b8812f1622c3ecad6b72e43b4e40"
                   },
                   {
-                      "path":  "blobs/1e753d1b1132dd00f3d966fc195c7a2994f1f9ca625284e4bae38e3f84f6085a",
-                      "size":  769628,
-                      "sha256":  "1e753d1b1132dd00f3d966fc195c7a2994f1f9ca625284e4bae38e3f84f6085a"
+                      "path":  "blobs/334406ec6c3f8f0dde35f7f1438cc55abad8849e4996c2f5918938d85bd7cd02",
+                      "size":  8423,
+                      "sha256":  "334406ec6c3f8f0dde35f7f1438cc55abad8849e4996c2f5918938d85bd7cd02"
                   },
                   {
-                      "path":  "blobs/29c14bcfcad6a22b78c0b70b4bf0edc0c48f0cb947c3ef48747608ac4238a8eb",
+                      "path":  "blobs/3465063904f89838dc25959602ed581acab92ded142cf808ded9d2b39d7c246a",
+                      "size":  747243,
+                      "sha256":  "3465063904f89838dc25959602ed581acab92ded142cf808ded9d2b39d7c246a"
+                  },
+                  {
+                      "path":  "blobs/38647606667907b3a629ad4d91d0fe72a999c73471801b14c398e43e52af9642",
+                      "size":  2397150,
+                      "sha256":  "38647606667907b3a629ad4d91d0fe72a999c73471801b14c398e43e52af9642"
+                  },
+                  {
+                      "path":  "blobs/468ec1c4c47242eb76a9623c65626dafe5a65495aa9534466b3437439bb1fa33",
                       "size":  42631,
-                      "sha256":  "29c14bcfcad6a22b78c0b70b4bf0edc0c48f0cb947c3ef48747608ac4238a8eb"
+                      "sha256":  "468ec1c4c47242eb76a9623c65626dafe5a65495aa9534466b3437439bb1fa33"
                   },
                   {
-                      "path":  "blobs/34105de8c3f4314552d5423760d0ea1bc28ad99130a7be1ddb3df6f9a0981bd3",
-                      "size":  286,
-                      "sha256":  "34105de8c3f4314552d5423760d0ea1bc28ad99130a7be1ddb3df6f9a0981bd3"
+                      "path":  "blobs/679a09e8f259ebc46de29644c1be496fd342f46567d178a86e95f4db635024df",
+                      "size":  42670,
+                      "sha256":  "679a09e8f259ebc46de29644c1be496fd342f46567d178a86e95f4db635024df"
                   },
                   {
-                      "path":  "blobs/345ff9c1f706497d22ffd068f34415486d131ae5c590ad9dccf14f914213efe7",
-                      "size":  353,
-                      "sha256":  "345ff9c1f706497d22ffd068f34415486d131ae5c590ad9dccf14f914213efe7"
+                      "path":  "blobs/72ff297d880b154973270a0e736a1a0014df05634b743034c70248eebac1947d",
+                      "size":  934544,
+                      "sha256":  "72ff297d880b154973270a0e736a1a0014df05634b743034c70248eebac1947d"
                   },
                   {
-                      "path":  "blobs/5e8ef4284f9260bbb33d556a268707fbb1952e0c9c11d76674595a417dd41ec5",
-                      "size":  2375199,
-                      "sha256":  "5e8ef4284f9260bbb33d556a268707fbb1952e0c9c11d76674595a417dd41ec5"
+                      "path":  "blobs/77683af47bfe27d5e01e243efbc525c1cafaee109e0de665f2481097704b2646",
+                      "size":  1048576,
+                      "sha256":  "77683af47bfe27d5e01e243efbc525c1cafaee109e0de665f2481097704b2646"
                   },
                   {
-                      "path":  "blobs/6eb28ad12d3bffa2c7ed6d47d2795d3c6e68ad8b6b79c674bf1259cc8bd79d1d",
-                      "size":  292,
-                      "sha256":  "6eb28ad12d3bffa2c7ed6d47d2795d3c6e68ad8b6b79c674bf1259cc8bd79d1d"
+                      "path":  "blobs/81cc7d74a3d697b0681c22c96d35a40e7ae21ec803dbf9a3ca173f6c437c735f",
+                      "size":  22086496,
+                      "sha256":  "81cc7d74a3d697b0681c22c96d35a40e7ae21ec803dbf9a3ca173f6c437c735f"
                   },
                   {
-                      "path":  "blobs/7f33912bd63075b644864b0aaf4852403e205fd60e5c77379159f49cb79ab5b8",
-                      "size":  270,
-                      "sha256":  "7f33912bd63075b644864b0aaf4852403e205fd60e5c77379159f49cb79ab5b8"
+                      "path":  "blobs/b07ad5911b0b4e62298a7e2bf527907595b33c64948152d1d44c3daab68d303a",
+                      "size":  46161,
+                      "sha256":  "b07ad5911b0b4e62298a7e2bf527907595b33c64948152d1d44c3daab68d303a"
                   },
                   {
-                      "path":  "blobs/9e3ed8df96cf79b0ba9edee101578d919812052bcfc704f4de207353f7b595b8",
-                      "size":  307,
-                      "sha256":  "9e3ed8df96cf79b0ba9edee101578d919812052bcfc704f4de207353f7b595b8"
+                      "path":  "blobs/b5ba4583eb0a273b6d79e8d303c40b97b62dfb1352d5f55bc068cc8b3442f9b6",
+                      "size":  3261680,
+                      "sha256":  "b5ba4583eb0a273b6d79e8d303c40b97b62dfb1352d5f55bc068cc8b3442f9b6"
                   },
                   {
-                      "path":  "blobs/b8a03e8f17ecbc88469f06549beba6fbd4aa0ccc9f4cdf1795ae425dc4b8ef1f",
-                      "size":  312,
-                      "sha256":  "b8a03e8f17ecbc88469f06549beba6fbd4aa0ccc9f4cdf1795ae425dc4b8ef1f"
+                      "path":  "blobs/bb73b94cffbe98db7ddf9b3ac1db927c7b706d414d7e70432c834433dca58ff0",
+                      "size":  69775352,
+                      "sha256":  "bb73b94cffbe98db7ddf9b3ac1db927c7b706d414d7e70432c834433dca58ff0"
                   },
                   {
-                      "path":  "blobs/c645b3de2b364f6271355dee10d14a8e32e02aa697c5a8a7ebcd0acfa3238bc5",
-                      "size":  461,
-                      "sha256":  "c645b3de2b364f6271355dee10d14a8e32e02aa697c5a8a7ebcd0acfa3238bc5"
+                      "path":  "blobs/bdf4e120a4744fd08f35e5c35541cfbc1cedcbb42517c1185cbee18e85f4b5b9",
+                      "size":  20827696,
+                      "sha256":  "bdf4e120a4744fd08f35e5c35541cfbc1cedcbb42517c1185cbee18e85f4b5b9"
                   },
                   {
-                      "path":  "blobs/d97d30f13eb4f2a0b9185fc58bd977f1918e058e75951b9dedd15038a7993c7e",
-                      "size":  379,
-                      "sha256":  "d97d30f13eb4f2a0b9185fc58bd977f1918e058e75951b9dedd15038a7993c7e"
+                      "path":  "blobs/c19ead7a3eceeca9616ce64025ae445f783bb173c4a7dfc9e24d69f72b383212",
+                      "size":  1048576,
+                      "sha256":  "c19ead7a3eceeca9616ce64025ae445f783bb173c4a7dfc9e24d69f72b383212"
                   },
                   {
-                      "path":  "blobs/fd0abbb930dd67fa52dc4b52fac5479442faade1e36d852014d755b6cb08cb1c",
-                      "size":  69508267,
-                      "sha256":  "fd0abbb930dd67fa52dc4b52fac5479442faade1e36d852014d755b6cb08cb1c"
+                      "path":  "blobs/c43320e41236f2f591157b801846ec2bd14fe779181f7c6283fe887ddc345693",
+                      "size":  49885,
+                      "sha256":  "c43320e41236f2f591157b801846ec2bd14fe779181f7c6283fe887ddc345693"
                   },
                   {
-                      "path":  "blobs/fe89a96ced0d29af30ae2f1fd3e03019685e14aabb3bde2f08ce9eec5e4cee7f",
-                      "size":  3703786,
-                      "sha256":  "fe89a96ced0d29af30ae2f1fd3e03019685e14aabb3bde2f08ce9eec5e4cee7f"
+                      "path":  "blobs/c4e65a0da4120e756883a09758c51c20f9c690f878799efe340d00bda34e21a3",
+                      "size":  1048576,
+                      "sha256":  "c4e65a0da4120e756883a09758c51c20f9c690f878799efe340d00bda34e21a3"
+                  },
+                  {
+                      "path":  "blobs/cfca33e1657c509cad3bf5df69d2cd66f2a069a4f9420d2edd913fab78f606ce",
+                      "size":  1048576,
+                      "sha256":  "cfca33e1657c509cad3bf5df69d2cd66f2a069a4f9420d2edd913fab78f606ce"
+                  },
+                  {
+                      "path":  "blobs/d7df9848fb9a418bbcf8d549bd9010282b47da1b9058bd19824b8e1d585f2a01",
+                      "size":  25019,
+                      "sha256":  "d7df9848fb9a418bbcf8d549bd9010282b47da1b9058bd19824b8e1d585f2a01"
+                  },
+                  {
+                      "path":  "blobs/ee473ee068b9a7d91d7d4c9c2b9293d9a23e32f0a53ac1e4e13d26c8dc4492af",
+                      "size":  21085744,
+                      "sha256":  "ee473ee068b9a7d91d7d4c9c2b9293d9a23e32f0a53ac1e4e13d26c8dc4492af"
+                  },
+                  {
+                      "path":  "blobs/f5262ef960bf27de65778c007777689f70d1753bc6be8e054e151d47d2b92685",
+                      "size":  149756,
+                      "sha256":  "f5262ef960bf27de65778c007777689f70d1753bc6be8e054e151d47d2b92685"
+                  },
+                  {
+                      "path":  "blobs/f9310f0f8b34da54859365309bde6e6e8bbd54ab406f90c7be8455c3dc73f8bb",
+                      "size":  1048576,
+                      "sha256":  "f9310f0f8b34da54859365309bde6e6e8bbd54ab406f90c7be8455c3dc73f8bb"
+                  },
+                  {
+                      "path":  "blobs/fb38bd1980ce6a70a2ad2f6562031832ab57d32fe39c40aafb517c4f18f21fad",
+                      "size":  780063,
+                      "sha256":  "fb38bd1980ce6a70a2ad2f6562031832ab57d32fe39c40aafb517c4f18f21fad"
                   },
                   {
                       "path":  "latest.json",
-                      "size":  1850,
-                      "sha256":  "5d224f85034c2bae37258f1e4b93861c12428d09cd654ab003207d4ec6e20fce"
+                      "size":  2101,
+                      "sha256":  "7d1f5740a880e474fe2d9ee2a112b548bf93ae5497728bf44ac8081b5c77c8ee"
                   },
                   {
-                      "path":  "manifests/1.0.0.139.json",
+                      "path":  "manifests/1.0.0.140.json",
                       "size":  622389,
-                      "sha256":  "7377a39db8c40a4181be8410f4e5c571d53184273a17cdcd3be769018f378a69"
+                      "sha256":  "8b9712271589de28f6db065a55fba83326ceba6d7ba4dcb1d8145773a07f4395"
                   },
                   {
                       "path":  "patches/1.0.0.136_to_1.0.0.137/patch.json",
@@ -120,6 +160,16 @@
                       "path":  "patches/1.0.0.138_to_1.0.0.139/release-manifest.json",
                       "size":  622389,
                       "sha256":  "7377a39db8c40a4181be8410f4e5c571d53184273a17cdcd3be769018f378a69"
+                  },
+                  {
+                      "path":  "patches/1.0.0.139_to_1.0.0.140/patch.json",
+                      "size":  10740,
+                      "sha256":  "a23ac6a1e6a8f59eaae27d0bc4a53cfcf0294d560914bbc17ed9ac789b171fc7"
+                  },
+                  {
+                      "path":  "patches/1.0.0.139_to_1.0.0.140/release-manifest.json",
+                      "size":  622389,
+                      "sha256":  "8b9712271589de28f6db065a55fba83326ceba6d7ba4dcb1d8145773a07f4395"
                   }
               ]
 }
