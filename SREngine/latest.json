@@ -1,47 +1,47 @@
 {
-    "schemaVersion":  1,
-    "product":  "RFClient",
-    "version":  "1.0.0.143",
-    "signaturesRequired":  true,
-    "contentEncryption":  true,
-    "contentProtection":  {
-                              "mode":  "Maximum",
-                              "gateKeyRequired":  true,
-                              "keyId":  "8F2F4D5B0E3D4B0C9B421B7D2D9D6A11",
-                              "keyVersion":  1,
-                              "protectedChunkId":  1,
-                              "bootstrapPackageCount":  744,
-                              "bootstrapListSha256":  "d4b757f9dfc0ddb0b65d830133481c6abeb173b068775f361b867ec3c9d85de3",
-                              "restoredUnicodeChunkPaths":  10,
-                              "signedContainers":  384,
-                              "encryptedContainers":  373,
-                              "noKeyExtractionRejected":  true,
-                              "verifiedGameplayChunks":  191724,
-                              "publicLooseFileCount":  499
-                          },
-    "releaseUrl":  "https://cdn.x2game.net/SREngine/releases/1.0.0.143/",
-    "manifestUrl":  "https://cdn.x2game.net/SREngine/manifests/1.0.0.143.json",
-    "blobBaseUrl":  "https://cdn.x2game.net/SREngine/blobs/",
-    "launcher":  {
-                     "version":  "1.0.0.143",
-                     "size":  9692672,
-                     "sha256":  "1d768408d8dbe9009edff7e67ec66cd649c88e0cef05875b74c1904ca7d0b06c",
-                     "blob":  "ee049c845c224b2e12cf50d8262d4415d2e57bdd2c76fb2b9246d29ef72c66cc",
-                     "url":  "https://cdn.x2game.net/SREngine/blobs/ee049c845c224b2e12cf50d8262d4415d2e57bdd2c76fb2b9246d29ef72c66cc",
-                     "compression":  "gzip",
-                     "compressedSize":  3705220
-                 },
-    "launcherUrl":  "https://cdn.x2game.net/SREngine/blobs/ee049c845c224b2e12cf50d8262d4415d2e57bdd2c76fb2b9246d29ef72c66cc",
-    "patches":  [
-                    {
-                        "fromVersion":  "1.0.0.141",
-                        "toVersion":  "1.0.0.142",
-                        "url":  "https://cdn.x2game.net/SREngine/patches/1.0.0.141_to_1.0.0.142/"
-                    },
-                    {
-                        "fromVersion":  "1.0.0.142",
-                        "toVersion":  "1.0.0.143",
-                        "url":  "https://cdn.x2game.net/SREngine/patches/1.0.0.142_to_1.0.0.143/"
-                    }
-                ]
+    "schemaVersion": 1,
+    "product": "RFClient",
+    "version": "1.0.0.143",
+    "signaturesRequired": true,
+    "contentEncryption": true,
+    "contentProtection": {
+        "mode": "Maximum",
+        "gateKeyRequired": true,
+        "keyId": "8F2F4D5B0E3D4B0C9B421B7D2D9D6A11",
+        "keyVersion": 1,
+        "protectedChunkId": 1,
+        "bootstrapPackageCount": 744,
+        "bootstrapListSha256": "d4b757f9dfc0ddb0b65d830133481c6abeb173b068775f361b867ec3c9d85de3",
+        "restoredUnicodeChunkPaths": 10,
+        "signedContainers": 384,
+        "encryptedContainers": 373,
+        "noKeyExtractionRejected": true,
+        "verifiedGameplayChunks": 191724,
+        "publicLooseFileCount": 499
+    },
+    "releaseUrl": "https://cdn.x2game.net/SREngine/releases/1.0.0.143/",
+    "manifestUrl": "https://cdn.x2game.net/SREngine/manifests/1.0.0.143.json",
+    "blobBaseUrl": "https://cdn.x2game.net/SREngine/blobs/",
+    "launcher": {
+        "version": "1.0.0.143",
+        "size": 9697280,
+        "sha256": "2bd12bb92b76ce3f83b1ea5335ddc9021a42bd9b69e8d3196a57bc5f23549156",
+        "blob": "456a4dc80d19b1417349e5d0111f105e0716ce9a522a7c3a731312f7ef2874bf",
+        "url": "https://cdn.x2game.net/SREngine/blobs/456a4dc80d19b1417349e5d0111f105e0716ce9a522a7c3a731312f7ef2874bf",
+        "compression": "gzip",
+        "compressedSize": 3684591
+    },
+    "launcherUrl": "https://cdn.x2game.net/SREngine/blobs/456a4dc80d19b1417349e5d0111f105e0716ce9a522a7c3a731312f7ef2874bf",
+    "patches": [
+        {
+            "fromVersion": "1.0.0.141",
+            "toVersion": "1.0.0.142",
+            "url": "https://cdn.x2game.net/SREngine/patches/1.0.0.141_to_1.0.0.142/"
+        },
+        {
+            "fromVersion": "1.0.0.142",
+            "toVersion": "1.0.0.143",
+            "url": "https://cdn.x2game.net/SREngine/patches/1.0.0.142_to_1.0.0.143/"
+        }
+    ]
 }
