@@ -1,115 +1,135 @@
 {
-    "schemaVersion": 1,
-    "product": "RFClient",
-    "version": "1.0.0.143",
-    "mode": "Patch",
-    "baseVersion": "1.0.0.142",
-    "uploadRoot": "https://cdn.x2game.net/SREngine",
-    "files": [
-        {
-            "path": ".gitattributes",
-            "size": 81,
-            "sha256": "ad5d5981a1bd19916f0d3b5875a43ea49540f40f7d0eed60646c4fa65bc79aa5"
-        },
-        {
-            "path": "blobs/153d0026868edeb51216e4ad912b8a6c86f1802864b05c3eba1f9af9c94839ce",
-            "size": 1216,
-            "sha256": "153d0026868edeb51216e4ad912b8a6c86f1802864b05c3eba1f9af9c94839ce"
-        },
-        {
-            "path": "blobs/3dff844359934ad2d1e6feb0614bc6062ae9e04cad01f92fcbe25c8cd492581e",
-            "size": 797582,
-            "sha256": "3dff844359934ad2d1e6feb0614bc6062ae9e04cad01f92fcbe25c8cd492581e"
-        },
-        {
-            "path": "blobs/456a4dc80d19b1417349e5d0111f105e0716ce9a522a7c3a731312f7ef2874bf",
-            "size": 3684591,
-            "sha256": "456a4dc80d19b1417349e5d0111f105e0716ce9a522a7c3a731312f7ef2874bf"
-        },
-        {
-            "path": "blobs/70673203f16595265b265330fd0e394bb799021b78a0c31af02592bf6199b118",
-            "size": 771983,
-            "sha256": "70673203f16595265b265330fd0e394bb799021b78a0c31af02592bf6199b118"
-        },
-        {
-            "path": "blobs/7cc7540fe45683a22bbea521102d7630c7218503f34fbdf4f970f48b6931f41d",
-            "size": 1048576,
-            "sha256": "7cc7540fe45683a22bbea521102d7630c7218503f34fbdf4f970f48b6931f41d"
-        },
-        {
-            "path": "blobs/c02fc0e98de2511a7c02383ac530934d91505df4d027ccad10b84dd19aa02b68",
-            "size": 2480789,
-            "sha256": "c02fc0e98de2511a7c02383ac530934d91505df4d027ccad10b84dd19aa02b68"
-        },
-        {
-            "path": "blobs/eb83214e7d974177e1c3ff942a61ed6815e53544fea39d22845ffe2d22214d98",
-            "size": 70348261,
-            "sha256": "eb83214e7d974177e1c3ff942a61ed6815e53544fea39d22845ffe2d22214d98"
-        },
-        {
-            "path": "blobs/fbad2666dccd16d36e2042a1745db34622c00e0c0d18a8e61c63748d5756c81b",
-            "size": 42832,
-            "sha256": "fbad2666dccd16d36e2042a1745db34622c00e0c0d18a8e61c63748d5756c81b"
-        },
-        {
-            "path": "latest.json",
-            "size": 1881,
-            "sha256": "b884476a120e49f4607ef155a3ea0d730ff689557a151be91a908a1f9e945af1"
-        },
-        {
-            "path": "latest.json.sig",
-            "size": 384,
-            "sha256": "75b6390efb7f0982eb44675e924ed13ae3281a640a0a150f9a0e44a09ab21dbc"
-        },
-        {
-            "path": "manifests/1.0.0.143.json",
-            "size": 767792,
-            "sha256": "36b2f4aca1dfbbeda25b1331ee081bac9307d7e3e7e9b0d996a3a70ad08d3353"
-        },
-        {
-            "path": "manifests/1.0.0.143.json.sig",
-            "size": 384,
-            "sha256": "a9101f87c9e51d11838ab8cc0ffadadc78ae920d5afb3e75ef58e83896c6c39f"
-        },
-        {
-            "path": "patches/1.0.0.141_to_1.0.0.142/patch.json",
-            "size": 600491,
-            "sha256": "d7b85affa18bd4508f0f0bd6e076e70c54e7d0a5293dca6bf86271ee7b3a8d48"
-        },
-        {
-            "path": "patches/1.0.0.141_to_1.0.0.142/patch.json.sig",
-            "size": 384,
-            "sha256": "9cf11ca969705dc64b1b59dc2f1bed1266065b1b15dc5737c2eca8cd612bd876"
-        },
-        {
-            "path": "patches/1.0.0.141_to_1.0.0.142/release-manifest.json",
-            "size": 767792,
-            "sha256": "336889563ec90b8aab097933d3e70eabd653cb15bebc9a9929d28f5c7230d338"
-        },
-        {
-            "path": "patches/1.0.0.141_to_1.0.0.142/release-manifest.json.sig",
-            "size": 384,
-            "sha256": "cefed84bfb0d7d03298dd9306d74741b8b725a3645bf15797173fe8a4eb713d1"
-        },
-        {
-            "path": "patches/1.0.0.142_to_1.0.0.143/patch.json",
-            "size": 3865,
-            "sha256": "af1e8a41aad7f0eafd5afb7770780bb1cc8876c5334783093b16011a3df4a138"
-        },
-        {
-            "path": "patches/1.0.0.142_to_1.0.0.143/patch.json.sig",
-            "size": 384,
-            "sha256": "3669defb0685f2ff929abfd06a2e8aa23fac64e1a148d80b62eda43cf48dbd69"
-        },
-        {
-            "path": "patches/1.0.0.142_to_1.0.0.143/release-manifest.json",
-            "size": 767792,
-            "sha256": "36b2f4aca1dfbbeda25b1331ee081bac9307d7e3e7e9b0d996a3a70ad08d3353"
-        },
-        {
-            "path": "patches/1.0.0.142_to_1.0.0.143/release-manifest.json.sig",
-            "size": 384,
-            "sha256": "a9101f87c9e51d11838ab8cc0ffadadc78ae920d5afb3e75ef58e83896c6c39f"
-        }
-    ]
+    "schemaVersion":  1,
+    "product":  "RFClient",
+    "version":  "1.0.0.144",
+    "mode":  "Patch",
+    "baseVersion":  "1.0.0.143",
+    "uploadRoot":  "https://cdn.x2game.net/SREngine",
+    "files":  [
+                  {
+                      "path":  ".gitattributes",
+                      "size":  81,
+                      "sha256":  "ad5d5981a1bd19916f0d3b5875a43ea49540f40f7d0eed60646c4fa65bc79aa5"
+                  },
+                  {
+                      "path":  "blobs/203462e7b93af855374450fa3619b60b3f5cfa1cd2836ca9d7d922e3dcc7c042",
+                      "size":  2310,
+                      "sha256":  "203462e7b93af855374450fa3619b60b3f5cfa1cd2836ca9d7d922e3dcc7c042"
+                  },
+                  {
+                      "path":  "blobs/2808fa0039ea05bbda456f1183d7de614114df38970758833a6875ffc01e7a83",
+                      "size":  2393186,
+                      "sha256":  "2808fa0039ea05bbda456f1183d7de614114df38970758833a6875ffc01e7a83"
+                  },
+                  {
+                      "path":  "blobs/4d064e91ea797f9277404efc8a26815dc829cb67909e6b91d1a514f27ce10730",
+                      "size":  3263680,
+                      "sha256":  "4d064e91ea797f9277404efc8a26815dc829cb67909e6b91d1a514f27ce10730"
+                  },
+                  {
+                      "path":  "blobs/7e2fdb4dd6ea1b0502a007eccdac5ca295b82f352e0b07fce8d93428aca65a68",
+                      "size":  1048576,
+                      "sha256":  "7e2fdb4dd6ea1b0502a007eccdac5ca295b82f352e0b07fce8d93428aca65a68"
+                  },
+                  {
+                      "path":  "blobs/8a18fab1bcc3a55f4b6aeedf8d61a90a4faef845bc73ce13801da2a289db69d6",
+                      "size":  70353173,
+                      "sha256":  "8a18fab1bcc3a55f4b6aeedf8d61a90a4faef845bc73ce13801da2a289db69d6"
+                  },
+                  {
+                      "path":  "blobs/9f8aa05e332678980217aa385d9a66ef141412744aaf3ff72433cc419f13614e",
+                      "size":  48439,
+                      "sha256":  "9f8aa05e332678980217aa385d9a66ef141412744aaf3ff72433cc419f13614e"
+                  },
+                  {
+                      "path":  "blobs/b49141601784fe9af6d6b48f4bd4a3b1e9ddae6ee886c58092122cc7c03a2868",
+                      "size":  42832,
+                      "sha256":  "b49141601784fe9af6d6b48f4bd4a3b1e9ddae6ee886c58092122cc7c03a2868"
+                  },
+                  {
+                      "path":  "blobs/f480f00570208ace6910aea1e3d62112f66e12cc729e01248c2a17a891dd43ab",
+                      "size":  3706416,
+                      "sha256":  "f480f00570208ace6910aea1e3d62112f66e12cc729e01248c2a17a891dd43ab"
+                  },
+                  {
+                      "path":  "latest.json",
+                      "size":  2710,
+                      "sha256":  "6c2cb4594dfb30d10a0d5d230d94ebf4471bfb55b0187e19fc09604fcf30dc72"
+                  },
+                  {
+                      "path":  "latest.json.sig",
+                      "size":  384,
+                      "sha256":  "e68842519131fea4859666bcc84d37e0c5f7a54bcc681c20d182648cb33d1086"
+                  },
+                  {
+                      "path":  "manifests/1.0.0.144.json",
+                      "size":  755251,
+                      "sha256":  "351e05586277b1457504c9d0459cda79131fe87e22fd408935e029506eaffb7e"
+                  },
+                  {
+                      "path":  "manifests/1.0.0.144.json.sig",
+                      "size":  384,
+                      "sha256":  "dae0c41888d24222efb9d246cd56dc655e31eca7b3b9bc91a062baed13ea3d4e"
+                  },
+                  {
+                      "path":  "patches/1.0.0.141_to_1.0.0.142/patch.json",
+                      "size":  600491,
+                      "sha256":  "d7b85affa18bd4508f0f0bd6e076e70c54e7d0a5293dca6bf86271ee7b3a8d48"
+                  },
+                  {
+                      "path":  "patches/1.0.0.141_to_1.0.0.142/patch.json.sig",
+                      "size":  384,
+                      "sha256":  "9cf11ca969705dc64b1b59dc2f1bed1266065b1b15dc5737c2eca8cd612bd876"
+                  },
+                  {
+                      "path":  "patches/1.0.0.141_to_1.0.0.142/release-manifest.json",
+                      "size":  767792,
+                      "sha256":  "336889563ec90b8aab097933d3e70eabd653cb15bebc9a9929d28f5c7230d338"
+                  },
+                  {
+                      "path":  "patches/1.0.0.141_to_1.0.0.142/release-manifest.json.sig",
+                      "size":  384,
+                      "sha256":  "cefed84bfb0d7d03298dd9306d74741b8b725a3645bf15797173fe8a4eb713d1"
+                  },
+                  {
+                      "path":  "patches/1.0.0.142_to_1.0.0.143/patch.json",
+                      "size":  3865,
+                      "sha256":  "af1e8a41aad7f0eafd5afb7770780bb1cc8876c5334783093b16011a3df4a138"
+                  },
+                  {
+                      "path":  "patches/1.0.0.142_to_1.0.0.143/patch.json.sig",
+                      "size":  384,
+                      "sha256":  "3669defb0685f2ff929abfd06a2e8aa23fac64e1a148d80b62eda43cf48dbd69"
+                  },
+                  {
+                      "path":  "patches/1.0.0.142_to_1.0.0.143/release-manifest.json",
+                      "size":  767792,
+                      "sha256":  "36b2f4aca1dfbbeda25b1331ee081bac9307d7e3e7e9b0d996a3a70ad08d3353"
+                  },
+                  {
+                      "path":  "patches/1.0.0.142_to_1.0.0.143/release-manifest.json.sig",
+                      "size":  384,
+                      "sha256":  "a9101f87c9e51d11838ab8cc0ffadadc78ae920d5afb3e75ef58e83896c6c39f"
+                  },
+                  {
+                      "path":  "patches/1.0.0.143_to_1.0.0.144/patch.json",
+                      "size":  3614,
+                      "sha256":  "ca27387f06198bb5b48beb26f57b75e54b185478b40ef7faf2ed02a20a2b6d4b"
+                  },
+                  {
+                      "path":  "patches/1.0.0.143_to_1.0.0.144/patch.json.sig",
+                      "size":  384,
+                      "sha256":  "6b104437b6e1595c5c2e2adefd158e1f75084dd5da66a7edc102775733907d91"
+                  },
+                  {
+                      "path":  "patches/1.0.0.143_to_1.0.0.144/release-manifest.json",
+                      "size":  755251,
+                      "sha256":  "351e05586277b1457504c9d0459cda79131fe87e22fd408935e029506eaffb7e"
+                  },
+                  {
+                      "path":  "patches/1.0.0.143_to_1.0.0.144/release-manifest.json.sig",
+                      "size":  384,
+                      "sha256":  "dae0c41888d24222efb9d246cd56dc655e31eca7b3b9bc91a062baed13ea3d4e"
+                  }
+              ]
 }
