@@ -1,0 +1,2 @@
+# Preserve signatures and content-addressed payloads byte-for-byte.
+* -text
